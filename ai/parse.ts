@@ -2,12 +2,19 @@
 // sets. Pure and environment-agnostic — used by the web engine and by the Node
 // eval alike.
 import type { PokemonSet } from '../src/types'
+import { toId } from './validate'
+import speciesTypes from './pokemonTypes.json'
 
+const TYPES = speciesTypes as Record<string, string[]>
 const EV_KEYS = new Set(['hp', 'atk', 'def', 'spa', 'spd', 'spe'])
 
-// A block starts at a line containing " @ " (the item).
-// ponytail: dex-based species detection (and real `types`) lands with the data
-// step; here every mon gets types: [] and the card falls back to a neutral color.
+// species -> types, falling back to the base form for megas ("Mawile-Mega" -> Mawile)
+const typesOf = (species: string): string[] =>
+  TYPES[toId(species)] ?? TYPES[toId(species.split('-Mega')[0])] ?? []
+
+// A block starts at a line containing " @ " (the item). Types come from the slim
+// pokemonTypes map so cards get their colors.
+// ponytail: dex-based species *detection* still lands with the browser data step.
 export function parsePaste(text: string): PokemonSet[] {
   const mons: PokemonSet[] = []
   let mon: PokemonSet | null = null
@@ -20,7 +27,7 @@ export function parsePaste(text: string): PokemonSet[] {
       // nickname form "Nickname (Species)" -> Species, else the head is species.
       const head = rawHead.replace(/\s*\((?:M|F)\)\s*$/, '').trim()
       const species = head.match(/\(([^)]+)\)/)?.[1] ?? head
-      mon = { species, item: item.trim(), ability: '', level: null, nature: '', evs: {}, moves: [], types: [] }
+      mon = { species, item: item.trim(), ability: '', level: null, nature: '', evs: {}, moves: [], types: typesOf(species) }
       mons.push(mon)
     } else if (!mon) {
       continue

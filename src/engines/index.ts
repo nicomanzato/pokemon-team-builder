@@ -1,6 +1,7 @@
 import type { Engine } from '../types'
 import { generateTeam as mockGenerate } from '../mock/generate'
 import { generateTeam as localGenerate } from './local'
+import { generateTeam as localFtGenerate } from './localFt'
 
 // The engine registry. Adding a backend = adding an entry here.
 export const ENGINES: Engine[] = [
@@ -17,6 +18,13 @@ export const ENGINES: Engine[] = [
     description: 'The naked qwen2.5:1.5b over local Ollama, no RAG. Needs Ollama running.',
     available: true,
     generateTeam: localGenerate,
+  },
+  {
+    id: 'local-ft',
+    label: 'Local (fine-tuned)',
+    description: 'The LoRA fine-tuned 1.5B via mlx_lm server. Format baked in; memorizes. Needs the mlx server running.',
+    available: true,
+    generateTeam: localFtGenerate,
   },
   {
     id: 'browser-ai',
