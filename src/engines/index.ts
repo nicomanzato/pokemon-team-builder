@@ -1,6 +1,7 @@
 import type { Engine } from '../types'
 import { generateTeam as mockGenerate } from '../mock/generate'
 import { generateTeam as localRagGenerate } from './localRag'
+import { generateTeam as browserAiGenerate } from './browserAi'
 
 // The engine registry. Adding a backend = adding an entry here.
 export const ENGINES: Engine[] = [
@@ -23,11 +24,9 @@ export const ENGINES: Engine[] = [
     id: 'browser-ai',
     label: 'Browser AI',
     description:
-      'Qwen2.5-3B + live retrieval, running entirely on your own GPU via WebGPU. No server. Coming soon.',
-    available: false,
-    generateTeam: async () => {
-      throw new Error('not implemented yet')
-    },
+      'Qwen2.5-3B + live retrieval, running entirely on your own GPU via WebGPU. No server; the model (~1.9 GB) downloads once and is cached.',
+    available: true,
+    generateTeam: browserAiGenerate,
   },
 ]
 

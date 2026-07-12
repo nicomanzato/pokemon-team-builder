@@ -26,7 +26,8 @@ export function parsePaste(text: string): PokemonSet[] {
       // Strip a trailing gender marker "(M)"/"(F)"; a remaining paren is the
       // nickname form "Nickname (Species)" -> Species, else the head is species.
       const head = rawHead.replace(/\s*\((?:M|F)\)\s*$/, '').trim()
-      const species = head.match(/\(([^)]+)\)/)?.[1] ?? head
+      // strip <> in case the model echoes the template's <Species> placeholder
+      const species = (head.match(/\(([^)]+)\)/)?.[1] ?? head).replace(/[<>]/g, '').trim()
       mon = { species, item: item.trim(), ability: '', level: null, nature: '', evs: {}, moves: [], types: typesOf(species) }
       mons.push(mon)
     } else if (!mon) {

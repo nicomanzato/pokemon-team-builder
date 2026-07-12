@@ -38,9 +38,11 @@ export function dossierLine(
     : topKeys(c.Items, 3).map((i) => itemNames[i] ?? i)
   const topSpread = Object.entries(c.Spreads).sort((a, b) => b[1] - a[1])[0][0]
   const moves = topKeys(c.Moves, 8).map((m) => moveNames[m] ?? m).join(', ')
+  const abilityId = topKeys(c.Abilities, 1)[0]
+  const ability = Object.values(entry.abilities ?? {}).find((a) => toId(a) === abilityId) ?? abilityId
   return (
     `- ${name} | type ${(entry.types ?? ['?']).join('/')} | base stats ${stats} (HP/Atk/Def/SpA/SpD/Spe)\n` +
-    `  ability: ${topKeys(c.Abilities, 1)[0]} | items: ${items.join(', ')}\n` +
+    `  ability: ${ability} | items: ${items.join(', ')}\n` +
     `  moves it actually runs: ${moves}\n` +
     `  most common set: ${prettySpread(topSpread)}\n` +
     `  frequent teammates: ${topKeys(c.Teammates, 5).join(', ')}`
