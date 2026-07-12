@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Local-only Showdown/Smogon data for the validator (copied from the v1 lab).
+# Not bundled to the browser; slimmed observed.json comes with the browser step.
+ai/data
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

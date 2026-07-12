@@ -16,10 +16,14 @@ export default function App() {
     if (!request || busy) return
     setCopied(false)
     setStage({ kind: 'working', step: 'Starting…' })
-    const { team, note } = await engine.generateTeam(request, (step) =>
-      setStage({ kind: 'working', step }),
-    )
-    setStage({ kind: 'done', team, note })
+    try {
+      const { team, note } = await engine.generateTeam(request, (step) =>
+        setStage({ kind: 'working', step }),
+      )
+      setStage({ kind: 'done', team, note })
+    } catch (err) {
+      setStage({ kind: 'error', message: err instanceof Error ? err.message : String(err) })
+    }
   }
 
   async function copyPaste() {
@@ -113,6 +117,11 @@ export default function App() {
         )}
         {stage.kind === 'done' && stage.note && (
           <p className="m-0 font-mono text-[13px] text-muted">{stage.note}</p>
+        )}
+        {stage.kind === 'error' && (
+          <p className="m-0 font-mono text-sm text-[#E56C66]">
+            {stage.message} — is Ollama running? (<code>ollama serve</code>)
+          </p>
         )}
       </section>
 

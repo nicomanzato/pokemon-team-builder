@@ -19,6 +19,7 @@ export type GenerationStage =
   | { kind: 'idle' }
   | { kind: 'working'; step: string }
   | { kind: 'done'; team: Team; note?: string }
+  | { kind: 'error'; message: string }
 
 // A team-generation engine. The UI only talks to this interface — swapping
 // mock -> local model -> in-browser model never touches a component.
