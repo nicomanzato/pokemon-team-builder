@@ -1,6 +1,6 @@
 import type { Engine } from '../types'
 import { generateTeam as mockGenerate } from '../mock/generate'
-import { generateTeam as browserAiGenerate } from './browserAi'
+import { makeBrowserEngine } from './browserAi'
 
 // The engine registry. Adding a backend = adding an entry here.
 export const ENGINES: Engine[] = [
@@ -12,12 +12,20 @@ export const ENGINES: Engine[] = [
     generateTeam: mockGenerate,
   },
   {
-    id: 'browser-ai',
-    label: 'Browser AI',
+    id: 'browser-7b',
+    label: 'Browser AI · 7B',
     description:
-      'Qwen2.5-3B + live retrieval, running entirely on your own GPU via WebGPU. No server; the model (~1.9 GB) downloads once and is cached.',
+      'Qwen2.5-7B + live retrieval on your own GPU via WebGPU. Best quality; downloads ~4.5 GB once (cached). Needs a GPU with enough memory.',
     available: true,
-    generateTeam: browserAiGenerate,
+    generateTeam: makeBrowserEngine('Qwen2.5-7B-Instruct-q4f16_1-MLC', 'Qwen2.5-7B', '~4.5 GB'),
+  },
+  {
+    id: 'browser-3b',
+    label: 'Browser AI · 3B',
+    description:
+      'Qwen2.5-3B + live retrieval on your own GPU via WebGPU. Lighter download (~1.9 GB, cached) and runs on more machines; slightly lower quality.',
+    available: true,
+    generateTeam: makeBrowserEngine('Qwen2.5-3B-Instruct-q4f16_1-MLC', 'Qwen2.5-3B', '~1.9 GB'),
   },
 ]
 
