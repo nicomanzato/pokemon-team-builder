@@ -6,7 +6,7 @@ import type { Team } from '../types'
 import { parsePaste } from '../../ai/parse'
 import { RULES } from '../../ai/prompt'
 
-const OLLAMA_URL = 'http://localhost:11434/api/chat'
+const OLLAMA_URL = '/ollama/api/chat'
 const MODEL = 'qwen2.5:1.5b'
 
 export async function generateTeam(

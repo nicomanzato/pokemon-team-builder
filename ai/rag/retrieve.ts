@@ -4,8 +4,9 @@
 // is turned into a compact fact sheet for the model to build from.
 import { search } from './embed'
 import { topKeys } from './profiles'
+import { DOSSIER_INTRO } from '../prompt'
 import { toId } from '../validate'
-import { loadChaos, loadDex, loadMoveNames } from '../groundTruth'
+import { loadChaos, loadDex, loadMoveNames, loadItemNames } from '../groundTruth'
 import type { ChaosEntry, DexEntryLite } from '../groundTruth'
 
 const STAT_KEYS = ['hp', 'atk', 'def', 'spa', 'spd', 'spe'] as const
@@ -45,41 +46,57 @@ async function retrieve(
   return expanded.slice(0, 10)
 }
 
+/** One Pokemon's fact sheet. Exported so the browser build can precompute lines. */
+export function dossierLine(
+  name: string,
+  chaos: Record<string, ChaosEntry>,
+  dex: Record<string, DexEntryLite>,
+  moveNames: Record<string, string>,
+  itemNames: Record<string, string>,
+): string {
+  const c = chaos[name]
+  const entry = dexEntry(name, dex)
+  const stats = STAT_KEYS.map((s) => entry.baseStats?.[s] ?? '?').join('/')
+  const items = entry.requiredItem
+    ? [entry.requiredItem]
+    : topKeys(c.Items, 3).map((i) => itemNames[i] ?? i)
+  const topSpread = Object.entries(c.Spreads).sort((a, b) => b[1] - a[1])[0][0]
+  const moves = topKeys(c.Moves, 8).map((m) => moveNames[m] ?? m).join(', ')
+  return (
+    `- ${name} | type ${(entry.types ?? ['?']).join('/')} | base stats ${stats} (HP/Atk/Def/SpA/SpD/Spe)\n` +
+    `  ability: ${topKeys(c.Abilities, 1)[0]} | items: ${items.join(', ')}\n` +
+    `  moves it actually runs: ${moves}\n` +
+    `  most common set: ${prettySpread(topSpread)}\n` +
+    `  frequent teammates: ${topKeys(c.Teammates, 5).join(', ')}`
+  )
+}
+
 function dossier(
   names: string[],
   chaos: Record<string, ChaosEntry>,
   dex: Record<string, DexEntryLite>,
   moveNames: Record<string, string>,
+  itemNames: Record<string, string>,
 ): string {
-  return names
-    .map((name) => {
-      const c = chaos[name]
-      const entry = dexEntry(name, dex)
-      const stats = STAT_KEYS.map((s) => entry.baseStats?.[s] ?? '?').join('/')
-      const items = entry.requiredItem ? [entry.requiredItem] : topKeys(c.Items, 3)
-      const topSpread = Object.entries(c.Spreads).sort((a, b) => b[1] - a[1])[0][0]
-      const moves = topKeys(c.Moves, 8).map((m) => moveNames[m] ?? m).join(', ')
-      return (
-        `- ${name} | type ${(entry.types ?? ['?']).join('/')} | base stats ${stats} (HP/Atk/Def/SpA/SpD/Spe)\n` +
-        `  ability: ${topKeys(c.Abilities, 1)[0]} | items: ${items.join(', ')}\n` +
-        `  moves it actually runs: ${moves}\n` +
-        `  most common set: ${prettySpread(topSpread)}\n` +
-        `  frequent teammates: ${topKeys(c.Teammates, 5).join(', ')}`
-      )
-    })
-    .join('\n')
+  return names.map((name) => dossierLine(name, chaos, dex, moveNames, itemNames)).join('\n')
+}
+
+/** Render the dossier block for a given list of Pokemon. Pure — the caller
+ * supplies the data. Used both at inference (from retrieval) and when baking
+ * dossiers into the fine-tune dataset. */
+export function renderDossier(
+  names: string[],
+  chaos: Record<string, ChaosEntry>,
+  dex: Record<string, DexEntryLite>,
+  moveNames: Record<string, string>,
+  itemNames: Record<string, string>,
+): string {
+  return DOSSIER_INTRO + dossier(names, chaos, dex, moveNames, itemNames)
 }
 
 /** Strategy in, dossier of real facts out. Reusable by any model. */
 export async function ragContext(strategy: string): Promise<string> {
   const chaos = loadChaos()
   const names = await retrieve(strategy, chaos)
-  return (
-    '\n\nPick exactly 6 Pokemon from this list and build a team of only those 6 ' +
-    '(do NOT stat every Pokemon listed). The data below comes from real ' +
-    'high-rated games of the current format — trust it over your own memory, ' +
-    'including moves, abilities, items and EV spreads. For each chosen Pokemon use ' +
-    'exactly 4 of its listed moves:\n\n' +
-    dossier(names, chaos, loadDex(), loadMoveNames())
-  )
+  return renderDossier(names, chaos, loadDex(), loadMoveNames(), loadItemNames())
 }

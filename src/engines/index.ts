@@ -2,6 +2,7 @@ import type { Engine } from '../types'
 import { generateTeam as mockGenerate } from '../mock/generate'
 import { generateTeam as localGenerate } from './local'
 import { generateTeam as localFtGenerate } from './localFt'
+import { generateTeam as localRagGenerate } from './localRag'
 
 // The engine registry. Adding a backend = adding an entry here.
 export const ENGINES: Engine[] = [
@@ -25,6 +26,13 @@ export const ENGINES: Engine[] = [
     description: 'The LoRA fine-tuned 1.5B via mlx_lm server. Format baked in; memorizes. Needs the mlx server running.',
     available: true,
     generateTeam: localFtGenerate,
+  },
+  {
+    id: 'local-rag',
+    label: 'Local (3B + RAG)',
+    description: 'Browser-side RAG (retrieval + embeddings) + qwen2.5:3b over Ollama. The dev preview of the Pages build (which swaps Ollama for WebLLM). Needs Ollama running.',
+    available: true,
+    generateTeam: localRagGenerate,
   },
   {
     id: 'browser-ai',

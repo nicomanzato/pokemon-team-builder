@@ -10,6 +10,12 @@ import { toId } from '../validate'
 import { loadChaos, loadDex, loadMoveNames, loadItemNames } from '../groundTruth'
 import type { ChaosEntry, DexEntryLite } from '../groundTruth'
 import { FT_SYSTEM as SYSTEM } from '../prompt'
+import { renderDossier } from '../rag/retrieve'
+
+// Half the examples carry a RAG-style dossier in the prompt (the 6 team mons +
+// distractors, shuffled) so the model learns to PICK from retrieved facts; the
+// other half stay short so it still works FT-solo. This is the fix for FT+RAG.
+const DOSSIER_FRACTION = 0.5
 
 const STAT_LABELS = ['HP', 'Atk', 'Def', 'SpA', 'SpD', 'Spe']
 const PHRASINGS = [
@@ -114,6 +120,24 @@ function renderTeam(team: string[]): string | null {
   return blocks.join('\n\n')
 }
 
+// Plausible wrong options: the team's own frequent teammates that aren't on it.
+function distractors(team: string[], n: number): string[] {
+  const weights: Record<string, number> = {}
+  for (const m of team)
+    for (const [mate, w] of Object.entries(chaos[m].Teammates))
+      if (pool[mate] && !team.includes(mate)) weights[mate] = (weights[mate] ?? 0) + w
+  return Object.entries(weights).sort((a, b) => b[1] - a[1]).slice(0, n).map(([k]) => k)
+}
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr]
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(rand() * (i + 1))
+    ;[a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
+
 type Arc = [desc: string | null, seeds: string[], bonus: ((m: string) => number) | null]
 function archetypes(): Arc[] {
   const has = (pred: (c: ChaosEntry) => boolean) =>
@@ -146,10 +170,14 @@ function main() {
     const paste = renderTeam(team)
     if (!paste) continue
     seen.add(key)
-    const instruction = choice(PHRASINGS).replace('{}', desc ?? `a balanced team built around ${seed}`)
+    let user = choice(PHRASINGS).replace('{}', desc ?? `a balanced team built around ${seed}`)
+    if (rand() < DOSSIER_FRACTION) {
+      const candidates = shuffle([...team, ...distractors(team, 5)])
+      user += renderDossier(candidates, chaos, dex, moveNames, itemNames)
+    }
     examples.push({ messages: [
       { role: 'system', content: SYSTEM },
-      { role: 'user', content: instruction },
+      { role: 'user', content: user },
       { role: 'assistant', content: paste },
     ] })
   }

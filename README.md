@@ -12,12 +12,13 @@ competitive data through retrieval. No API keys, no backend, no bill.
 
 ## Why
 
-This app grew out of a hands-on lab where I learned how local AI models actually
-work by measuring them: the same team-building task, solved with a raw local model
-(73 rule violations across 5 teams), then RAG over real usage stats (13), then a
-LoRA fine-tune trained in 12 minutes on a MacBook (perfect format, memorized facts).
-The web app is where those lessons become a product: **fine-tuning for form,
-retrieval for facts, and a validator as referee.**
+This app grew out of a hands-on lab — now living in [`ai/`](ai/) — where I learned
+how local AI models actually work by measuring them: the same team-building task,
+solved with a raw local model (73 rule violations across 5 teams), then RAG over
+real usage stats (13), then a LoRA fine-tune trained in 12 minutes on a MacBook
+(perfect format, memorized facts). The full story, numbers and replication steps
+are in [`ai/README.md`](ai/README.md). The web app is where those lessons become
+a product: **fine-tuning for form, retrieval for facts, and a validator as referee.**
 
 ## Status
 

@@ -16,6 +16,10 @@ dist-ssr
 # Not bundled to the browser; slimmed observed.json comes with the browser step.
 ai/data
 
+# Fine-tune artifacts (generated dataset + trained LoRA adapters)
+ai/finetune/data
+ai/finetune/adapters
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
