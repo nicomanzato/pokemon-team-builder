@@ -1,0 +1,691 @@
+[
+ {
+  "strategy": "a balanced team built around garchomp",
+  "pokemon": [
+   {
+    "species": "Garchomp",
+    "item": "Life Orb",
+    "ability": "Sand Force",
+    "level": "50",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 32,
+     "atk": 32,
+     "spe": 2
+    },
+    "moves": [
+     "Earthquake",
+     "Rock Slide",
+     "Dragon Claw",
+     "Protect"
+    ],
+    "types": [
+     "Dragon",
+     "Ground"
+    ]
+   },
+   {
+    "species": "Mawile-Mega",
+    "item": "Mawilite",
+    "ability": "Intimidate",
+    "level": "50",
+    "nature": "Impish",
+    "evs": {
+     "hp": 32,
+     "def": 32,
+     "spd": 2
+    },
+    "moves": [
+     "Fake Out",
+     "Sucker Punch",
+     "Protect",
+     "Iron Defense"
+    ],
+    "types": [
+     "Steel",
+     "Fairy"
+    ]
+   },
+   {
+    "species": "Garchomp-Mega",
+    "item": "Garchompite",
+    "ability": "Sand Force",
+    "level": "50",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 32,
+     "atk": 32,
+     "spe": 2
+    },
+    "moves": [
+     "Earthquake",
+     "Rock Slide",
+     "Dragon Claw",
+     "Protect"
+    ],
+    "types": [
+     "Dragon",
+     "Ground"
+    ]
+   },
+   {
+    "species": "Basculegion",
+    "item": "Life Orb",
+    "ability": "Swift Swim",
+    "level": "50",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 32,
+     "atk": 32,
+     "spe": 2
+    },
+    "moves": [
+     "Last Respects",
+     "Aqua Jet",
+     "Wave Crash",
+     "Protect"
+    ],
+    "types": [
+     "Water",
+     "Ghost"
+    ]
+   },
+   {
+    "species": "Incineroar",
+    "item": "Sitrus Berry",
+    "ability": "Intimidate",
+    "level": "50",
+    "nature": "Careful",
+    "evs": {
+     "hp": 32,
+     "def": 14,
+     "spd": 20
+    },
+    "moves": [
+     "Fake Out",
+     "Parting Shot",
+     "Flare Blitz",
+     "Protect"
+    ],
+    "types": [
+     "Fire",
+     "Dark"
+    ]
+   },
+   {
+    "species": "Whimsicott",
+    "item": "Focuser Sash",
+    "ability": "Prankster",
+    "level": "50",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "spa": 32,
+     "spe": 32
+    },
+    "moves": [
+     "Moonblast",
+     "Encore",
+     "Protect",
+     "Tailwind"
+    ],
+    "types": [
+     "Grass",
+     "Fairy"
+    ]
+   }
+  ],
+  "paste": "Garchomp @ Life Orb\nAbility: Sand Force\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 Spe\nAdamant Nature\n- Earthquake\n- Rock Slide\n- Dragon Claw\n- Protect\n\nMawile-Mega @ Mawilite\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 32 Def / 2 SpD\nImpish Nature\n- Fake Out\n- Sucker Punch\n- Protect\n- Iron Defense\n\nGarchomp-Mega @ Garchompite\nAbility: Sand Force\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 Spe\nAdamant Nature\n- Earthquake\n- Rock Slide\n- Dragon Claw\n- Protect\n\nBasculegion @ Life Orb\nAbility: Swift Swim\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 Spe\nAdamant Nature\n- Last Respects\n- Aqua Jet\n- Wave Crash\n- Protect\n\nIncineroar @ Sitrus Berry\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 14 Def / 20 SpD\nCareful Nature\n- Fake Out\n- Parting Shot\n- Flare Blitz\n- Protect\n\nWhimsicott @ Focuser Sash\nAbility: Prankster\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Moonblast\n- Encore\n- Protect\n- Tailwind"
+ },
+ {
+  "strategy": "a hyper offense team with tailwind suppo",
+  "pokemon": [
+   {
+    "species": "Talonflame",
+    "item": "Choice Scarf",
+    "ability": "Galewings",
+    "level": "50",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 2,
+     "atk": 32,
+     "spe": 32
+    },
+    "moves": [
+     "Flare Blitz",
+     "Brave Bird",
+     "Tailwind",
+     "Acrobatics"
+    ],
+    "types": [
+     "Fire",
+     "Flying"
+    ]
+   },
+   {
+    "species": "Noivern",
+    "item": "Focus Sash",
+    "ability": "Telepathy",
+    "level": "50",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "spa": 32,
+     "spe": 32
+    },
+    "moves": [
+     "Draco Meteor",
+     "Protect",
+     "Super Fang",
+     "Air Slash"
+    ],
+    "types": [
+     "Flying",
+     "Dragon"
+    ]
+   },
+   {
+    "species": "Altaria-Mega",
+    "item": "Altarianite",
+    "ability": "Pixilate",
+    "level": "50",
+    "nature": "Modest",
+    "evs": {
+     "hp": 32,
+     "spa": 32,
+     "spe": 2
+    },
+    "moves": [
+     "Tailwind",
+     "Hyper Voice",
+     "Roost",
+     "Dragon Pulse"
+    ],
+    "types": [
+     "Dragon",
+     "Fairy"
+    ]
+   },
+   {
+    "species": "Pelipper",
+    "item": "Focus Sash",
+    "ability": "Drizzle",
+    "level": "50",
+    "nature": "Modest",
+    "evs": {
+     "hp": 2,
+     "spa": 32,
+     "spe": 32
+    },
+    "moves": [
+     "Hurricane",
+     "Weather Ball",
+     "Tailwind",
+     "Wide Guard"
+    ],
+    "types": [
+     "Water",
+     "Flying"
+    ]
+   },
+   {
+    "species": "Whimsicott",
+    "item": "Fairy Feather",
+    "ability": "Prankster",
+    "level": "50",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "spa": 32,
+     "spe": 32
+    },
+    "moves": [
+     "Tailwind",
+     "Moonblast",
+     "Encore",
+     "Protect"
+    ],
+    "types": [
+     "Grass",
+     "Fairy"
+    ]
+   },
+   {
+    "species": "Decidueye",
+    "item": "Spelltag",
+    "ability": "Longreach",
+    "level": "50",
+    "nature": "Impish",
+    "evs": {
+     "hp": 32,
+     "atk": 10,
+     "def": 20,
+     "spd": 4
+    },
+    "moves": [
+     "Spirit Shackle",
+     "Leaf Blade",
+     "Tailwind",
+     "Swords Dance"
+    ],
+    "types": [
+     "Grass",
+     "Ghost"
+    ]
+   }
+  ],
+  "paste": "Talonflame @ Choice Scarf\nAbility: Galewings\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Flare Blitz\n- Brave Bird\n- Tailwind\n- Acrobatics\n\nNoivern @ Focus Sash\nAbility: Telepathy\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Draco Meteor\n- Protect\n- Super Fang\n- Air Slash\n\nAltaria-Mega @ Altarianite\nAbility: Pixilate\nLevel: 50\nEVs: 32 HP / 32 SpA / 2 Spe\nModest Nature\n- Tailwind\n- Hyper Voice\n- Roost\n- Dragon Pulse\n\nPelipper @ Focus Sash\nAbility: Drizzle\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Hurricane\n- Weather Ball\n- Tailwind\n- Wide Guard\n\nWhimsicott @ Fairy Feather\nAbility: Prankster\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Tailwind\n- Moonblast\n- Encore\n- Protect\n\nDecidueye @ Spelltag\nAbility: Longreach\nLevel: 50\nEVs: 32 HP / 10 Atk / 20 Def / 4 SpD\nImpish Nature\n- Spirit Shackle\n- Leaf Blade\n- Tailwind\n- Swords Dance"
+ },
+ {
+  "strategy": "a rain team",
+  "pokemon": [
+   {
+    "species": "Pelipper",
+    "item": "Focuser Sash",
+    "ability": "Drizzle",
+    "level": "50",
+    "nature": "Modest",
+    "evs": {
+     "hp": 2,
+     "spa": 32,
+     "spe": 32
+    },
+    "moves": [
+     "Hurricane",
+     "Weather Ball",
+     "Tailwind",
+     "Wide Guard"
+    ],
+    "types": [
+     "Water",
+     "Flying"
+    ]
+   },
+   {
+    "species": "Politoed",
+    "item": "Sitrus Berry",
+    "ability": "Drizzle",
+    "level": "50",
+    "nature": "Calm",
+    "evs": {
+     "hp": 31,
+     "def": 23,
+     "spd": 12
+    },
+    "moves": [
+     "Protect",
+     "Weather Ball",
+     "Perish Song",
+     "Encore"
+    ],
+    "types": [
+     "Water"
+    ]
+   },
+   {
+    "species": "Simipour",
+    "item": "Focuser Sash",
+    "ability": "Torrent, Gluttony",
+    "level": "50",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "spa": 32,
+     "spe": 32
+    },
+    "moves": [
+     "Fake Out",
+     "Scald",
+     "Icy Wind",
+     "Taunt"
+    ],
+    "types": [
+     "Water"
+    ]
+   },
+   {
+    "species": "Blastoise",
+    "item": "Mental Herb",
+    "ability": "Raindish, Torrent",
+    "level": "50",
+    "nature": "Sassy",
+    "evs": {
+     "hp": 32,
+     "def": 29,
+     "spd": 5
+    },
+    "moves": [
+     "Fake Out",
+     "Protect",
+     "Yawn",
+     "Flip Turn"
+    ],
+    "types": [
+     "Water"
+    ]
+   },
+   {
+    "species": "Vaporeon",
+    "item": "Sitrus Berry",
+    "ability": "Water Absorb",
+    "level": "50",
+    "nature": "Bold",
+    "evs": {
+     "hp": 32,
+     "def": 32,
+     "spd": 1,
+     "spe": 1
+    },
+    "moves": [
+     "Scald",
+     "Yawn",
+     "Detect",
+     "Fake Tears"
+    ],
+    "types": [
+     "Water"
+    ]
+   },
+   {
+    "species": "Basculegion-F",
+    "item": "Life Orb",
+    "ability": "Adaptability, Swift Swim",
+    "level": "50",
+    "nature": "Modest",
+    "evs": {
+     "hp": 2,
+     "def": 17,
+     "spa": 15,
+     "spe": 32
+    },
+    "moves": [
+     "Shadow Ball",
+     "Muddy Water",
+     "Protect",
+     "Ice Beam"
+    ],
+    "types": [
+     "Water",
+     "Ghost"
+    ]
+   }
+  ],
+  "paste": "Pelipper @ Focuser Sash\nAbility: Drizzle\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Hurricane\n- Weather Ball\n- Tailwind\n- Wide Guard\n\nPolitoed @ Sitrus Berry\nAbility: Drizzle\nLevel: 50\nEVs: 31 HP / 23 Def / 12 SpD\nCalm Nature\n- Protect\n- Weather Ball\n- Perish Song\n- Encore\n\nSimipour @ Focuser Sash\nAbility: Torrent, Gluttony\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Fake Out\n- Scald\n- Icy Wind\n- Taunt\n\nBlastoise @ Mental Herb\nAbility: Raindish, Torrent\nLevel: 50\nEVs: 32 HP / 29 Def / 5 SpD\nSassy Nature\n- Fake Out\n- Protect\n- Yawn\n- Flip Turn\n\nVaporeon @ Sitrus Berry\nAbility: Water Absorb\nLevel: 50\nEVs: 32 HP / 32 Def / 1 SpD / 1 Spe\nBold Nature\n- Scald\n- Yawn\n- Detect\n- Fake Tears\n\nBasculegion-F @ Life Orb\nAbility: Adaptability, Swift Swim\nLevel: 50\nEVs: 2 HP / 17 Def / 15 SpA / 32 Spe\nModest Nature\n- Shadow Ball\n- Muddy Water\n- Protect\n- Ice Beam"
+ },
+ {
+  "strategy": "a sun team built around strong fire atta",
+  "pokemon": [
+   {
+    "species": "Typhlosion-Hisui",
+    "item": "Charcoal",
+    "ability": "Blaze",
+    "level": "50",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "spa": 32,
+     "spe": 32
+    },
+    "moves": [
+     "Eruption",
+     "Heat Wave",
+     "Protect",
+     "Overheat"
+    ],
+    "types": [
+     "Fire",
+     "Ghost"
+    ]
+   },
+   {
+    "species": "Chandelure",
+    "item": "Colburberry",
+    "ability": "Flashfire",
+    "level": "50",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "spa": 32,
+     "spe": 32
+    },
+    "moves": [
+     "Shadow Ball",
+     "Heat Wave",
+     "Trick Room",
+     "Flamethrower"
+    ],
+    "types": [
+     "Ghost",
+     "Fire"
+    ]
+   },
+   {
+    "species": "Rotom-Heat",
+    "item": "Sitrus Berry",
+    "ability": "Levitate",
+    "level": "50",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "spa": 32,
+     "spe": 32
+    },
+    "moves": [
+     "Overheat",
+     "Volt Switch",
+     "Discharge",
+     "Protect"
+    ],
+    "types": [
+     "Electric",
+     "Fire"
+    ]
+   },
+   {
+    "species": "Skeledirge",
+    "item": "Charcoal",
+    "ability": "Unaware",
+    "level": "50",
+    "nature": "Modest",
+    "evs": {
+     "hp": 13,
+     "spa": 23,
+     "spd": 4,
+     "spe": 26
+    },
+    "moves": [
+     "Torch Song",
+     "Protect",
+     "Shadow Ball",
+     "Will-O-Wisp"
+    ],
+    "types": [
+     "Fire",
+     "Ghost"
+    ]
+   },
+   {
+    "species": "Ninetales",
+    "item": "Heat Rock",
+    "ability": "Drought",
+    "level": "50",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "spa": 32,
+     "spe": 32
+    },
+    "moves": [
+     "Heat Wave",
+     "Fake Tears",
+     "Solar Beam",
+     "Overheat"
+    ],
+    "types": [
+     "Fire"
+    ]
+   },
+   {
+    "species": "Sylveon",
+    "item": "Life Orb",
+    "ability": "Pixilate",
+    "level": "50",
+    "nature": "Modest",
+    "evs": {
+     "hp": 9,
+     "def": 22,
+     "spa": 20,
+     "spe": 15
+    },
+    "moves": [
+     "Hyper Voice",
+     "Quick Attack",
+     "Hyper Beam",
+     "Protect"
+    ],
+    "types": [
+     "Fairy"
+    ]
+   }
+  ],
+  "paste": "Typhlosion-Hisui @ Charcoal\nAbility: Blaze\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Eruption\n- Heat Wave\n- Protect\n- Overheat\n\nChandelure @ Colburberry\nAbility: Flashfire\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Shadow Ball\n- Heat Wave\n- Trick Room\n- Flamethrower\n\nRotom-Heat @ Sitrus Berry\nAbility: Levitate\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Overheat\n- Volt Switch\n- Discharge\n- Protect\n\nSkeledirge @ Charcoal\nAbility: Unaware\nLevel: 50\nEVs: 13 HP / 23 SpA / 4 SpD / 26 Spe\nModest Nature\n- Torch Song\n- Protect\n- Shadow Ball\n- Will-O-Wisp\n\nNinetales @ Heat Rock\nAbility: Drought\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Heat Wave\n- Fake Tears\n- Solar Beam\n- Overheat\n\nSylveon @ Life Orb\nAbility: Pixilate\nLevel: 50\nEVs: 9 HP / 22 Def / 20 SpA / 15 Spe\nModest Nature\n- Hyper Voice\n- Quick Attack\n- Hyper Beam\n- Protect"
+ },
+ {
+  "strategy": "a trick room team",
+  "pokemon": [
+   {
+    "species": "Klefki",
+    "item": "Light Clay",
+    "ability": "Prankster",
+    "level": "50",
+    "nature": "Relaxed",
+    "evs": {
+     "hp": 32,
+     "def": 32,
+     "spa": 2
+    },
+    "moves": [
+     "Light Screen",
+     "Reflect",
+     "Dazzling Gleam",
+     "Trick Room"
+    ],
+    "types": [
+     "Steel",
+     "Fairy"
+    ]
+   },
+   {
+    "species": "Malamar",
+    "item": "Leftovers",
+    "ability": "Contrary",
+    "level": "50",
+    "nature": "Relaxed",
+    "evs": {
+     "hp": 32,
+     "atk": 2,
+     "def": 2,
+     "spd": 30
+    },
+    "moves": [
+     "Superpower",
+     "Trick Room",
+     "Knock Off",
+     "Protect"
+    ],
+    "types": [
+     "Dark",
+     "Psychic"
+    ]
+   },
+   {
+    "species": "Slowking",
+    "item": "Colbur Berry",
+    "ability": "Regenerator",
+    "level": "50",
+    "nature": "Relaxed",
+    "evs": {
+     "hp": 32,
+     "def": 32,
+     "spd": 2
+    },
+    "moves": [
+     "Trick Room",
+     "Scald",
+     "Chilly Reception",
+     "Psychic"
+    ],
+    "types": [
+     "Water",
+     "Psychic"
+    ]
+   },
+   {
+    "species": "Armarouge",
+    "item": "Focuser Sash",
+    "ability": "Flashfire",
+    "level": "50",
+    "nature": "Modest",
+    "evs": {
+     "hp": 28,
+     "spa": 32,
+     "spe": 6
+    },
+    "moves": [
+     "Trick Room",
+     "Armor Cannon",
+     "Protect",
+     "Psychic"
+    ],
+    "types": [
+     "Fire",
+     "Psychic"
+    ]
+   },
+   {
+    "species": "Musharna",
+    "item": "Leftovers",
+    "ability": "Telepathy",
+    "level": "50",
+    "nature": "Relaxed",
+    "evs": {
+     "hp": 9,
+     "def": 32,
+     "spd": 25
+    },
+    "moves": [
+     "Trick Room",
+     "Psychic",
+     "Helping Hand",
+     "Protect"
+    ],
+    "types": [
+     "Psychic"
+    ]
+   },
+   {
+    "species": "Chandelure",
+    "item": "Colbur Berry",
+    "ability": "Flashfire",
+    "level": "50",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "spa": 32,
+     "spe": 32
+    },
+    "moves": [
+     "Shadow Ball",
+     "Heat Wave",
+     "Protect",
+     "Trick Room"
+    ],
+    "types": [
+     "Ghost",
+     "Fire"
+    ]
+   }
+  ],
+  "paste": "Klefki @ Light Clay\nAbility: Prankster\nLevel: 50\nEVs: 32 HP / 32 Def / 2 SpA\nRelaxed Nature\n- Light Screen\n- Reflect\n- Dazzling Gleam\n- Trick Room\n\nMalamar @ Leftovers\nAbility: Contrary\nLevel: 50\nEVs: 32 HP / 2 Atk / 2 Def / 30 SpD\nRelaxed Nature\n- Superpower\n- Trick Room\n- Knock Off\n- Protect\n\nSlowking @ Colbur Berry\nAbility: Regenerator\nLevel: 50\nEVs: 32 HP / 32 Def / 2 SpD\nRelaxed Nature\n- Trick Room\n- Scald\n- Chilly Reception\n- Psychic\n\nArmarouge @ Focuser Sash\nAbility: Flashfire\nLevel: 50\nEVs: 28 HP / 32 SpA / 6 Spe\nModest Nature\n- Trick Room\n- Armor Cannon\n- Protect\n- Psychic\n\nMusharna @ Leftovers\nAbility: Telepathy\nLevel: 50\nEVs: 9 HP / 32 Def / 25 SpD\nRelaxed Nature\n- Trick Room\n- Psychic\n- Helping Hand\n- Protect\n\nChandelure @ Colbur Berry\nAbility: Flashfire\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Shadow Ball\n- Heat Wave\n- Protect\n- Trick Room"
+ }
+]

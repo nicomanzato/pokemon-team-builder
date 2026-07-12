@@ -1,0 +1,50 @@
+@import 'tailwindcss';
+
+/* Design tokens — same identity as before, now as Tailwind theme */
+@theme {
+  --color-bg: #0e1420; /* deep night blue — not pure black */
+  --color-surface: #171f2e;
+  --color-surface-2: #1d2738;
+  --color-line: #263349;
+  --color-ink: #e8edf5;
+  --color-muted: #8b98ac;
+  --color-brand: #ffcb3b; /* Pokedex yellow — the only brand accent */
+
+  --font-display: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+  --font-body: 'Barlow', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+}
+
+body {
+  @apply bg-bg text-ink font-body antialiased;
+}
+
+/* Card entrance + console cursor: tiny custom layer Tailwind doesn't cover */
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}
+
+.card-rise {
+  animation: rise 0.35s both;
+  animation-delay: calc(var(--i) * 60ms);
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+.cursor-blink {
+  animation: blink 1s steps(1) infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card-rise,
+  .cursor-blink {
+    animation: none;
+  }
+}
