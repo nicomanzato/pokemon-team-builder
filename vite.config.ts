@@ -8,9 +8,10 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   // Dev-only: proxy the fine-tuned model's local mlx server so the browser hits
   // it same-origin (mlx_lm server sends no CORS headers).
+  // Dev-only: proxy Ollama so the browser hits it same-origin (no CORS). For the
+  // final Pages build, generation moves in-browser via WebLLM and this drops out.
   server: {
     proxy: {
-      '/mlx': { target: 'http://localhost:8080', changeOrigin: true, rewrite: (p) => p.replace(/^\/mlx/, '') },
       '/ollama': { target: 'http://localhost:11434', changeOrigin: true, rewrite: (p) => p.replace(/^\/ollama/, '') },
     },
   },

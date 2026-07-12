@@ -8,7 +8,7 @@ import { writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { buildProfiles, topKeys } from './profiles'
-import { dossierLine } from './retrieve'
+import { dossierLine } from './dossier'
 import { embedTexts } from './embedBrowser'
 import { loadChaos, loadDex, loadMoveNames, loadItemNames } from '../groundTruth'
 

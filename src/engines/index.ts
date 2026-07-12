@@ -1,7 +1,5 @@
 import type { Engine } from '../types'
 import { generateTeam as mockGenerate } from '../mock/generate'
-import { generateTeam as localGenerate } from './local'
-import { generateTeam as localFtGenerate } from './localFt'
 import { generateTeam as localRagGenerate } from './localRag'
 
 // The engine registry. Adding a backend = adding an entry here.
@@ -14,23 +12,10 @@ export const ENGINES: Engine[] = [
     generateTeam: mockGenerate,
   },
   {
-    id: 'local',
-    label: 'Local (baseline)',
-    description: 'The naked qwen2.5:1.5b over local Ollama, no RAG. Needs Ollama running.',
-    available: true,
-    generateTeam: localGenerate,
-  },
-  {
-    id: 'local-ft',
-    label: 'Local (fine-tuned)',
-    description: 'The LoRA fine-tuned 1.5B via mlx_lm server. Format baked in; memorizes. Needs the mlx server running.',
-    available: true,
-    generateTeam: localFtGenerate,
-  },
-  {
     id: 'local-rag',
     label: 'Local (3B + RAG)',
-    description: 'Browser-side RAG (retrieval + embeddings) + qwen2.5:3b over Ollama. The dev preview of the Pages build (which swaps Ollama for WebLLM). Needs Ollama running.',
+    description:
+      'Browser-side RAG (retrieval + embeddings) + a validate→repair loop, generating with qwen2.5:3b over Ollama. The dev preview of the Pages build, which swaps Ollama for WebLLM. Needs Ollama running.',
     available: true,
     generateTeam: localRagGenerate,
   },
@@ -38,7 +23,7 @@ export const ENGINES: Engine[] = [
     id: 'browser-ai',
     label: 'Browser AI',
     description:
-      'A 1.5B model fine-tuned for team building + live retrieval, running on your own GPU via WebGPU. Coming soon.',
+      'Qwen2.5-3B + live retrieval, running entirely on your own GPU via WebGPU. No server. Coming soon.',
     available: false,
     generateTeam: async () => {
       throw new Error('not implemented yet')

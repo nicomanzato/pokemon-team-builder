@@ -23,7 +23,7 @@ function topIds(query: number[], k: number): string[] {
     .map((s) => s.id)
 }
 
-/** Strategy in, dossier of real facts out — the browser-side ragContext. */
+/** Strategy in, dossier of real facts out — the browser-side retrieval. */
 export async function browserDossier(query: string): Promise<string> {
   const [qvec] = await embedTexts([query])
   const hits = topIds(qvec, 6)

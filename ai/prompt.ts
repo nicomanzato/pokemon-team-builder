@@ -1,12 +1,5 @@
-// The short system prompt the fine-tuned model was TRAINED on. The FT engine
-// must reuse it verbatim (and NOT the verbose RULES below): the model learned to
-// answer this exact instruction shape. Keep in sync with makeDataset.ts.
-export const FT_SYSTEM =
-  'You are a VGC team builder for Pokemon Champions, Regulation Set M-B. ' +
-  'Reply with a Showdown paste of exactly 6 Pokemon.'
-
 // Preamble prepended to a retrieved dossier. Lives here (browser-safe) so both
-// the Node retrieval (retrieve.ts) and the browser retrieval (browserRag.ts) can
+// the build-time dossier rendering and the browser retrieval (browserRag.ts) can
 // share it without dragging Node-only modules into the browser bundle.
 export const DOSSIER_INTRO =
   '\n\nPick exactly 6 Pokemon from this list and build a team of only those 6 ' +
@@ -15,9 +8,8 @@ export const DOSSIER_INTRO =
   'including moves, abilities, items and EV spreads. For each chosen Pokemon use ' +
   'exactly 4 of its listed moves:\n\n'
 
-// The Champions format rules + output template. Shared by the baseline engine
-// (browser) and the RAG builder (Node) so the only difference between them is
-// whether a metagame dossier is appended — that's the whole experiment.
+// The Champions format rules + output template. The system prompt for the RAG
+// engine; the retrieved dossier is appended to the user message.
 export const RULES = `You are an expert VGC team builder for Pokemon Champions, Regulation Set M-B \
 (the official 2026 format: double battles, level 50, Mega Evolutions allowed).
 Rules you must follow exactly:
