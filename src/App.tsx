@@ -59,7 +59,7 @@ export default function App() {
               ))}
             </select>
           </label>
-          <label
+          {/* <label
             className="flex cursor-pointer items-center gap-1.5 rounded-full border border-line px-3 py-1 font-mono text-xs text-muted"
             title="Toggle retrieval — see how much the metagame data helps"
           >
@@ -71,7 +71,7 @@ export default function App() {
               className="accent-brand"
             />
             RAG
-          </label>
+          </label> */}
           <span className="rounded-full border border-line px-3 py-1 font-mono text-xs text-muted">
             Champions · Reg M-B
           </span>
