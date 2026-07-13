@@ -1,7 +1,7 @@
 // Parser self-check. No test framework — run it directly:
 //   npx tsx ai/parse.test.ts
 import assert from 'node:assert'
-import { parsePaste } from './parse'
+import { parsePaste } from '../runtime/parse'
 
 const SAMPLE = `Here is your team:
 

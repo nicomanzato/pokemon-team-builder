@@ -9,10 +9,10 @@ import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { buildProfiles, topKeys } from './profiles'
 import { dossierLine } from './dossier'
-import { embedTexts } from './embedBrowser'
+import { embedTexts } from '../../runtime/rag/embedBrowser'
 import { loadChaos, loadDex, loadMoveNames, loadItemNames } from '../groundTruth'
 
-const HERE = dirname(fileURLToPath(import.meta.url))
+const ASSETS = join(dirname(fileURLToPath(import.meta.url)), '..', '..', 'runtime', 'assets')
 
 async function main() {
   const chaos = loadChaos()
@@ -24,7 +24,7 @@ async function main() {
   console.log(`embedding ${profiles.length} profiles with transformers.js…`)
   const vecs = await embedTexts(profiles.map((p) => p.text))
   const round = (v: number) => Math.round(v * 1e5) / 1e5 // trim JSON size
-  writeFileSync(join(HERE, 'profileVectors.json'), JSON.stringify({
+  writeFileSync(join(ASSETS, 'profileVectors.json'), JSON.stringify({
     model: 'all-MiniLM-L6-v2',
     items: profiles.map((p, i) => ({ id: p.id, name: p.name, vec: vecs[i].map(round) })),
   }))
@@ -37,7 +37,7 @@ async function main() {
       teammates: topKeys(chaos[p.name].Teammates, 5).filter((m) => chaos[m]),
     }
   }
-  writeFileSync(join(HERE, 'dossierData.json'), JSON.stringify(dossierData))
+  writeFileSync(join(ASSETS, 'dossierData.json'), JSON.stringify(dossierData))
   console.log(`wrote profileVectors.json + dossierData.json (${profiles.length} mons)`)
 }
 

@@ -1,7 +1,7 @@
 // One competitive text profile per Pokemon, built from the Smogon usage data
 // (+ dex for types/stats). This is the document that gets embedded: the words in
 // it are what a strategy query will match against semantically.
-import { toId } from '../validate'
+import { toId } from '../../format'
 import type { ChaosEntry, DexEntryLite } from '../groundTruth'
 
 const STAT_ORDER = ['hp', 'atk', 'def', 'spa', 'spd', 'spe'] as const

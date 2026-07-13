@@ -1,9 +1,9 @@
 // Parse a Showdown paste (possibly with model prose around it) into structured
 // sets. Pure and environment-agnostic — used by the web engine and by the Node
 // eval alike.
-import type { PokemonSet } from '../src/types'
-import { toId } from './validate'
-import speciesTypes from './pokemonTypes.json'
+import type { PokemonSet } from '../../src/types'
+import { toId } from '../format'
+import speciesTypes from './assets/pokemonTypes.json'
 
 const TYPES = speciesTypes as Record<string, string[]>
 const EV_KEYS = new Set(['hp', 'atk', 'def', 'spa', 'spd', 'spe'])

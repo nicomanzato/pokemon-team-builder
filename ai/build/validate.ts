@@ -2,7 +2,8 @@
 // parsed team and the ground-truth data, return a list of legality issues.
 // Environment-agnostic on purpose — the data is loaded elsewhere (Node reads it
 // from disk today; the browser gets a slimmed version later).
-import type { PokemonSet } from '../src/types'
+import type { PokemonSet } from '../../src/types'
+import { toId, NATURES, EV_TOTAL_MAX, EV_STAT_MAX, capitalize } from '../format'
 
 export interface GroundTruth {
   dex: Record<string, DexEntry>
@@ -20,19 +21,6 @@ interface DexEntry {
   abilities?: Record<string, string>
   types?: string[]
 }
-
-export const NATURES = new Set([
-  'Hardy', 'Lonely', 'Brave', 'Adamant', 'Naughty', 'Bold', 'Docile', 'Relaxed',
-  'Impish', 'Lax', 'Timid', 'Hasty', 'Serious', 'Jolly', 'Naive', 'Modest',
-  'Mild', 'Quiet', 'Bashful', 'Rash', 'Calm', 'Gentle', 'Sassy', 'Careful', 'Quirky',
-])
-// Champions EV system, discovered in the usage data: 66 total, 32 max per stat.
-const EV_TOTAL_MAX = 66
-const EV_STAT_MAX = 32
-
-export const toId = (name: string) => name.toLowerCase().replace(/[^a-z0-9]/g, '')
-
-const capitalize = (s: string) => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()
 
 // Union of learnsets across the inheritance chain: formes inherit from their base
 // species, evolutions from their prevos. Returns null if we have no learnset data

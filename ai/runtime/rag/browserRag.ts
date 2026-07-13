@@ -1,11 +1,11 @@
 // RAG retrieval that runs entirely in the browser: shipped profile vectors +
 // pre-rendered dossier lines, query embedded live with transformers.js. Mirrors
 // retrieve.ts but with zero server, zero 12MB chaos — the Pages-ready half.
-import profileVectors from './profileVectors.json'
-import dossierData from './dossierData.json'
+import profileVectors from '../assets/profileVectors.json'
+import dossierData from '../assets/dossierData.json'
 import { embedTexts } from './embedBrowser'
 import { DOSSIER_INTRO } from '../prompt'
-import { toId } from '../validate'
+import { toId } from '../../format'
 
 const INDEX = profileVectors as { items: { id: string; name: string; vec: number[] }[] }
 const DATA = dossierData as Record<string, { name: string; line: string; teammates: string[] }>

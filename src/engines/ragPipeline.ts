@@ -2,10 +2,10 @@
 // turned into text lives here; each engine supplies its own `chat` (Ollama in
 // dev, WebLLM in the browser). That's the whole difference between them.
 import type { PokemonSet, Team } from '../types'
-import { parsePaste } from '../../ai/parse'
-import { RULES } from '../../ai/prompt'
-import { browserDossier } from '../../ai/rag/browserRag'
-import { validateLight } from '../../ai/validateLight'
+import { parsePaste } from '../../ai/runtime/parse'
+import { RULES } from '../../ai/runtime/prompt'
+import { browserDossier } from '../../ai/runtime/rag/browserRag'
+import { validateLight } from '../../ai/runtime/validateLight'
 
 const MAX_REPAIRS = 2
 

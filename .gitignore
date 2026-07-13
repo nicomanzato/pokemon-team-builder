@@ -12,13 +12,9 @@ dist
 dist-ssr
 *.local
 
-# Local-only Showdown/Smogon data for the validator (copied from the v1 lab).
-# Not bundled to the browser; slimmed observed.json comes with the browser step.
-ai/data
-
-# Fine-tune artifacts (generated dataset + trained LoRA adapters)
-ai/finetune/data
-ai/finetune/adapters
+# Local-only raw Showdown/Smogon data (source for the build scripts). Not shipped;
+# the build/ scripts turn it into the small JSON assets in ai/runtime/assets/.
+ai/build/data
 
 # Editor directories and files
 .vscode/*

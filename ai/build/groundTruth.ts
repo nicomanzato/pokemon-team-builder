@@ -4,7 +4,8 @@
 import { readFileSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import { dirname, join } from 'node:path'
-import { toId, type GroundTruth } from './validate'
+import { toId } from '../format'
+import type { GroundTruth } from './validate'
 
 const DATA_DIR = join(dirname(fileURLToPath(import.meta.url)), 'data')
 const readJson = (p: string) => JSON.parse(readFileSync(join(DATA_DIR, p), 'utf8'))

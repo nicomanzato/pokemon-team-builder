@@ -2,12 +2,11 @@
 // (structure, EV caps, species existence, item/species clauses). It cannot check
 // learnset legality (that needs the 3MB learnsets we don't ship), so it's the
 // referee for the in-browser repair loop, not the full Node validator.
-import type { PokemonSet } from '../src/types'
-import { toId, NATURES } from './validate'
-import speciesTypes from './pokemonTypes.json'
+import type { PokemonSet } from '../../src/types'
+import { toId, NATURES, capitalize } from '../format'
+import speciesTypes from './assets/pokemonTypes.json'
 
 const VALID_SPECIES = new Set(Object.keys(speciesTypes as Record<string, string[]>))
-const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()
 
 export function validateLight(mons: PokemonSet[]): string[] {
   const issues: string[] = []
@@ -32,7 +31,7 @@ export function validateLight(mons: PokemonSet[]): string[] {
       seenItems.add(it)
     }
     if (!mon.ability) issues.push(`${name} has no ability`)
-    if (mon.nature && !NATURES.has(cap(mon.nature))) issues.push(`${name} has an invalid nature (${mon.nature})`)
+    if (mon.nature && !NATURES.has(capitalize(mon.nature))) issues.push(`${name} has an invalid nature (${mon.nature})`)
 
     const total = Object.values(mon.evs).reduce((a, b) => a + b, 0)
     if (total > 66) issues.push(`${name} has ${total} total EVs (max is 66 in this format)`)

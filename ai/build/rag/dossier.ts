@@ -2,7 +2,7 @@
 // buildBrowserIndex to precompute the dossier lines the browser ships (retrieval
 // itself now lives in browserRag.ts).
 import { topKeys } from './profiles'
-import { toId } from '../validate'
+import { toId } from '../../format'
 import type { ChaosEntry, DexEntryLite } from '../groundTruth'
 
 const STAT_KEYS = ['hp', 'atk', 'def', 'spa', 'spd', 'spe'] as const

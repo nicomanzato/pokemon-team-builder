@@ -1,7 +1,7 @@
 // Validator self-check. Needs the local data (ai/data). Run it directly:
 //   npx tsx ai/validate.test.ts
 import assert from 'node:assert'
-import type { PokemonSet } from '../src/types'
+import type { PokemonSet } from '../../src/types'
 import { validateTeam } from './validate'
 import { loadGroundTruth } from './groundTruth'
 

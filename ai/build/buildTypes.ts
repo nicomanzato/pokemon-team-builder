@@ -10,6 +10,6 @@ const types: Record<string, string[]> = {}
 for (const [id, entry] of Object.entries(loadDex())) {
   if (entry.types) types[id] = entry.types
 }
-const out = join(dirname(fileURLToPath(import.meta.url)), 'pokemonTypes.json')
+const out = join(dirname(fileURLToPath(import.meta.url)), '..', 'runtime', 'assets', 'pokemonTypes.json')
 writeFileSync(out, JSON.stringify(types))
 console.log(`wrote ${out}: ${Object.keys(types).length} species`)
