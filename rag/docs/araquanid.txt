@@ -1,5 +1,6 @@
-Araquanid. Water/Bug type. very slow, great under Trick Room.
+Araquanid. Water/Bug type. Base stats: 68/70/92/50/132/42 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Water Bubble.
+Common EV spread: Hardy — 32 HP.
 Common moves: Liquidation, Wide Guard, Protect, Leech Life, Facade, Lunge, Infestation, Rain Dance.
 Common item: Mystic Water, Babiri Berry, Life Orb.
 Frequent teammates: Kingambit, Farigiraf, Staraptor-Mega, Alcremie, Dragapult.

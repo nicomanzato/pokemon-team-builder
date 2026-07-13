@@ -1,5 +1,6 @@
-Vaporeon. Water type. slow.
+Vaporeon. Water type. Base stats: 130/65/60/110/95/65 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Water Absorb.
+Common EV spread: Bold — 32 HP / 32 Def / 1 SpD / 1 Spe.
 Common moves: Scald, Yawn, Detect, Fake Tears, Ice Beam, Protect, Muddy Water, Calm Mind.
 Common item: Sitrus Berry, Leftovers, Mystic Water.
 Frequent teammates: Sylveon, Espeon, Umbreon, Flareon, Jolteon.

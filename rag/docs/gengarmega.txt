@@ -1,5 +1,6 @@
-Gengar-Mega. Ghost/Poison type. very fast.
+Gengar-Mega. Ghost/Poison type. Base stats: 60/65/80/170/95/130 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Shadow Tag.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Shadow Ball, Perish Song, Sludge Bomb, Disable, Substitute, Sludge Wave, Icy Wind.
 Common item: Gengarite.
 Frequent teammates: Incineroar, Sinistcha, Politoed, Archaludon, Kingambit.

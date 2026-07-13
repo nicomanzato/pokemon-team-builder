@@ -1,5 +1,6 @@
-Bellibolt. Electric type. very slow, great under Trick Room.
+Bellibolt. Electric type. Base stats: 109/64/91/103/83/45 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Electromorphosis.
+Common EV spread: Quiet — 32 HP / 32 SpA / 2 SpD.
 Common moves: Parabolic Charge, Protect, Soak, Thunderbolt, Volt Switch, Weather Ball, Muddy Water, Slack Off.
 Common item: Leftovers, Magnet, Sitrus Berry.
 Frequent teammates: Sinistcha, Sceptile-Mega, Farigiraf, Pelipper, Kingambit.

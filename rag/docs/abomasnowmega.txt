@@ -1,5 +1,6 @@
-Abomasnow-Mega. Grass/Ice type. very slow, great under Trick Room.
+Abomasnow-Mega. Grass/Ice type. Base stats: 90/132/105/132/105/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Snow Warning.
+Common EV spread: Quiet — 32 HP / 2 Def / 32 SpA.
 Common moves: Blizzard, Energy Ball, Earth Power, Protect, Ice Shard, Giga Drain, Aurora Veil, Wood Hammer.
 Common item: Abomasite.
 Frequent teammates: Farigiraf, Incineroar, Basculegion, Camerupt-Mega, Torkoal.

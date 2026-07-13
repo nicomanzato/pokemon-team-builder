@@ -1,5 +1,6 @@
-Chesnaught. Grass/Fighting type. slow.
+Chesnaught. Grass/Fighting type. Base stats: 88/107/122/74/75/64 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Bulletproof.
+Common EV spread: Brave — 32 HP / 32 Atk / 2 Def.
 Common moves: Body Press, Seed Bomb, Wide Guard, Protect, High Horsepower, Spiky Shield, Close Combat, Iron Defense.
 Common item: Expert Belt, Leftovers, Sitrus Berry.
 Frequent teammates: Farigiraf, Mawile-Mega, Incineroar, Charizard-Mega-Y, Camerupt-Mega.

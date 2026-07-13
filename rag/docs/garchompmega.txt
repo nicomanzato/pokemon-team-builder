@@ -1,5 +1,6 @@
-Garchomp-Mega. Dragon/Ground type. fast.
+Garchomp-Mega. Dragon/Ground type. Base stats: 108/170/115/120/95/92 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Sand Force.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Protect, Earthquake, Rock Slide, Dragon Claw, Stomping Tantrum, Swords Dance, Poison Jab, Earth Power.
 Common item: Garchompite.
 Frequent teammates: Incineroar, Sinistcha, Kingambit, Sneasler, Tyranitar.

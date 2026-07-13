@@ -1,5 +1,6 @@
-Annihilape. Fighting/Ghost type. fast.
+Annihilape. Fighting/Ghost type. Base stats: 110/115/80/50/90/90 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Defiant.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Rage Fist, Protect, Drain Punch, Bulk Up, Close Combat, U-turn, Coaching, Shadow Claw.
 Common item: Leftovers, Choice Scarf, Focus Sash.
 Frequent teammates: Maushold, Incineroar, Sinistcha, Garchomp, Whimsicott.

@@ -1,5 +1,6 @@
-Aerodactyl-Mega. Rock/Flying type. very fast.
+Aerodactyl-Mega. Rock/Flying type. Base stats: 80/135/85/70/95/150 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Tough Claws.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Rock Slide, Dual Wingbeat, Tailwind, Protect, Ice Fang, Wide Guard, Taunt, Iron Head.
 Common item: Aerodactylite.
 Frequent teammates: Sylveon, Kingambit, Garchomp, Basculegion, Charizard-Mega-Y.

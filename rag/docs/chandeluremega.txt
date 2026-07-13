@@ -1,5 +1,6 @@
-Chandelure-Mega. Ghost/Fire type. fast.
+Chandelure-Mega. Ghost/Fire type. Base stats: 60/75/110/175/110/90 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Infiltrator.
+Common EV spread: Modest — 32 HP / 32 SpA / 2 Spe.
 Common moves: Heat Wave, Protect, Shadow Ball, Trick Room, Energy Ball, Calm Mind, Flamethrower, Overheat.
 Common item: Chandelurite.
 Frequent teammates: Whimsicott, Farigiraf, Kingambit, Sinistcha, Torkoal.

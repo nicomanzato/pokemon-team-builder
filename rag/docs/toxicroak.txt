@@ -1,5 +1,6 @@
-Toxicroak. Poison/Fighting type. medium speed.
+Toxicroak. Poison/Fighting type. Base stats: 83/106/65/86/65/85 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Dry Skin.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 Spe.
 Common moves: Fake Out, Poison Jab, Close Combat, Sucker Punch, Drain Punch, Protect, Gunk Shot, Rain Dance.
 Common item: Focus Sash, Expert Belt, Muscle Band.
 Frequent teammates: Pelipper, Raichu-Mega-Y, Blastoise-Mega, Palafin, Sylveon.

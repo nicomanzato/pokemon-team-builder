@@ -1,5 +1,6 @@
-Sableye. Dark/Ghost type. very slow, great under Trick Room.
+Sableye. Dark/Ghost type. Base stats: 50/75/75/65/65/50 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Prankster.
+Common EV spread: Calm — 32 HP / 9 Def / 25 SpD.
 Common moves: Rain Dance, Light Screen, Reflect, Encore, Will-O-Wisp, Foul Play, Fake Out, Disable.
 Common item: Light Clay, Roseli Berry, Sitrus Berry.
 Frequent teammates: Archaludon, Pelipper, Swampert-Mega, Sinistcha, Basculegion.

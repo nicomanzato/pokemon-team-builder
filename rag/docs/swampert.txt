@@ -1,5 +1,6 @@
-Swampert. Water/Ground type. slow.
+Swampert. Water/Ground type. Base stats: 100/110/90/85/90/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Torrent.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 SpD.
 Common moves: Protect, Wave Crash, Wide Guard, High Horsepower, Earthquake, Ice Punch, Earth Power, Flip Turn.
 Common item: Leftovers, Expert Belt, Life Orb.
 Frequent teammates: Incineroar, Sinistcha, Farigiraf, Mawile-Mega, Grimmsnarl.

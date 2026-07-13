@@ -1,5 +1,6 @@
-Pidgeot-Mega. Normal/Flying type. very fast.
+Pidgeot-Mega. Normal/Flying type. Base stats: 83/80/80/135/80/121 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: No Guard.
+Common EV spread: Timid — 1 HP / 32 SpA / 1 SpD / 32 Spe.
 Common moves: Hurricane, Heat Wave, Protect, Tailwind, Round, U-turn, Hyper Beam, Whirlwind.
 Common item: Pidgeotite.
 Frequent teammates: Tsareena, Raichu, Gholdengo, Clefable, Glimmora.

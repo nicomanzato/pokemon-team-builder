@@ -1,5 +1,6 @@
-Klefki. Steel/Fairy type. medium speed.
+Klefki. Steel/Fairy type. Base stats: 57/80/91/80/87/75 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Prankster.
+Common EV spread: Relaxed — 32 HP / 32 Def / 2 SpA.
 Common moves: Light Screen, Reflect, Dazzling Gleam, Trick Room, Thunder Wave, Rain Dance, Foul Play, Metal Sound.
 Common item: Light Clay, Mental Herb, Shuca Berry.
 Frequent teammates: Sinistcha, Archaludon, Farigiraf, Kangaskhan, Camerupt-Mega.

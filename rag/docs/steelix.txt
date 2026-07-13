@@ -1,5 +1,6 @@
-Steelix. Steel/Ground type. very slow, great under Trick Room.
+Steelix. Steel/Ground type. Base stats: 75/85/200/55/65/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Sturdy.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 SpD.
 Common moves: Heavy Slam, Wide Guard, Protect, Earthquake, Body Press, Stomping Tantrum, High Horsepower, Iron Head.
 Common item: Leftovers, Life Orb, Sitrus Berry.
 Frequent teammates: Basculegion, Whimsicott, Raichu-Mega-Y, Farigiraf, Staraptor-Mega.

@@ -1,5 +1,6 @@
-Ninetales. Fire type. fast.
+Ninetales. Fire type. Base stats: 73/76/75/81/100/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Drought.
+Common EV spread: Modest — 2 HP / 32 SpA / 32 Spe.
 Common moves: Heat Wave, Fake Tears, Solar Beam, Overheat, Sunny Day, Energy Ball, Weather Ball, Protect.
 Common item: Choice Scarf, Heat Rock, Charcoal.
 Frequent teammates: Pyroar-Mega, Whimsicott, Farigiraf, Basculegion, Floette-Mega.

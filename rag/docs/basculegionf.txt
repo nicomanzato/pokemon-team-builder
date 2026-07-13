@@ -1,5 +1,6 @@
-Basculegion-F. Water/Ghost type. medium speed.
+Basculegion-F. Water/Ghost type. Base stats: 120/92/65/100/75/78 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Adaptability.
+Common EV spread: Modest — 2 HP / 17 Def / 15 SpA / 32 Spe.
 Common moves: Shadow Ball, Muddy Water, Protect, Ice Beam, Hydro Pump, Aqua Jet, Flip Turn, Chilling Water.
 Common item: Life Orb, Mystic Water, Choice Scarf.
 Frequent teammates: Pelipper, Garchomp, Archaludon, Swampert-Mega, Farigiraf.

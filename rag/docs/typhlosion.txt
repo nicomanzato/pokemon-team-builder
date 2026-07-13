@@ -1,5 +1,6 @@
-Typhlosion. Fire type. fast.
+Typhlosion. Fire type. Base stats: 78/84/78/109/85/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Flash Fire.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Eruption, Scorching Sands, Heat Wave, Protect, Shadow Ball, Extrasensory, Solar Beam, Overheat.
 Common item: Choice Scarf, Charcoal, Focus Sash.
 Frequent teammates: Raichu-Mega-Y, Mawile-Mega, Whimsicott, Meowscarada, Garchomp.

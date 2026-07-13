@@ -1,5 +1,6 @@
-Sharpedo-Mega. Water/Dark type. fast.
+Sharpedo-Mega. Water/Dark type. Base stats: 70/140/70/110/65/105 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Strong Jaw.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Protect, Crunch, Psychic Fangs, Liquidation, Ice Fang, Waterfall, Close Combat, Endure.
 Common item: Sharpedonite.
 Frequent teammates: Sneasler, Annihilape, Talonflame, Sableye, Dragapult.

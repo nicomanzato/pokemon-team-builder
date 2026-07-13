@@ -1,5 +1,6 @@
-Incineroar. Fire/Dark type. slow.
+Incineroar. Fire/Dark type. Base stats: 95/115/90/80/90/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Intimidate.
+Common EV spread: Careful — 32 HP / 14 Def / 20 SpD.
 Common moves: Fake Out, Parting Shot, Flare Blitz, Throat Chop, Darkest Lariat, Protect, Helping Hand, Will-O-Wisp.
 Common item: Sitrus Berry, Passho Berry, Chople Berry.
 Frequent teammates: Sinistcha, Garchomp, Floette-Mega, Sneasler, Whimsicott.

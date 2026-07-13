@@ -1,5 +1,6 @@
-Chesnaught-Mega. Grass/Fighting type. very slow, great under Trick Room.
+Chesnaught-Mega. Grass/Fighting type. Base stats: 88/137/172/74/115/44 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Bulletproof.
+Common EV spread: Relaxed — 32 HP / 32 Def / 2 SpD.
 Common moves: Body Press, Spiky Shield, Iron Defense, Wood Hammer, Wide Guard, Leech Seed, Seed Bomb, Knock Off.
 Common item: Chesnaughtite.
 Frequent teammates: Incineroar, Sinistcha, Pelipper, Farigiraf, Grimmsnarl.

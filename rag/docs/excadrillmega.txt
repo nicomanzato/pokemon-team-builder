@@ -1,5 +1,6 @@
-Excadrill-Mega. Ground/Steel type. fast.
+Excadrill-Mega. Ground/Steel type. Base stats: 110/165/100/65/65/103 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Piercing Drill.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Protect, Iron Head, Rock Slide, High Horsepower, Earthquake, Swords Dance, Drill Run, Stomping Tantrum.
 Common item: Excadrite.
 Frequent teammates: Incineroar, Basculegion, Whimsicott, Sinistcha, Grimmsnarl.

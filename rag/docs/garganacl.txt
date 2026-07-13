@@ -1,5 +1,6 @@
-Garganacl. Rock type. very slow, great under Trick Room.
+Garganacl. Rock type. Base stats: 100/100/130/45/90/35 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Purifying Salt.
+Common EV spread: Careful — 30 HP / 4 Def / 32 SpD.
 Common moves: Salt Cure, Protect, Body Press, Wide Guard, Iron Defense, Recover, Rock Slide, Heavy Slam.
 Common item: Leftovers, quickclaw, Sitrus Berry.
 Frequent teammates: Farigiraf, Torkoal, Scrafty-Mega, Mawile-Mega, Klefki.

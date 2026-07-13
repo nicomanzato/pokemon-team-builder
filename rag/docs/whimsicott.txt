@@ -1,5 +1,6 @@
-Whimsicott. Grass/Fairy type. very fast.
+Whimsicott. Grass/Fairy type. Base stats: 60/67/85/77/75/116 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Prankster.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Tailwind, Moonblast, Encore, Protect, Charm, Sunny Day, Fake Tears, Tickle.
 Common item: Focus Sash, Fairy Feather, Mental Herb.
 Frequent teammates: Garchomp, Basculegion, Charizard-Mega-Y, Kingambit, Floette-Mega.

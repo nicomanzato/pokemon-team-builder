@@ -1,5 +1,6 @@
-Banette-Mega. Ghost type. medium speed.
+Banette-Mega. Ghost type. Base stats: 64/165/75/93/83/75 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Prankster.
+Common EV spread: Adamant — 32 Atk / 1 Def / 1 SpD / 32 Spe.
 Common moves: Poltergeist, Destiny Bond, Encore, Will-O-Wisp, Shadow Sneak, Trick Room, Rain Dance, Disable.
 Common item: Banettite.
 Frequent teammates: Archaludon, Sneasler, Pelipper, Sylveon, Basculegion.

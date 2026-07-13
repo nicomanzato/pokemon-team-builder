@@ -1,5 +1,6 @@
-Roserade. Grass/Poison type. fast.
+Roserade. Grass/Poison type. Base stats: 60/70/65/125/105/90 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Poison Point.
+Common EV spread: Timid — 2 Def / 32 SpA / 32 Spe.
 Common moves: Sludge Bomb, Sleep Powder, Extrasensory, Leaf Storm, Giga Drain, Protect, Dazzling Gleam, Energy Ball.
 Common item: Choice Scarf, Life Orb, Focus Sash.
 Frequent teammates: Corviknight, Garchomp, Rotom-Heat, Basculegion-F, Lopunny-Mega.

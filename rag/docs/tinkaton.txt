@@ -1,5 +1,6 @@
-Tinkaton. Fairy/Steel type. fast.
+Tinkaton. Fairy/Steel type. Base stats: 85/75/77/70/105/94 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Mold Breaker.
+Common EV spread: Jolly — 23 HP / 8 Atk / 7 Def / 28 Spe.
 Common moves: Gigaton Hammer, Fake Out, Protect, Encore, Play Rough, Knock Off, Feint, Skill Swap.
 Common item: Shuca Berry, Metal Coat, Occa Berry.
 Frequent teammates: Incineroar, Gengar-Mega, Sinistcha, Politoed, Garchomp.

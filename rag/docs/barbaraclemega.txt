@@ -1,5 +1,6 @@
-Barbaracle-Mega. Rock/Fighting type. medium speed.
+Barbaracle-Mega. Rock/Fighting type. Base stats: 72/140/130/64/106/88 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: noability.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Rock Slide, Close Combat, Protect, Shell Smash, Liquidation, Poison Jab, Aqua Cutter, Night Slash.
 Common item: Barbaracite.
 Frequent teammates: Incineroar, Sinistcha, Basculegion, Whimsicott, Kingambit.

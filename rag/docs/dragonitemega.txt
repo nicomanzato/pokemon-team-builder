@@ -1,5 +1,6 @@
-Dragonite-Mega. Dragon/Flying type. fast.
+Dragonite-Mega. Dragon/Flying type. Base stats: 91/124/115/145/125/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Multiscale.
+Common EV spread: Modest — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Dragon Pulse, Hurricane, Tailwind, Draco Meteor, Heat Wave, Thunderbolt, Flamethrower.
 Common item: Dragoninite.
 Frequent teammates: Pelipper, Archaludon, Sneasler, Basculegion, Incineroar.

@@ -1,5 +1,6 @@
-Trevenant. Ghost/Grass type. slow.
+Trevenant. Ghost/Grass type. Base stats: 85/110/76/65/82/56 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Harvest.
+Common EV spread: Careful — 31 HP / 3 Atk / 32 SpD.
 Common moves: Will-O-Wisp, Trick Room, Protect, Horn Leech, Wood Hammer, Poltergeist, Ally Switch, Forest's Curse.
 Common item: Sitrus Berry, Colbur Berry, Big Root.
 Frequent teammates: Torkoal, Farigiraf, Tyranitar-Mega, Houndstone, Mawile-Mega.

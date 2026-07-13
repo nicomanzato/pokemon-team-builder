@@ -1,5 +1,6 @@
-Ninetales-Alola. Ice/Fairy type. fast.
+Ninetales-Alola. Ice/Fairy type. Base stats: 73/67/75/81/100/109 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Snow Warning.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Blizzard, Protect, Freeze-Dry, Aurora Veil, Encore, Moonblast, Icy Wind, Disable.
 Common item: Never-Melt Ice, Light Clay, Focus Sash.
 Frequent teammates: Incineroar, Garchomp, Raichu-Mega-Y, Basculegion, Kingambit.

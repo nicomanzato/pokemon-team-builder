@@ -1,5 +1,6 @@
-Espeon. Psychic type. very fast.
+Espeon. Psychic type. Base stats: 65/65/60/130/95/110 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Magic Bounce.
+Common EV spread: Bold — 32 HP / 25 Def / 9 SpD.
 Common moves: Trick Room, Detect, Psyshock, Helping Hand, Psychic, Protect, Power Gem, Shadow Ball.
 Common item: Colbur Berry, Focus Sash, Life Orb.
 Frequent teammates: Umbreon, Sylveon, Flareon, Vaporeon, Jolteon.

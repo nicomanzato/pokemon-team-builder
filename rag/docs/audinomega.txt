@@ -1,5 +1,6 @@
-Audino-Mega. Normal/Fairy type. very slow, great under Trick Room.
+Audino-Mega. Normal/Fairy type. Base stats: 103/60/126/80/126/50 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Healer.
+Common EV spread: Bold — 32 HP / 24 Def / 10 SpD.
 Common moves: Dazzling Gleam, Trick Room, Calm Mind, Simple Beam, Life Dew, Protect, Draining Kiss, Heal Pulse.
 Common item: Audinite.
 Frequent teammates: Sinistcha, Maushold, Torkoal, Kingambit, Mudsdale.

@@ -1,5 +1,6 @@
-Aegislash. Steel/Ghost type. slow.
+Aegislash. Steel/Ghost type. Base stats: 60/50/140/50/140/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Stance Change.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 SpD.
 Common moves: King's Shield, Shadow Sneak, Poltergeist, Iron Head, Wide Guard, Sacred Sword, Shadow Ball, Flash Cannon.
 Common item: Spell Tag, Leftovers, Life Orb.
 Frequent teammates: Garchomp, Incineroar, Staraptor-Mega, Whimsicott, Rotom-Wash.

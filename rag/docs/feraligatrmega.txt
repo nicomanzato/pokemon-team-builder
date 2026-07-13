@@ -1,5 +1,6 @@
-Feraligatr-Mega. Water/Dragon type. medium speed.
+Feraligatr-Mega. Water/Dragon type. Base stats: 85/160/125/89/93/78 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Dragonize.
+Common EV spread: Adamant — 21 HP / 10 Atk / 3 SpD / 32 Spe.
 Common moves: Protect, Liquidation, Double-Edge, Dragon Dance, Body Slam, Aqua Jet, Swords Dance, Waterfall.
 Common item: Feraligite.
 Frequent teammates: Gholdengo, Whimsicott, Sinistcha, Hydreigon, Sneasler.

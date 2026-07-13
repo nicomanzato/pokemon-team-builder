@@ -1,5 +1,6 @@
-Toucannon. Normal/Flying type. slow.
+Toucannon. Normal/Flying type. Base stats: 80/120/75/75/75/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Skill Link.
+Common EV spread: Brave — 32 HP / 32 Atk / 2 SpD.
 Common moves: Beak Blast, Rock Blast, Protect, Bullet Seed, Facade, Knock Off, U-turn, Tailwind.
 Common item: Muscle Band, Sharp Beak, Sitrus Berry.
 Frequent teammates: Farigiraf, Archaludon, Incineroar, Mawile-Mega, Clawitzer.

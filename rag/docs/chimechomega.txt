@@ -1,5 +1,6 @@
-Chimecho-Mega. Psychic/Steel type. slow.
+Chimecho-Mega. Psychic/Steel type. Base stats: 75/50/110/135/120/65 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Levitate.
+Common EV spread: Modest — 32 HP / 26 Def / 8 SpA.
 Common moves: Trick Room, Flash Cannon, Psychic, Protect, Boomburst, Helping Hand, Stored Power, Calm Mind.
 Common item: Chimechite.
 Frequent teammates: Pelipper, Archaludon, Swampert-Mega, Primarina, Staraptor.

@@ -1,5 +1,6 @@
-Simipour. Water type. fast.
+Simipour. Water type. Base stats: 75/98/63/98/63/101 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Torrent.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Fake Out, Scald, Icy Wind, Taunt, Helping Hand, Ice Beam, Protect, Flip Turn.
 Common item: Focus Sash, Sitrus Berry, Mystic Water.
 Frequent teammates: Maushold, Simisage, Simisear, Whimsicott, Raichu-Mega-Y.

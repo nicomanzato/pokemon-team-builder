@@ -1,5 +1,6 @@
-Sneasler. Fighting/Poison type. very fast.
+Sneasler. Fighting/Poison type. Base stats: 80/130/60/40/80/120 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Unburden.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Close Combat, Fake Out, Dire Claw, Protect, Coaching, Quick Guard, Poison Jab, Gunk Shot.
 Common item: White Herb, Focus Sash, Iron Ball.
 Frequent teammates: Sinistcha, Incineroar, Kingambit, Basculegion, Floette-Mega.

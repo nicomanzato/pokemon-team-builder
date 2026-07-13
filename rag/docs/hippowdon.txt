@@ -1,5 +1,6 @@
-Hippowdon. Ground type. very slow, great under Trick Room.
+Hippowdon. Ground type. Base stats: 108/112/118/68/72/47 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Sand Stream.
+Common EV spread: Impish — 32 HP / 2 Atk / 32 Def.
 Common moves: Protect, High Horsepower, Yawn, Slack Off, Rock Slide, Earthquake, Stealth Rock, Roar.
 Common item: Leftovers, Sitrus Berry, Soft Sand.
 Frequent teammates: Corviknight, Sinistcha, Excadrill, Scovillain-Mega, Kleavor.

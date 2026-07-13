@@ -1,5 +1,6 @@
-Slowbro-Mega. Water/Psychic type. very slow, great under Trick Room.
+Slowbro-Mega. Water/Psychic type. Base stats: 95/75/180/130/80/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Shell Armor.
+Common EV spread: Calm — 32 HP / 2 Def / 31 SpD / 1 Spe.
 Common moves: Body Press, Slack Off, Trick Room, Scald, Iron Defense, Stored Power, Psychic, Calm Mind.
 Common item: Slowbronite.
 Frequent teammates: Sinistcha, Incineroar, Sableye, Farigiraf, Audino.

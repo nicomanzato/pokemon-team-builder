@@ -1,5 +1,6 @@
-Altaria. Dragon/Flying type. medium speed.
+Altaria. Dragon/Flying type. Base stats: 75/70/90/70/105/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Cloud Nine.
+Common EV spread: Timid — 25 HP / 21 Def / 20 Spe.
 Common moves: Will-O-Wisp, Tailwind, Protect, Brave Bird, Roost, Helping Hand, Perish Song, Feather Dance.
 Common item: Yache Berry, Sitrus Berry, Haban Berry.
 Frequent teammates: Sneasler, Incineroar, Kingambit, Metagross-Mega, Whimsicott.

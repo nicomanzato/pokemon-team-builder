@@ -1,5 +1,6 @@
-Pikachu. Electric type. fast.
+Pikachu. Electric type. Base stats: 35/55/40/50/50/90 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Lightning Rod.
+Common EV spread: Modest — 2 HP / 32 SpA / 32 Spe.
 Common moves: Fake Out, Rising Voltage, Grass Knot, Protect, Alluring Voice, Discharge, Electroweb, Nuzzle.
 Common item: Light Ball, Focus Sash, Expert Belt.
 Frequent teammates: Raichu-Mega-X, Pelipper, Basculegion, Farigiraf, Sylveon.

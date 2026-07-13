@@ -1,5 +1,6 @@
-Heliolisk. Electric/Normal type. fast.
+Heliolisk. Electric/Normal type. Base stats: 62/55/52/109/94/109 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Dry Skin.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Hyper Voice, Volt Switch, Thunderbolt, Discharge, Protect, Shed Tail, Grass Knot, Weather Ball.
 Common item: Choice Scarf, Life Orb, Focus Sash.
 Frequent teammates: Sceptile-Mega, Whimsicott, Sinistcha, Pelipper, Basculegion.

@@ -1,5 +1,6 @@
-Quaquaval. Water/Fighting type. medium speed.
+Quaquaval. Water/Fighting type. Base stats: 85/120/80/85/75/85 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Moxie.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Aqua Step, Close Combat, Protect, Aqua Jet, Triple Axel, Detect, Ice Spinner, Wave Crash.
 Common item: Life Orb, Focus Sash, Mystic Water.
 Frequent teammates: Sinistcha, Pelipper, Incineroar, Metagross-Mega, Archaludon.

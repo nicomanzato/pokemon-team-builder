@@ -1,5 +1,6 @@
-Mudsdale. Ground type. very slow, great under Trick Room.
+Mudsdale. Ground type. Base stats: 100/125/100/55/85/35 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Inner Focus.
+Common EV spread: Brave — 32 HP / 32 Atk / 2 SpD.
 Common moves: High Horsepower, Protect, Rock Slide, Earthquake, Heavy Slam, Body Press, Close Combat, Curse.
 Common item: Life Orb, Soft Sand, Leftovers.
 Frequent teammates: Torkoal, Farigiraf, Sinistcha, Basculegion, Incineroar.

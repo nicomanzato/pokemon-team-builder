@@ -1,5 +1,6 @@
-Houndoom-Mega. Dark/Fire type. very fast.
+Houndoom-Mega. Dark/Fire type. Base stats: 75/90/90/140/90/115 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Solar Power.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Dark Pulse, Heat Wave, Sludge Bomb, Flamethrower, Overheat, Snarl, Solar Beam.
 Common item: Houndoominite.
 Frequent teammates: Farigiraf, Torkoal, Basculegion, Sneasler, Floette-Mega.

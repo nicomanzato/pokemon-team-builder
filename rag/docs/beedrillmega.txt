@@ -1,5 +1,6 @@
-Beedrill-Mega. Bug/Poison type. very fast.
+Beedrill-Mega. Bug/Poison type. Base stats: 65/150/40/15/80/145 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Adaptability.
+Common EV spread: Jolly — 1 HP / 32 Atk / 1 SpD / 32 Spe.
 Common moves: Poison Jab, Protect, U-turn, Drill Run, Lunge, Fell Stinger, Knock Off, Brick Break.
 Common item: Beedrillite.
 Frequent teammates: Archaludon, Annihilape, Incineroar, Sableye, Maushold.

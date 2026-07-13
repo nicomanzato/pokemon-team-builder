@@ -1,5 +1,6 @@
-Torkoal. Fire type. very slow, great under Trick Room.
+Torkoal. Fire type. Base stats: 70/85/140/85/70/20 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Drought.
+Common EV spread: Quiet — 32 HP / 32 SpA / 2 SpD.
 Common moves: Eruption, Protect, Weather Ball, Heat Wave, Earth Power, Helping Hand, Solar Beam, Yawn.
 Common item: Charcoal, Heat Rock, Life Orb.
 Frequent teammates: Farigiraf, Mawile-Mega, Incineroar, Pyroar-Mega, Staraptor.

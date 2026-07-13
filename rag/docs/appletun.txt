@@ -1,5 +1,6 @@
-Appletun. Grass/Dragon type. very slow, great under Trick Room.
+Appletun. Grass/Dragon type. Base stats: 110/85/80/100/80/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Thick Fat.
+Common EV spread: Modest — 32 HP / 1 Def / 32 SpA / 1 SpD.
 Common moves: Apple Acid, Protect, Dragon Pulse, Leech Seed, Substitute, Light Screen, Reflect, Amnesia.
 Common item: Leftovers, Coba Berry, Sitrus Berry.
 Frequent teammates: Grimmsnarl, Sinistcha, Farigiraf, Slowbro-Mega, Kangaskhan.

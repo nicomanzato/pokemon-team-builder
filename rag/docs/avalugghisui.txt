@@ -1,5 +1,6 @@
-Avalugg-Hisui. Ice/Rock type. very slow, great under Trick Room.
+Avalugg-Hisui. Ice/Rock type. Base stats: 95/127/184/34/36/38 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Sturdy.
+Common EV spread: Adamant — 1 HP / 32 Atk / 1 Def / 32 Spe.
 Common moves: Rock Slide, Body Press, Protect, Wide Guard, Mountain Gale, Icicle Spear, Crunch, Ice Fang.
 Common item: Expert Belt, Wide Lens, Life Orb.
 Frequent teammates: Farigiraf, Froslass-Mega, Torkoal, Decidueye-Hisui, Whimsicott.

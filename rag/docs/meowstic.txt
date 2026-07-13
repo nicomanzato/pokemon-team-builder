@@ -1,5 +1,6 @@
-Meowstic. Psychic type. fast.
+Meowstic. Psychic type. Base stats: 74/48/76/83/81/104 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Prankster.
+Common EV spread: Modest — 32 HP / 2 Def / 32 SpA.
 Common moves: Fake Out, Psychic Terrain, Expanding Force, Reflect, Light Screen, Sunny Day, Rain Dance, Charm.
 Common item: Focus Sash, Mental Herb, Light Clay.
 Frequent teammates: Staraptor-Mega, Sinistcha, Armarouge, Metagross-Mega, Pelipper.

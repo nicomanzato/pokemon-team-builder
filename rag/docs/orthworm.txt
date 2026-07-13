@@ -1,5 +1,6 @@
-Orthworm. Steel type. slow.
+Orthworm. Steel type. Base stats: 70/85/145/60/55/65 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Earth Eater.
+Common EV spread: Careful — 31 HP / 25 SpD / 10 Spe.
 Common moves: Body Press, Shed Tail, Protect, Heavy Slam, Helping Hand, Iron Defense, Coil, Iron Head.
 Common item: Sitrus Berry, Leftovers, Occa Berry.
 Frequent teammates: Garchomp, Pelipper, Swampert-Mega, Whimsicott, Sinistcha.

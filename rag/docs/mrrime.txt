@@ -1,5 +1,6 @@
-Mr. Rime. Ice/Psychic type. slow.
+Mr. Rime. Ice/Psychic type. Base stats: 80/85/75/110/100/70 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Screen Cleaner.
+Common EV spread: Quiet — 32 HP / 2 Def / 32 SpA.
 Common moves: Fake Out, Freeze-Dry, Psychic, Trick Room, Protect, Sheer Cold, Skill Swap, Role Play.
 Common item: Focus Sash, Sitrus Berry, Iron Ball.
 Frequent teammates: Raichu-Mega-Y, Incineroar, Sinistcha, Farigiraf, Mawile-Mega.

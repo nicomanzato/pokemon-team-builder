@@ -1,5 +1,6 @@
-Ampharos-Mega. Electric/Dragon type. very slow, great under Trick Room.
+Ampharos-Mega. Electric/Dragon type. Base stats: 90/95/105/165/110/45 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Mold Breaker.
+Common EV spread: Quiet — 32 HP / 2 Def / 32 SpA.
 Common moves: Dragon Pulse, Protect, Thunderbolt, Cotton Guard, Focus Blast, Volt Switch, Parabolic Charge, Thunder.
 Common item: Ampharosite.
 Frequent teammates: Farigiraf, Incineroar, Mawile-Mega, Torkoal, Sinistcha.

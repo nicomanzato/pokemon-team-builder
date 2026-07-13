@@ -1,5 +1,6 @@
-Metagross-Mega. Steel/Psychic type. very fast.
+Metagross-Mega. Steel/Psychic type. Base stats: 80/145/150/105/110/110 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Tough Claws.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Protect, Psychic Fangs, Iron Head, Bullet Punch, Ice Punch, Stomping Tantrum, Body Press, Meteor Mash.
 Common item: Metagrossite.
 Frequent teammates: Sinistcha, Garchomp, Whimsicott, Basculegion, Incineroar.

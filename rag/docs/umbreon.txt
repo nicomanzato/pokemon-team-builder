@@ -1,5 +1,6 @@
-Umbreon. Dark type. slow.
+Umbreon. Dark type. Base stats: 95/65/110/60/130/65 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Inner Focus.
+Common EV spread: Bold — 32 HP / 17 Def / 10 SpD / 7 Spe.
 Common moves: Foul Play, Snarl, Taunt, Moonlight, Yawn, Helping Hand, Protect, Detect.
 Common item: Leftovers, Sitrus Berry, Chople Berry.
 Frequent teammates: Whimsicott, Garchomp, Metagross-Mega, Charizard-Mega-Y, Glimmora.

@@ -1,5 +1,6 @@
-Aggron-Mega. Steel type. very slow, great under Trick Room.
+Aggron-Mega. Steel type. Base stats: 70/140/230/60/80/50 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Filter.
+Common EV spread: Careful — 32 HP / 2 Def / 32 SpD.
 Common moves: Body Press, Heavy Slam, Iron Defense, Protect, Earthquake, Iron Head, Rock Slide, Ice Punch.
 Common item: Aggronite.
 Frequent teammates: Sinistcha, Grimmsnarl, Farigiraf, Rotom-Wash, Incineroar.

@@ -1,5 +1,6 @@
-Charizard-Mega-Y. Fire/Flying type. fast.
+Charizard-Mega-Y. Fire/Flying type. Base stats: 78/104/78/159/115/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Drought.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Heat Wave, Solar Beam, Weather Ball, Air Slash, Overheat, Ancient Power, Helping Hand.
 Common item: Charizardite Y.
 Frequent teammates: Garchomp, Whimsicott, Basculegion, Kingambit, Floette-Mega.

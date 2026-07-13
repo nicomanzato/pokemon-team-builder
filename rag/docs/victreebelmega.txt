@@ -1,5 +1,6 @@
-Victreebel-Mega. Grass/Poison type. slow.
+Victreebel-Mega. Grass/Poison type. Base stats: 80/125/85/135/95/70 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Innards Out.
+Common EV spread: Rash — 32 HP / 2 Def / 32 SpA.
 Common moves: Sludge Bomb, Strength Sap, Giga Drain, Protect, Sleep Powder, Sucker Punch, Encore, Poison Jab.
 Common item: Victreebelite.
 Frequent teammates: Corviknight, Garchomp, Incineroar, Basculegion, Kingambit.

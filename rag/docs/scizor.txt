@@ -1,5 +1,6 @@
-Scizor. Bug/Steel type. slow.
+Scizor. Bug/Steel type. Base stats: 70/130/100/55/80/65 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Technician.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 SpD.
 Common moves: Bullet Punch, Protect, Bug Bite, Swords Dance, Close Combat, U-turn, Dual Wingbeat, Brick Break.
 Common item: Life Orb, Metal Coat, Expert Belt.
 Frequent teammates: Sinistcha, Incineroar, Staraptor-Mega, Pelipper, Whimsicott.

@@ -1,5 +1,6 @@
-Tsareena. Grass type. medium speed.
+Tsareena. Grass type. Base stats: 72/120/98/50/98/72 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Queenly Majesty.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Triple Axel, Protect, Trop Kick, Low Kick, Power Whip, Taunt, U-turn, High Jump Kick.
 Common item: Wide Lens, Sitrus Berry, Choice Scarf.
 Frequent teammates: Raichu-Mega-Y, Kingambit, Pelipper, Basculegion, Talonflame.

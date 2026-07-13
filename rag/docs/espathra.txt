@@ -1,5 +1,6 @@
-Espathra. Psychic type. fast.
+Espathra. Psychic type. Base stats: 95/60/60/101/60/105 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Speed Boost.
+Common EV spread: Timid — 32 HP / 9 Def / 6 SpD / 19 Spe.
 Common moves: Protect, Lumina Crash, Calm Mind, Baton Pass, Dazzling Gleam, Stored Power, Hypnosis, Psych Up.
 Common item: Sitrus Berry, Focus Sash, Mental Herb.
 Frequent teammates: Archaludon, Sneasler, Scovillain-Mega, Politoed, Sinistcha.

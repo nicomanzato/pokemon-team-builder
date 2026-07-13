@@ -1,5 +1,6 @@
-Floette-Eternal. Fairy type. fast.
+Floette-Eternal. Fairy type. Base stats: 74/65/67/125/128/92 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Flower Veil.
+Common EV spread: Modest — 2 HP / 32 SpA / 32 Spe.
 Common moves: Dazzling Gleam, Light of Ruin, Moonblast, Protect, Psychic, Trick, Pollen Puff, Chilling Water.
 Common item: Choice Scarf, Life Orb, Fairy Feather.
 Frequent teammates: Sneasler, Kingambit, Sinistcha, Basculegion, Garchomp.

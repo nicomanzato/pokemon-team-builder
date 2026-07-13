@@ -1,5 +1,6 @@
-Noivern. Flying/Dragon type. very fast.
+Noivern. Flying/Dragon type. Base stats: 85/70/80/97/80/123 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Telepathy.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Tailwind, Draco Meteor, Protect, Super Fang, Air Slash, Taunt, Hurricane, Dragon Pulse.
 Common item: Focus Sash, White Herb, Haban Berry.
 Frequent teammates: Garchomp, Sinistcha, Eelektross-Mega, Incineroar, Glimmora-Mega.

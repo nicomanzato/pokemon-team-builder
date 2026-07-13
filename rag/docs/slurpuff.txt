@@ -1,5 +1,6 @@
-Slurpuff. Fairy type. medium speed.
+Slurpuff. Fairy type. Base stats: 82/80/86/85/75/72 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Unburden.
+Common EV spread: Impish — 32 HP / 6 Def / 28 SpD.
 Common moves: Cotton Guard, Protect, Amnesia, After You, Sticky Web, String Shot, Dazzling Gleam, Energy Ball.
 Common item: Sitrus Berry, Leftovers, Big Root.
 Frequent teammates: Sableye, Slowbro-Mega, Snorlax, Audino, Staraptor.

@@ -1,5 +1,6 @@
-Floette-Mega. Fairy type. fast.
+Floette-Mega. Fairy type. Base stats: 74/85/87/155/148/102 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Fairy Aura.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Dazzling Gleam, Moonblast, Light of Ruin, Calm Mind, Draining Kiss, Psychic, Grass Knot.
 Common item: Floettite.
 Frequent teammates: Whimsicott, Garchomp, Basculegion, Incineroar, Kingambit.

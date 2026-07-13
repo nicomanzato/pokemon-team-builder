@@ -1,5 +1,6 @@
-Tyrantrum. Rock/Dragon type. medium speed.
+Tyrantrum. Rock/Dragon type. Base stats: 82/121/119/69/59/71 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Rock Head.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Head Smash, Rock Slide, Dragon Claw, Protect, Psychic Fangs, Close Combat, Ice Fang, Play Rough.
 Common item: Choice Scarf, Life Orb, quickclaw.
 Frequent teammates: Farigiraf, Pelipper, Sinistcha, Kingambit, Primarina.

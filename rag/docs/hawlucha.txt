@@ -1,5 +1,6 @@
-Hawlucha. Fighting/Flying type. very fast.
+Hawlucha. Fighting/Flying type. Base stats: 78/92/75/74/63/118 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Unburden.
+Common EV spread: Adamant — 32 Atk / 1 Def / 1 SpD / 32 Spe.
 Common moves: Close Combat, Protect, Brave Bird, Coaching, Acrobatics, Encore, Iron Head, Detect.
 Common item: White Herb, Focus Sash, Lum Berry.
 Frequent teammates: Aegislash, Raichu-Mega-Y, Politoed, Ninetales-Alola, Tsareena.

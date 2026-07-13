@@ -1,5 +1,6 @@
-Hydrapple. Grass/Dragon type. very slow, great under Trick Room.
+Hydrapple. Grass/Dragon type. Base stats: 106/80/110/120/80/44 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Regenerator.
+Common EV spread: Quiet — 32 HP / 32 SpA / 2 SpD.
 Common moves: Protect, Fickle Beam, Earth Power, Energy Ball, Giga Drain, Draco Meteor, Yawn, Pollen Puff.
 Common item: Life Orb, Leftovers, Roseli Berry.
 Frequent teammates: Farigiraf, Mawile-Mega, Incineroar, Kingambit, Raichu-Mega-Y.

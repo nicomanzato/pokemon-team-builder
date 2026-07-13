@@ -1,5 +1,6 @@
-Kangaskhan. Normal type. fast.
+Kangaskhan. Normal type. Base stats: 105/95/80/40/80/90 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Scrappy.
+Common EV spread: Brave — 32 HP / 32 Atk / 2 Def.
 Common moves: Fake Out, Last Resort, Double-Edge, Ice Punch, Sucker Punch, Low Kick, Hammer Arm, Brick Break.
 Common item: Silk Scarf, Life Orb, Chople Berry.
 Frequent teammates: Farigiraf, Torkoal, Mawile-Mega, Basculegion, Sinistcha.

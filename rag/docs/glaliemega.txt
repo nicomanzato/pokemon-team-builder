@@ -1,5 +1,6 @@
-Glalie-Mega. Ice type. fast.
+Glalie-Mega. Ice type. Base stats: 80/120/80/120/80/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Refrigerate.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Explosion, Protect, Body Slam, Ice Shard, Taunt, Ice Spinner, Disable, Icicle Crash.
 Common item: Glalitite.
 Frequent teammates: Oranguru, Torkoal, Garchomp, Sylveon, Basculegion.

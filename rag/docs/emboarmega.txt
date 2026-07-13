@@ -1,5 +1,6 @@
-Emboar-Mega. Fire/Fighting type. medium speed.
+Emboar-Mega. Fire/Fighting type. Base stats: 110/148/75/110/110/75 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Mold Breaker.
+Common EV spread: Brave — 32 HP / 32 Atk / 2 SpD.
 Common moves: Flare Blitz, Drain Punch, Protect, Sucker Punch, Bulk Up, Close Combat, Wild Charge, Earthquake.
 Common item: Emboarite.
 Frequent teammates: Farigiraf, Sinistcha, Rotom-Wash, Kingambit, Aerodactyl.

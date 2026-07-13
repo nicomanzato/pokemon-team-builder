@@ -1,5 +1,6 @@
-Kangaskhan-Mega. Normal type. fast.
+Kangaskhan-Mega. Normal type. Base stats: 105/125/100/60/100/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Parental Bond.
+Common EV spread: Adamant — 32 HP / 32 Atk / 1 Def / 1 SpD.
 Common moves: Fake Out, Double-Edge, Ice Punch, Sucker Punch, Low Kick, Hammer Arm, Drain Punch, Crunch.
 Common item: Kangaskhanite.
 Frequent teammates: Farigiraf, Torkoal, Basculegion, Kingambit, Incineroar.

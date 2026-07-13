@@ -1,5 +1,6 @@
-Staraptor. Normal/Flying type. fast.
+Staraptor. Normal/Flying type. Base stats: 85/120/70/50/60/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Intimidate.
+Common EV spread: Jolly — 32 HP / 2 Atk / 32 Spe.
 Common moves: Final Gambit, Close Combat, Brave Bird, U-turn, Tailwind, Dual Wingbeat, Double-Edge, Rain Dance.
 Common item: Choice Scarf, Focus Sash, Sitrus Berry.
 Frequent teammates: Farigiraf, Torkoal, Mawile-Mega, Kingambit, Incineroar.

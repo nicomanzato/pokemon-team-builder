@@ -1,5 +1,6 @@
-Krookodile. Ground/Dark type. fast.
+Krookodile. Ground/Dark type. Base stats: 95/117/80/65/70/92 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Intimidate.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Knock Off, Earthquake, High Horsepower, Protect, Rock Slide, Throat Chop, Taunt, Gunk Shot.
 Common item: Choice Scarf, Focus Sash, Soft Sand.
 Frequent teammates: Whimsicott, Pelipper, Sylveon, Archaludon, Sinistcha.

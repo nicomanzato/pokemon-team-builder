@@ -1,5 +1,6 @@
-Drampa-Mega. Normal/Dragon type. very slow, great under Trick Room.
+Drampa-Mega. Normal/Dragon type. Base stats: 78/85/110/160/116/36 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Berserk.
+Common EV spread: Quiet — 32 HP / 32 SpA / 2 SpD.
 Common moves: Hyper Voice, Protect, Earth Power, Draco Meteor, Dragon Pulse, Calm Mind, Thunderbolt, Energy Ball.
 Common item: Drampanite.
 Frequent teammates: Farigiraf, Torkoal, Sinistcha, Incineroar, Basculegion.

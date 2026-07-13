@@ -1,5 +1,6 @@
-Arcanine. Fire type. fast.
+Arcanine. Fire type. Base stats: 90/110/80/100/80/95 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Intimidate.
+Common EV spread: Adamant — 21 HP / 20 Atk / 1 Def / 1 SpD / 23 Spe.
 Common moves: Extreme Speed, Flare Blitz, Protect, Will-O-Wisp, Snarl, Wild Charge, Overheat, Flamethrower.
 Common item: Sitrus Berry, Leftovers, Shuca Berry.
 Frequent teammates: Garchomp, Whimsicott, Sylveon, Venusaur-Mega, Charizard-Mega-Y.

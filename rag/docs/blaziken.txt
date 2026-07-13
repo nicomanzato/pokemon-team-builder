@@ -1,5 +1,6 @@
-Blaziken. Fire/Fighting type. medium speed.
+Blaziken. Fire/Fighting type. Base stats: 80/120/70/110/70/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Speed Boost.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Coaching, Protect, Aura Sphere, Heat Wave, Detect, Close Combat, Flare Blitz, Will-O-Wisp.
 Common item: Focus Sash, Life Orb, Shuca Berry.
 Frequent teammates: Sinistcha, Metagross-Mega, Garchomp, Basculegion, Whimsicott.

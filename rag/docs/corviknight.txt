@@ -1,5 +1,6 @@
-Corviknight. Flying/Steel type. slow.
+Corviknight. Flying/Steel type. Base stats: 98/87/105/53/85/67 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Mirror Armor.
+Common EV spread: Careful — 32 HP / 2 Atk / 32 SpD.
 Common moves: Brave Bird, Tailwind, Roost, Iron Head, Bulk Up, Body Press, Protect, Iron Defense.
 Common item: Leftovers, Occa Berry, Sitrus Berry.
 Frequent teammates: Garchomp, Tyranitar-Mega, Sinistcha, Incineroar, Excadrill.

@@ -1,5 +1,6 @@
-Froslass. Ice/Ghost type. very fast.
+Froslass. Ice/Ghost type. Base stats: 70/80/70/80/70/110 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Snow Cloak.
+Common EV spread: Timid — 32 HP / 2 SpA / 32 Spe.
 Common moves: Blizzard, Protect, Will-O-Wisp, Aurora Veil, Destiny Bond, Shadow Ball, Disable, Thunder Wave.
 Common item: Wide Lens, Light Clay, Focus Sash.
 Frequent teammates: Excadrill, Pelipper, Archaludon, Sneasler, Basculegion.

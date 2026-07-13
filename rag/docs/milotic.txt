@@ -1,5 +1,6 @@
-Milotic. Water type. medium speed.
+Milotic. Water type. Base stats: 95/60/79/100/125/81 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Competitive.
+Common EV spread: Calm — 32 HP / 27 Def / 5 SpD / 2 Spe.
 Common moves: Protect, Muddy Water, Coil, Hypnosis, Scald, Recover, Icy Wind, Ice Beam.
 Common item: Leftovers, Sitrus Berry, Mystic Water.
 Frequent teammates: Sinistcha, Incineroar, Ceruledge, Garchomp, Floette-Mega.

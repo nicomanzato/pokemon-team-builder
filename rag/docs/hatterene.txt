@@ -1,5 +1,6 @@
-Hatterene. Psychic/Fairy type. very slow, great under Trick Room.
+Hatterene. Psychic/Fairy type. Base stats: 57/90/95/136/103/29 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Magic Bounce.
+Common EV spread: Quiet — 32 HP / 2 Def / 32 SpA.
 Common moves: Dazzling Gleam, Trick Room, Protect, Psychic, Expanding Force, Mystical Fire, Calm Mind, Psychic Terrain.
 Common item: Life Orb, Fairy Feather, Focus Sash.
 Frequent teammates: Farigiraf, Torkoal, Kingambit, Sinistcha, Mawile-Mega.

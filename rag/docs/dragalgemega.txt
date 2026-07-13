@@ -1,5 +1,6 @@
-Dragalge-Mega. Poison/Dragon type. very slow, great under Trick Room.
+Dragalge-Mega. Poison/Dragon type. Base stats: 65/85/105/132/163/44 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: noability.
+Common EV spread: Quiet — 32 HP / 2 Def / 32 SpA.
 Common moves: Sludge Bomb, Protect, Draco Meteor, Flip Turn, Dragon Pulse, Thunderbolt, Toxic, Scald.
 Common item: Dragalgite.
 Frequent teammates: Sinistcha, Incineroar, Grimmsnarl, Farigiraf, Kingambit.

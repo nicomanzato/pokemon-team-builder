@@ -1,5 +1,6 @@
-Blaziken-Mega. Fire/Fighting type. fast.
+Blaziken-Mega. Fire/Fighting type. Base stats: 80/160/80/130/80/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Speed Boost.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Flare Blitz, Close Combat, Rock Slide, Protect, Detect, Swords Dance, Coaching, Rock Tomb.
 Common item: Blazikenite.
 Frequent teammates: Kingambit, Basculegion, Whimsicott, Sylveon, Aerodactyl-Mega.

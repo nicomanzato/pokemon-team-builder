@@ -1,5 +1,6 @@
-Primarina. Water/Fairy type. slow.
+Primarina. Water/Fairy type. Base stats: 80/74/74/126/116/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Liquid Voice.
+Common EV spread: Modest — 32 HP / 32 SpA / 2 SpD.
 Common moves: Hyper Voice, Protect, Moonblast, Calm Mind, Dazzling Gleam, Energy Ball, Ice Beam, Haze.
 Common item: Life Orb, Leftovers, Mystic Water.
 Frequent teammates: Sinistcha, Incineroar, Farigiraf, Garchomp, Kingambit.

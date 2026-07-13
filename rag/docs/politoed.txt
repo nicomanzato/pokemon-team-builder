@@ -1,5 +1,6 @@
-Politoed. Water type. slow.
+Politoed. Water type. Base stats: 90/75/75/90/100/70 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Drizzle.
+Common EV spread: Calm — 31 HP / 23 Def / 12 SpD.
 Common moves: Protect, Weather Ball, Perish Song, Encore, Ice Beam, Muddy Water, Icy Wind, Helping Hand.
 Common item: Sitrus Berry, Mystic Water, Leftovers.
 Frequent teammates: Incineroar, Sinistcha, Archaludon, Gengar-Mega, Swampert-Mega.

@@ -1,5 +1,6 @@
-Eelektross. Electric type. very slow, great under Trick Room.
+Eelektross. Electric type. Base stats: 85/115/80/105/80/50 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Levitate.
+Common EV spread: Modest — 14 HP / 32 SpA / 20 Spe.
 Common moves: Protect, Giga Drain, Volt Switch, Discharge, Dragon Pulse, Thunderbolt, Thunder, Flamethrower.
 Common item: Life Orb, Leftovers, Choice Scarf.
 Frequent teammates: Pelipper, Swampert-Mega, Incineroar, Sableye, Archaludon.

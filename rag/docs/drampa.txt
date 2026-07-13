@@ -1,5 +1,6 @@
-Drampa. Normal/Dragon type. very slow, great under Trick Room.
+Drampa. Normal/Dragon type. Base stats: 78/60/85/135/91/36 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Cloud Nine.
+Common EV spread: Quiet — 32 HP / 2 Def / 32 SpA.
 Common moves: Hyper Voice, Protect, Earth Power, Draco Meteor, Calm Mind, Thunderbolt, Dragon Pulse, Ice Beam.
 Common item: Life Orb, Silk Scarf, Sitrus Berry.
 Frequent teammates: Farigiraf, Sinistcha, Mawile-Mega, Blastoise-Mega, Incineroar.

@@ -1,5 +1,6 @@
-Weavile. Dark/Ice type. very fast.
+Weavile. Dark/Ice type. Base stats: 70/120/65/45/85/125 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Pressure.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Fake Out, Knock Off, Triple Axel, Protect, Icicle Crash, Ice Spinner, Ice Shard, Feint.
 Common item: Focus Sash, Wide Lens, King's Rock.
 Frequent teammates: Sinistcha, Whimsicott, Raichu-Mega-Y, Garchomp, Incineroar.

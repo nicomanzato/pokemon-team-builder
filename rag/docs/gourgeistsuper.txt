@@ -1,5 +1,6 @@
-Gourgeist-Super. Ghost/Grass type. slow.
+Gourgeist-Super. Ghost/Grass type. Base stats: 85/100/122/58/75/54 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Frisk.
+Common EV spread: Relaxed — 32 HP / 8 Def / 26 SpD.
 Common moves: Trick Room, Will-O-Wisp, Trick-or-Treat, Seed Bomb, Power Whip, Leech Seed, Poltergeist, Ally Switch.
 Common item: Leftovers, Sitrus Berry, Occa Berry.
 Frequent teammates: Blastoise-Mega, Kingambit, Pelipper, Sneasler, Raichu-Mega-Y.

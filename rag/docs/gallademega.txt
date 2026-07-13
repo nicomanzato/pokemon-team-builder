@@ -1,5 +1,6 @@
-Gallade-Mega. Psychic/Fighting type. very fast.
+Gallade-Mega. Psychic/Fighting type. Base stats: 68/165/95/65/115/110 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Inner Focus.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 Def.
 Common moves: Psycho Cut, Sacred Sword, Protect, Trick Room, Leaf Blade, Close Combat, Drain Punch, Ice Punch.
 Common item: Galladite.
 Frequent teammates: Farigiraf, Incineroar, Torkoal, Sinistcha, Whimsicott.

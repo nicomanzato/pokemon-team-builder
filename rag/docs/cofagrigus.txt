@@ -1,5 +1,6 @@
-Cofagrigus. Ghost type. very slow, great under Trick Room.
+Cofagrigus. Ghost type. Base stats: 58/50/145/95/105/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Mummy.
+Common EV spread: Sassy — 32 HP / 2 SpA / 32 SpD.
 Common moves: Trick Room, Will-O-Wisp, Shadow Ball, Haze, Body Press, Hex, Ally Switch, Protect.
 Common item: Mental Herb, Leftovers, Sitrus Berry.
 Frequent teammates: Mawile-Mega, Incineroar, Sinistcha, Kingambit, Torkoal.

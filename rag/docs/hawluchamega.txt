@@ -1,5 +1,6 @@
-Hawlucha-Mega. Fighting/Flying type. very fast.
+Hawlucha-Mega. Fighting/Flying type. Base stats: 78/137/100/74/93/118 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: No Guard.
+Common EV spread: Jolly — 32 HP / 2 SpD / 32 Spe.
 Common moves: Entrainment, Brave Bird, Close Combat, Protect, Detect, Stone Edge, Cross Chop, U-turn.
 Common item: Hawluchanite.
 Frequent teammates: Sinistcha, Snorlax, Incineroar, Gengar-Mega, Rotom-Wash.

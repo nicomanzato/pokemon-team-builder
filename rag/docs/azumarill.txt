@@ -1,5 +1,6 @@
-Azumarill. Water/Fairy type. very slow, great under Trick Room.
+Azumarill. Water/Fairy type. Base stats: 100/50/80/60/80/50 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Huge Power.
+Common EV spread: Adamant — 25 HP / 32 Atk / 5 SpD / 4 Spe.
 Common moves: Aqua Jet, Play Rough, Protect, Belly Drum, Liquidation, Waterfall, Ice Spinner, Brick Break.
 Common item: Sitrus Berry, Mystic Water, Iron Ball.
 Frequent teammates: Sinistcha, Incineroar, Raichu-Mega-Y, Metagross-Mega, Charizard-Mega-Y.

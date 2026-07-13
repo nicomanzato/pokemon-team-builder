@@ -1,5 +1,6 @@
-Zoroark. Dark type. fast.
+Zoroark. Dark type. Base stats: 60/105/60/120/60/105 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Illusion.
+Common EV spread: Modest — 2 HP / 32 SpA / 32 Spe.
 Common moves: Night Daze, Protect, Sunny Day, Helping Hand, Snarl, Dark Pulse, Sludge Bomb, Psychic.
 Common item: Black Glasses, Choice Scarf, Focus Sash.
 Frequent teammates: Whimsicott, Basculegion, Raichu-Mega-Y, Decidueye-Hisui, Chandelure.

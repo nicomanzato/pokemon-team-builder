@@ -1,5 +1,6 @@
-Scrafty-Mega. Dark/Fighting type. slow.
+Scrafty-Mega. Dark/Fighting type. Base stats: 65/130/135/55/135/68 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: noability.
+Common EV spread: Brave — 32 HP / 32 Atk / 2 SpD.
 Common moves: Fake Out, Knock Off, Drain Punch, Close Combat, Protect, Ice Punch, Detect, Rock Slide.
 Common item: Scraftinite.
 Frequent teammates: Farigiraf, Torkoal, Sinistcha, Sylveon, Pyroar-Mega.

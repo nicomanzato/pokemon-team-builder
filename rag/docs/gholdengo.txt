@@ -1,5 +1,6 @@
-Gholdengo. Steel/Ghost type. medium speed.
+Gholdengo. Steel/Ghost type. Base stats: 87/60/95/133/91/84 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Good as Gold.
+Common EV spread: Modest — 2 HP / 32 SpA / 32 Spe.
 Common moves: Shadow Ball, Make It Rain, Protect, Nasty Plot, Power Gem, Trick, Thunderbolt, Flash Cannon.
 Common item: Life Orb, Choice Scarf, Metal Coat.
 Frequent teammates: Garchomp, Whimsicott, Incineroar, Staraptor-Mega, Sinistcha.

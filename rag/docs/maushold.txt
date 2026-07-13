@@ -1,5 +1,6 @@
-Maushold. Normal type. very fast.
+Maushold. Normal type. Base stats: 74/75/70/65/75/111 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Friend Guard.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Follow Me, Protect, Super Fang, Population Bomb, Beat Up, Encore, Feint, Taunt.
 Common item: Wide Lens, Chople Berry, Focus Sash.
 Frequent teammates: Sinistcha, Incineroar, Basculegion, Annihilape, Garchomp.

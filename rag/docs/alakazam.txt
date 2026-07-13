@@ -1,5 +1,6 @@
-Alakazam. Psychic type. very fast.
+Alakazam. Psychic type. Base stats: 55/50/45/135/95/120 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Inner Focus.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Psychic, Protect, Speed Swap, Dazzling Gleam, Shadow Ball, Trick Room, Expanding Force, Thunder Wave.
 Common item: Focus Sash, Life Orb, Choice Scarf.
 Frequent teammates: Kangaskhan, Torkoal, Farigiraf, Annihilape, Mawile-Mega.

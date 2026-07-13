@@ -1,5 +1,6 @@
-Raichu. Electric type. very fast.
+Raichu. Electric type. Base stats: 60/90/55/90/80/110 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Lightning Rod.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Fake Out, Volt Switch, Nuzzle, Encore, Charm, Protect, Thunderbolt, Electroweb.
 Common item: Focus Sash, Shuca Berry, Sitrus Berry.
 Frequent teammates: Staraptor-Mega, Sinistcha, Garchomp, Whimsicott, Grimmsnarl.

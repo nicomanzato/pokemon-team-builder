@@ -1,5 +1,6 @@
-Rotom-Fan. Electric/Flying type. medium speed.
+Rotom-Fan. Electric/Flying type. Base stats: 50/65/107/105/107/86 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Levitate.
+Common EV spread: Timid — 32 SpA / 32 Spe.
 Common moves: Air Slash, Thunderbolt, Protect, Electroweb, Volt Switch, Will-O-Wisp, Discharge, Trick.
 Common item: Choice Scarf, Sitrus Berry, Charti Berry.
 Frequent teammates: Garchomp, Sinistcha, Whimsicott, Metagross-Mega, Sneasler.

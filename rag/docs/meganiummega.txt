@@ -1,5 +1,6 @@
-Meganium-Mega. Grass/Fairy type. medium speed.
+Meganium-Mega. Grass/Fairy type. Base stats: 80/92/115/143/115/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Mega Sol.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Solar Beam, Weather Ball, Protect, Dazzling Gleam, Synthesis, Earth Power, Giga Drain, Ancient Power.
 Common item: Meganiumite.
 Frequent teammates: Pelipper, Archaludon, Swampert-Mega, Basculegion, Farigiraf.

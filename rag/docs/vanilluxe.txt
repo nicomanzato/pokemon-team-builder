@@ -1,5 +1,6 @@
-Vanilluxe. Ice type. medium speed.
+Vanilluxe. Ice type. Base stats: 71/95/85/110/95/79 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Snow Warning.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Blizzard, Freeze-Dry, Icy Wind, Weather Ball, Sheer Cold, Aurora Veil, Flash Cannon, Protect.
 Common item: Choice Scarf, Never-Melt Ice, Focus Sash.
 Frequent teammates: Basculegion, Incineroar, Raichu-Mega-Y, Sneasler, Metagross-Mega.

@@ -1,5 +1,6 @@
-Talonflame. Fire/Flying type. very fast.
+Talonflame. Fire/Flying type. Base stats: 78/81/71/74/69/126 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Gale Wings.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Tailwind, Protect, Flare Blitz, Brave Bird, Dual Wingbeat, Will-O-Wisp, Acrobatics, Quick Guard.
 Common item: Sharp Beak, Focus Sash, Life Orb.
 Frequent teammates: Garchomp, Basculegion, Sinistcha, Kingambit, Metagross-Mega.

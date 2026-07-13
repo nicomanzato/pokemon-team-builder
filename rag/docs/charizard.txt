@@ -1,5 +1,6 @@
-Charizard. Fire/Flying type. fast.
+Charizard. Fire/Flying type. Base stats: 78/84/78/109/85/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Solar Power.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Heat Wave, Solar Beam, Weather Ball, Protect, Ancient Power, Air Slash, Hurricane, Overheat.
 Common item: Choice Scarf, Life Orb, Charcoal.
 Frequent teammates: Torkoal, Whimsicott, Venusaur-Mega, Staraptor-Mega, Grimmsnarl.

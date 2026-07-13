@@ -1,5 +1,6 @@
-Runerigus. Ground/Ghost type. very slow, great under Trick Room.
+Runerigus. Ground/Ghost type. Base stats: 58/95/145/50/105/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Wandering Spirit.
+Common EV spread: Relaxed — 32 HP / 32 Def / 2 SpD.
 Common moves: Trick Room, Will-O-Wisp, Poltergeist, Body Press, Earthquake, Protect, Ally Switch, Haze.
 Common item: Sitrus Berry, Mental Herb, Passho Berry.
 Frequent teammates: Mawile-Mega, Pelipper, Eelektross-Mega, Sinistcha, Swampert-Mega.

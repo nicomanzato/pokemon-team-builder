@@ -1,5 +1,6 @@
-Salazzle. Poison/Fire type. very fast.
+Salazzle. Poison/Fire type. Base stats: 68/64/60/111/60/117 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Corrosion.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Fake Out, Sludge Bomb, Heat Wave, Overheat, Toxic, Protect, Dragon Cheer, Encore.
 Common item: Focus Sash, Life Orb, Expert Belt.
 Frequent teammates: Sinistcha, Staraptor-Mega, Garchomp, Incineroar, Raichu-Mega-Y.

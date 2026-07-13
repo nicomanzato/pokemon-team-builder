@@ -1,5 +1,6 @@
-Camerupt-Mega. Fire/Ground type. very slow, great under Trick Room.
+Camerupt-Mega. Fire/Ground type. Base stats: 70/120/100/145/105/20 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Sheer Force.
+Common EV spread: Quiet — 32 HP / 2 Def / 32 SpA.
 Common moves: Earth Power, Protect, Heat Wave, Ancient Power, Eruption, Flamethrower, Rock Slide, Solar Beam.
 Common item: Cameruptite.
 Frequent teammates: Farigiraf, Incineroar, Kingambit, Sinistcha, Staraptor.

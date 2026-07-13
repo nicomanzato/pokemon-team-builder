@@ -1,5 +1,6 @@
-Snorlax. Normal type. very slow, great under Trick Room.
+Snorlax. Normal type. Base stats: 160/110/65/65/110/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Thick Fat.
+Common EV spread: Impish — 29 HP / 32 Def / 5 SpD.
 Common moves: Protect, Fissure, Yawn, Stockpile, Double-Edge, High Horsepower, Body Slam, Body Press.
 Common item: Leftovers, Sitrus Berry, Chople Berry.
 Frequent teammates: Incineroar, Sinistcha, Gengar-Mega, Hawlucha-Mega, Ninetales-Alola.

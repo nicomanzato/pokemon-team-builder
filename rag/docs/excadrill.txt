@@ -1,5 +1,6 @@
-Excadrill. Ground/Steel type. medium speed.
+Excadrill. Ground/Steel type. Base stats: 110/135/60/50/65/88 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Sand Rush.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Iron Head, Protect, Rock Slide, Earthquake, High Horsepower, Swords Dance, Stomping Tantrum, Drill Run.
 Common item: Focus Sash, Life Orb, Choice Scarf.
 Frequent teammates: Tyranitar-Mega, Sinistcha, Staraptor-Mega, Rotom-Wash, Houndstone.

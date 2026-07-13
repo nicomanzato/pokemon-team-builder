@@ -1,5 +1,6 @@
-Mamoswine. Ice/Ground type. medium speed.
+Mamoswine. Ice/Ground type. Base stats: 110/130/80/70/60/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Oblivious.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Ice Shard, Protect, High Horsepower, Icicle Crash, Rock Slide, Earthquake, Icicle Spear, Stomping Tantrum.
 Common item: Focus Sash, Life Orb, Choice Scarf.
 Frequent teammates: Farigiraf, Torkoal, Pyroar-Mega, Scrafty-Mega, Venusaur.

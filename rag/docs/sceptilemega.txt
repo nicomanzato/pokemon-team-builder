@@ -1,5 +1,6 @@
-Sceptile-Mega. Grass/Dragon type. very fast.
+Sceptile-Mega. Grass/Dragon type. Base stats: 70/110/75/145/85/145 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Lightning Rod.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Dragon Pulse, Earth Power, Protect, Energy Ball, Detect, Leaf Storm, Grass Knot, Giga Drain.
 Common item: Sceptilite.
 Frequent teammates: Rotom-Heat, Garchomp, Basculegion, Aerodactyl, Rotom-Wash.

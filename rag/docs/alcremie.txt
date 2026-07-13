@@ -1,5 +1,6 @@
-Alcremie. Fairy type. slow.
+Alcremie. Fairy type. Base stats: 65/60/75/110/121/64 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Sweet Veil.
+Common EV spread: Hardy — 32 HP.
 Common moves: Dazzling Gleam, Decorate, Protect, Encore, Helping Hand, Alluring Voice, Recover, Baby-Doll Eyes.
 Common item: Chople Berry, Kebia Berry, Sitrus Berry.
 Frequent teammates: Araquanid, Kingambit, Staraptor-Mega, Dragapult, Glimmora-Mega.

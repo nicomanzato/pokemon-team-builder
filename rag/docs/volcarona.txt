@@ -1,5 +1,6 @@
-Volcarona. Bug/Fire type. fast.
+Volcarona. Bug/Fire type. Base stats: 85/60/65/135/105/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Flame Body.
+Common EV spread: Bold — 32 HP / 32 Def / 2 SpD.
 Common moves: Protect, Rage Powder, Heat Wave, Quiver Dance, Struggle Bug, Fiery Dance, Giga Drain, Bug Buzz.
 Common item: Leftovers, Sitrus Berry, Charti Berry.
 Frequent teammates: Whimsicott, Basculegion, Garchomp, Sinistcha, Staraptor-Mega.

@@ -1,5 +1,6 @@
-Hydreigon. Dark/Dragon type. fast.
+Hydreigon. Dark/Dragon type. Base stats: 92/105/90/125/90/98 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Levitate.
+Common EV spread: Modest — 2 HP / 32 SpA / 32 Spe.
 Common moves: Dark Pulse, Draco Meteor, Snarl, Earth Power, Protect, Heat Wave, Tailwind, Flamethrower.
 Common item: Choice Scarf, Life Orb, Focus Sash.
 Frequent teammates: Metagross-Mega, Incineroar, Sneasler, Sinistcha, Whimsicott.

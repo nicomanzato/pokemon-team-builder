@@ -1,5 +1,6 @@
-Crabominable-Mega. Fighting/Ice type. very slow, great under Trick Room.
+Crabominable-Mega. Fighting/Ice type. Base stats: 97/157/122/62/107/33 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Iron Fist.
+Common EV spread: Brave — 32 HP / 32 Atk / 2 SpD.
 Common moves: Ice Hammer, Protect, Drain Punch, Mach Punch, Close Combat, Thunder Punch, Rock Slide, Crabhammer.
 Common item: Crabominite.
 Frequent teammates: Farigiraf, Torkoal, Incineroar, Sinistcha, Kingambit.

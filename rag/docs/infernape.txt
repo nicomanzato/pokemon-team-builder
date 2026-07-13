@@ -1,5 +1,6 @@
-Infernape. Fire/Fighting type. fast.
+Infernape. Fire/Fighting type. Base stats: 76/104/71/104/71/108 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Blaze.
+Common EV spread: Naive — 23 Atk / 11 SpA / 32 Spe.
 Common moves: Fake Out, Close Combat, Heat Wave, Overheat, Aura Sphere, Stone Edge, Mach Punch, U-turn.
 Common item: Focus Sash, Life Orb, Black Belt.
 Frequent teammates: Gholdengo, Staraptor-Mega, Samurott-Hisui, Vileplume, Meowstic-F-Mega.

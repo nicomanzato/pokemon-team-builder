@@ -1,5 +1,6 @@
-Morpeko. Electric/Dark type. fast.
+Morpeko. Electric/Dark type. Base stats: 58/95/58/70/58/97 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Hunger Switch.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Aura Wheel, Fake Out, Protect, Parting Shot, Reversal, Knock Off, Endeavor, Ice Fang.
 Common item: Focus Sash, King's Rock, Black Glasses.
 Frequent teammates: Sinistcha, Delphox-Mega, Sylveon, Tauros-Paldea-Aqua, Liepard.

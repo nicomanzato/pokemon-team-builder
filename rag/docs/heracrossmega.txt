@@ -1,5 +1,6 @@
-Heracross-Mega. Bug/Fighting type. medium speed.
+Heracross-Mega. Bug/Fighting type. Base stats: 80/185/115/40/105/75 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Skill Link.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 SpA.
 Common moves: Close Combat, Rock Blast, Pin Missile, Detect, Protect, Bullet Seed, Swords Dance, Lunge.
 Common item: Heracronite.
 Frequent teammates: Sylveon, Kangaskhan, Kingambit, Slowking-Galar, Torkoal.

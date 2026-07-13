@@ -1,5 +1,6 @@
-Meowstic-F-Mega. Psychic type. very fast.
+Meowstic-F-Mega. Psychic type. Base stats: 74/48/76/143/101/124 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Trace.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Psychic, Thunderbolt, Energy Ball, Expanding Force, Alluring Voice, Fake Out, Nasty Plot.
 Common item: Meowsticite.
 Frequent teammates: Gholdengo, Staraptor-Mega, Vileplume, Infernape, Samurott-Hisui.

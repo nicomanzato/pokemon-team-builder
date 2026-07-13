@@ -1,5 +1,6 @@
-Metagross. Steel/Psychic type. slow.
+Metagross. Steel/Psychic type. Base stats: 80/135/130/95/90/70 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Clear Body.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 SpD.
 Common moves: Psychic Fangs, Protect, Bullet Punch, Meteor Mash, Iron Head, Ice Punch, Explosion, Body Press.
 Common item: Life Orb, Leftovers, Metal Coat.
 Frequent teammates: Sinistcha, Staraptor-Mega, Grimmsnarl, Whimsicott, Garchomp.

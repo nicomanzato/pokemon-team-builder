@@ -1,5 +1,6 @@
-Polteageist. Ghost type. slow.
+Polteageist. Ghost type. Base stats: 60/65/65/134/114/70 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Weak Armor.
+Common EV spread: Modest — 32 HP / 6 SpA / 28 Spe.
 Common moves: Shadow Ball, Shell Smash, Stored Power, Strength Sap, Endure, Will-O-Wisp, Ally Switch, Baton Pass.
 Common item: Focus Sash, White Herb, Sitrus Berry.
 Frequent teammates: Metagross, Vivillon, Floette-Mega, Dragapult, Aegislash.

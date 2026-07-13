@@ -1,5 +1,6 @@
-Spiritomb. Ghost/Dark type. very slow, great under Trick Room.
+Spiritomb. Ghost/Dark type. Base stats: 50/92/108/92/108/35 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Infiltrator.
+Common EV spread: Sassy — 32 HP / 11 Def / 23 SpD.
 Common moves: Trick Room, Foul Play, Will-O-Wisp, Skill Swap, Pain Split, Destiny Bond, Hex, Ally Switch.
 Common item: Roseli Berry, Leftovers, Sitrus Berry.
 Frequent teammates: Torkoal, Sinistcha, Incineroar, Metagross-Mega, Scovillain-Mega.

@@ -1,5 +1,6 @@
-Delphox-Mega. Fire/Psychic type. very fast.
+Delphox-Mega. Fire/Psychic type. Base stats: 75/69/72/159/125/134 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Levitate.
+Common EV spread: Timid — 1 HP / 32 SpA / 1 SpD / 32 Spe.
 Common moves: Heat Wave, Protect, Nasty Plot, Psyshock, Psychic, Encore, Substitute, Calm Mind.
 Common item: Delphoxite.
 Frequent teammates: Sinistcha, Incineroar, Sneasler, Kingambit, Floette-Mega.

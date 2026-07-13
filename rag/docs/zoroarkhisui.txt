@@ -1,5 +1,6 @@
-Zoroark-Hisui. Normal/Ghost type. very fast.
+Zoroark-Hisui. Normal/Ghost type. Base stats: 55/100/60/125/60/110 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Illusion.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Hyper Voice, Shadow Ball, Icy Wind, Protect, Bitter Malice, Taunt, Will-O-Wisp, Flamethrower.
 Common item: Focus Sash, Choice Scarf, Life Orb.
 Frequent teammates: Whimsicott, Sneasler, Garchomp, Incineroar, Basculegion.

@@ -1,5 +1,6 @@
-Lucario. Fighting/Steel type. fast.
+Lucario. Fighting/Steel type. Base stats: 70/110/70/115/70/90 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Inner Focus.
+Common EV spread: Jolly — 32 HP / 2 Atk / 32 Spe.
 Common moves: Final Gambit, Close Combat, Meteor Mash, Helping Hand, Aura Sphere, Heal Pulse, Sunny Day, Steel Beam.
 Common item: Choice Scarf, Black Belt, Life Orb.
 Frequent teammates: Torkoal, Whimsicott, Farigiraf, Sinistcha, Oranguru.

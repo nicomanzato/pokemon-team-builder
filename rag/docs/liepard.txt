@@ -1,5 +1,6 @@
-Liepard. Dark type. fast.
+Liepard. Dark type. Base stats: 64/88/50/88/50/106 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Prankster.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Fake Out, Encore, Knock Off, Charm, Fake Tears, Rain Dance, Protect, Yawn.
 Common item: Focus Sash, Bright Powder, Mental Herb.
 Frequent teammates: Sinistcha, Staraptor-Mega, Basculegion, Garchomp, Gholdengo.

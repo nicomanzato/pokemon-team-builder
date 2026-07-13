@@ -1,5 +1,6 @@
-Ceruledge. Fire/Ghost type. medium speed.
+Ceruledge. Fire/Ghost type. Base stats: 75/125/80/60/100/85 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Flash Fire.
+Common EV spread: Adamant — 31 HP / 25 Atk / 10 Def.
 Common moves: Bitter Blade, Shadow Sneak, Protect, Bulk Up, Swords Dance, Poltergeist, Close Combat, Psych Up.
 Common item: Colbur Berry, Life Orb, Charcoal.
 Frequent teammates: Sinistcha, Milotic, Incineroar, Raichu-Mega-Y, Floette-Mega.

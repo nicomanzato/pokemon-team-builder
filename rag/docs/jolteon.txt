@@ -1,5 +1,6 @@
-Jolteon. Electric type. very fast.
+Jolteon. Electric type. Base stats: 65/65/60/110/95/130 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Volt Absorb.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Volt Switch, Thunderbolt, Rising Voltage, Discharge, Electroweb, Alluring Voice, Detect.
 Common item: Focus Sash, Life Orb, Magnet.
 Frequent teammates: Raichu-Mega-X, Sylveon, Sceptile-Mega, Basculegion, Whimsicott.

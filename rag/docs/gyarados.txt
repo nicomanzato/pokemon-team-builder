@@ -1,5 +1,6 @@
-Gyarados. Water/Flying type. medium speed.
+Gyarados. Water/Flying type. Base stats: 95/125/79/60/100/81 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Intimidate.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 Def.
 Common moves: Waterfall, Protect, Power Whip, Thunder Wave, Dragon Dance, Ice Fang, Taunt, Earthquake.
 Common item: Sitrus Berry, Leftovers, Expert Belt.
 Frequent teammates: Garchomp, Kingambit, Farigiraf, Raichu-Mega-Y, Whimsicott.

@@ -1,5 +1,6 @@
-Lycanroc. Rock type. very fast.
+Lycanroc. Rock type. Base stats: 75/115/65/55/65/112 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Sand Rush.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Rock Slide, Protect, Endeavor, Accelerock, Close Combat, Howl, Psychic Fangs, Endure.
 Common item: Focus Sash, Life Orb, Hard Stone.
 Frequent teammates: Scovillain-Mega, Whimsicott, Metagross-Mega, Primarina, Hydreigon.

@@ -1,5 +1,6 @@
-Dragalge. Poison/Dragon type. very slow, great under Trick Room.
+Dragalge. Poison/Dragon type. Base stats: 65/75/90/97/123/44 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Adaptability.
+Common EV spread: Quiet — 32 HP / 2 Def / 32 SpA.
 Common moves: Protect, Sludge Bomb, Draco Meteor, Sludge Wave, Dragon Pulse, Focus Blast, Scald, Thunderbolt.
 Common item: Life Orb, Poison Barb, Leftovers.
 Frequent teammates: Mawile-Mega, Torkoal, Farigiraf, Scrafty-Mega, Oranguru.

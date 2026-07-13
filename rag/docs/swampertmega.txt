@@ -1,5 +1,6 @@
-Swampert-Mega. Water/Ground type. slow.
+Swampert-Mega. Water/Ground type. Base stats: 100/150/110/95/110/70 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Swift Swim.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Protect, Wave Crash, Ice Punch, Earthquake, High Horsepower, Flip Turn, Rock Slide, Knock Off.
 Common item: Swampertite.
 Frequent teammates: Pelipper, Archaludon, Sinistcha, Grimmsnarl, Sableye.

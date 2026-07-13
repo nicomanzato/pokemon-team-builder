@@ -1,5 +1,6 @@
-Farigiraf. Normal/Psychic type. slow.
+Farigiraf. Normal/Psychic type. Base stats: 120/90/70/110/70/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Armor Tail.
+Common EV spread: Bold — 25 HP / 26 Def / 15 SpD.
 Common moves: Trick Room, Helping Hand, Psychic, Protect, Thunderbolt, Twin Beam, Hyper Voice, Roar.
 Common item: Sitrus Berry, Colbur Berry, Mental Herb.
 Frequent teammates: Torkoal, Mawile-Mega, Incineroar, Basculegion, Garchomp.

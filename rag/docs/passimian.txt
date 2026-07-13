@@ -1,5 +1,6 @@
-Passimian. Fighting type. medium speed.
+Passimian. Fighting type. Base stats: 100/120/90/40/60/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Defiant.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Knock Off, Close Combat, Gunk Shot, U-turn, Protect, Drain Punch, Rock Slide, Iron Head.
 Common item: Choice Scarf, Life Orb, Sitrus Berry.
 Frequent teammates: Sinistcha, Incineroar, Houndstone, Tyranitar-Mega, Excadrill.

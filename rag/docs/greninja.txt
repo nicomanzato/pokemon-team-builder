@@ -1,5 +1,6 @@
-Greninja. Water/Dark type. very fast.
+Greninja. Water/Dark type. Base stats: 72/95/67/103/71/122 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Protean.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Ice Beam, Dark Pulse, Protect, Rock Slide, Grass Knot, Gunk Shot, Hydro Pump, Water Shuriken.
 Common item: Life Orb, Focus Sash, Choice Scarf.
 Frequent teammates: Whimsicott, Farigiraf, Charizard-Mega-Y, Floette-Mega, Excadrill.

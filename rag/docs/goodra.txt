@@ -1,5 +1,6 @@
-Goodra. Dragon type. medium speed.
+Goodra. Dragon type. Base stats: 90/100/70/110/150/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Sap Sipper.
+Common EV spread: Modest — 32 HP / 2 Def / 32 SpA.
 Common moves: Flamethrower, Draco Meteor, Sludge Bomb, Thunderbolt, Protect, Rain Dance, Thunder, Dragon Pulse.
 Common item: Expert Belt, Sitrus Berry, Leftovers.
 Frequent teammates: Sinistcha, Aggron-Mega, Sylveon, Toxapex, Delphox-Mega.

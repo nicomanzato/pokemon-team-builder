@@ -1,5 +1,6 @@
-Clefable. Fairy type. slow.
+Clefable. Fairy type. Base stats: 95/70/73/95/90/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Unaware.
+Common EV spread: Bold — 32 HP / 32 Def / 2 SpD.
 Common moves: Follow Me, Moonblast, Protect, Helping Hand, Life Dew, Dazzling Gleam, Encore, Alluring Voice.
 Common item: Sitrus Berry, Leftovers, Babiri Berry.
 Frequent teammates: Kingambit, Basculegion, Garchomp, Incineroar, Raichu-Mega-Y.

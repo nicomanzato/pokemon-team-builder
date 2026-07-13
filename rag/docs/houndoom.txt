@@ -1,5 +1,6 @@
-Houndoom. Dark/Fire type. fast.
+Houndoom. Dark/Fire type. Base stats: 75/90/50/110/80/95 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Flash Fire.
+Common EV spread: Modest — 2 HP / 32 SpA / 32 Spe.
 Common moves: Heat Wave, Protect, Dark Pulse, Feint, Snarl, Sucker Punch, Scorching Sands, Shadow Ball.
 Common item: Focus Sash, Life Orb, Black Glasses.
 Frequent teammates: Whimsicott, Farigiraf, Staraptor, Torkoal, Camerupt-Mega.

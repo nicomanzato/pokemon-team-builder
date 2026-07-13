@@ -1,5 +1,6 @@
-Gliscor. Ground/Flying type. fast.
+Gliscor. Ground/Flying type. Base stats: 75/95/125/45/75/95 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Hyper Cutter.
+Common EV spread: Adamant — 14 HP / 32 Atk / 20 Spe.
 Common moves: Tailwind, High Horsepower, Protect, Acrobatics, Dual Wingbeat, Earthquake, Knock Off, Rock Slide.
 Common item: Life Orb, Sitrus Berry, Leftovers.
 Frequent teammates: Farigiraf, Torkoal, Venusaur-Mega, Kangaskhan-Mega, Kleavor.

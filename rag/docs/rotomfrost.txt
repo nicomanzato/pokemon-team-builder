@@ -1,5 +1,6 @@
-Rotom-Frost. Electric/Ice type. medium speed.
+Rotom-Frost. Electric/Ice type. Base stats: 50/65/107/105/107/86 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Levitate.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Blizzard, Volt Switch, Thunderbolt, Electroweb, Discharge, Protect, Trick, Will-O-Wisp.
 Common item: Choice Scarf, Magnet, Never-Melt Ice.
 Frequent teammates: Froslass-Mega, Garchomp, Incineroar, Sneasler, Kingambit.

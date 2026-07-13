@@ -1,5 +1,6 @@
-Basculegion. Water/Ghost type. medium speed.
+Basculegion. Water/Ghost type. Base stats: 120/112/65/80/75/78 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Adaptability.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Last Respects, Aqua Jet, Wave Crash, Protect, Flip Turn, Liquidation, Psychic Fangs, Ice Fang.
 Common item: Choice Scarf, Mystic Water, Life Orb.
 Frequent teammates: Whimsicott, Garchomp, Kingambit, Charizard-Mega-Y, Floette-Mega.

@@ -1,5 +1,6 @@
-Clawitzer. Water type. slow.
+Clawitzer. Water type. Base stats: 71/73/88/120/89/59 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Mega Launcher.
+Common EV spread: Modest — 32 HP / 32 SpA / 2 SpD.
 Common moves: Water Pulse, Aura Sphere, Dark Pulse, Protect, Dragon Pulse, Heal Pulse, Ice Beam, Terrain Pulse.
 Common item: Expert Belt, Life Orb, Mystic Water.
 Frequent teammates: Farigiraf, Mawile-Mega, Incineroar, Sinistcha, Whimsicott.

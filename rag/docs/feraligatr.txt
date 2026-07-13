@@ -1,5 +1,6 @@
-Feraligatr. Water type. medium speed.
+Feraligatr. Water type. Base stats: 85/105/100/79/83/78 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Sheer Force.
+Common EV spread: Hardy — 31 HP / 32 Atk / 3 Spe.
 Common moves: Liquidation, Protect, Ice Punch, Dragon Dance, Crunch, Rock Slide, Aqua Jet, Ice Fang.
 Common item: Life Orb, Mystic Water, Focus Sash.
 Frequent teammates: Sinistcha, Gholdengo, Staraptor-Mega, Vileplume, Mawile-Mega.

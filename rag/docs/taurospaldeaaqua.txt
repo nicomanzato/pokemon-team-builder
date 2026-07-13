@@ -1,5 +1,6 @@
-Tauros-Paldea-Aqua. Fighting/Water type. fast.
+Tauros-Paldea-Aqua. Fighting/Water type. Base stats: 75/110/105/30/70/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Intimidate.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Close Combat, Protect, Aqua Jet, Wave Crash, Raging Bull, Rock Slide, Wild Charge, Earthquake.
 Common item: Mystic Water, White Herb, Sitrus Berry.
 Frequent teammates: Whimsicott, Sinistcha, Kingambit, Garchomp, Delphox-Mega.

@@ -1,5 +1,6 @@
-Absol. Dark type. medium speed.
+Absol. Dark type. Base stats: 65/130/60/75/60/75 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Super Luck.
+Common EV spread: Adamant — 32 HP / 32 Atk / 1 Def / 1 SpD.
 Common moves: Sucker Punch, Swords Dance, Close Combat, Knock Off, Night Slash, Psycho Cut, Protect, Shadow Claw.
 Common item: Scope Lens, Focus Sash, Lum Berry.
 Frequent teammates: Sneasler, Basculegion, Banette-Mega, Archaludon, Vivillon.

@@ -1,5 +1,6 @@
-Skarmory-Mega. Steel/Flying type. very fast.
+Skarmory-Mega. Steel/Flying type. Base stats: 65/140/110/40/100/110 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Stalwart.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Brave Bird, Iron Head, Protect, Tailwind, Swords Dance, Rock Slide, Drill Run, Roost.
 Common item: Skarmorite.
 Frequent teammates: Sinistcha, Garchomp, Incineroar, Grimmsnarl, Milotic.

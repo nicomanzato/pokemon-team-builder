@@ -1,5 +1,6 @@
-Conkeldurr. Fighting type. very slow, great under Trick Room.
+Conkeldurr. Fighting type. Base stats: 105/140/95/55/65/45 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Iron Fist.
+Common EV spread: Brave — 32 HP / 32 Atk / 2 SpD.
 Common moves: Mach Punch, Drain Punch, Protect, Thunder Punch, Ice Punch, Close Combat, Rock Slide, Detect.
 Common item: Life Orb, Black Belt, Expert Belt.
 Frequent teammates: Farigiraf, Torkoal, Mawile-Mega, Incineroar, Sinistcha.

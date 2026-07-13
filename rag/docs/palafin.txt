@@ -1,5 +1,6 @@
-Palafin. Water type. fast.
+Palafin. Water type. Base stats: 100/70/72/53/62/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Zero to Hero.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Jet Punch, Wave Crash, Protect, Flip Turn, Bulk Up, Close Combat, Drain Punch, Ice Punch.
 Common item: Mystic Water, Leftovers, Life Orb.
 Frequent teammates: Incineroar, Raichu-Mega-Y, Whimsicott, Sinistcha, Gholdengo.

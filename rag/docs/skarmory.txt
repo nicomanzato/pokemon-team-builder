@@ -1,5 +1,6 @@
-Skarmory. Steel/Flying type. slow.
+Skarmory. Steel/Flying type. Base stats: 65/80/140/40/70/70 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Keen Eye.
+Common EV spread: Calm — 2 HP / 32 Def / 32 SpD.
 Common moves: Body Press, Whirlwind, Iron Defense, Roost, Protect, Tailwind, Iron Head, Icy Wind.
 Common item: Leftovers, Sitrus Berry, Mental Herb.
 Frequent teammates: Garchomp, Floette-Mega, Whimsicott, Charizard-Mega-Y, Typhlosion-Hisui.

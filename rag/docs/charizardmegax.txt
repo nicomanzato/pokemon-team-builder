@@ -1,5 +1,6 @@
-Charizard-Mega-X. Fire/Dragon type. fast.
+Charizard-Mega-X. Fire/Dragon type. Base stats: 78/130/111/130/85/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Tough Claws.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Dragon Claw, Flare Blitz, Protect, Dragon Dance, Roost, Rock Slide, Breaking Swipe, Temper Flare.
 Common item: Charizardite X.
 Frequent teammates: Sinistcha, Sneasler, Incineroar, Kingambit, Milotic.

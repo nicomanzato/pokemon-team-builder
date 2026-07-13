@@ -1,5 +1,6 @@
-Sableye-Mega. Dark/Ghost type. very slow, great under Trick Room.
+Sableye-Mega. Dark/Ghost type. Base stats: 50/85/125/85/115/20 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Magic Bounce.
+Common EV spread: Impish — 32 HP / 16 Def / 18 SpD.
 Common moves: Will-O-Wisp, Fake Out, Encore, Recover, Disable, Brick Break, Psych Up, Knock Off.
 Common item: Sablenite.
 Frequent teammates: Garchomp-Mega, Kingambit, Charizard-Mega-Y, Aerodactyl-Mega, Floette-Mega.

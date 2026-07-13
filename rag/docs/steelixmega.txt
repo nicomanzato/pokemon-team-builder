@@ -1,5 +1,6 @@
-Steelix-Mega. Steel/Ground type. very slow, great under Trick Room.
+Steelix-Mega. Steel/Ground type. Base stats: 75/125/230/55/95/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Sand Force.
+Common EV spread: Brave — 32 HP / 32 Atk / 2 SpD.
 Common moves: Protect, High Horsepower, Heavy Slam, Wide Guard, Body Press, Earthquake, Rock Slide, Iron Head.
 Common item: Steelixite.
 Frequent teammates: Tyranitar-Mega, Sinistcha, Sneasler, Farigiraf, Rotom-Wash.

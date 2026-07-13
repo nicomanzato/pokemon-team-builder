@@ -1,5 +1,6 @@
-Lycanroc-Midnight. Rock type. medium speed.
+Lycanroc-Midnight. Rock type. Base stats: 85/115/75/55/75/82 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: No Guard.
+Common EV spread: Adamant — 32 HP / 29 Atk / 1 Def / 1 SpD / 3 Spe.
 Common moves: Protect, Close Combat, Stone Edge, Sucker Punch, Rock Slide, Roar, Iron Tail, Taunt.
 Common item: White Herb, Life Orb, Choice Scarf.
 Frequent teammates: Farigiraf, Torkoal, Basculegion, Sylveon, Kangaskhan-Mega.

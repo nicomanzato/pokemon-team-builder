@@ -31,5 +31,6 @@ export interface Engine {
   generateTeam(
     query: string,
     onStep: (step: string) => void,
+    useRag?: boolean,
   ): Promise<{ team: Team; note?: string }>
 }

@@ -1,5 +1,6 @@
-Blastoise. Water type. medium speed.
+Blastoise. Water type. Base stats: 79/83/100/85/105/78 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Rain Dish.
+Common EV spread: Sassy — 32 HP / 29 Def / 5 SpD.
 Common moves: Fake Out, Protect, Yawn, Flip Turn, Water Spout, Shell Smash, Muddy Water, Ice Beam.
 Common item: Mental Herb, Leftovers, White Herb.
 Frequent teammates: Gengar-Mega, Kingambit, Froslass-Mega, Garchomp, Incineroar.

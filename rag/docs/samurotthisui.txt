@@ -1,5 +1,6 @@
-Samurott-Hisui. Water/Dark type. medium speed.
+Samurott-Hisui. Water/Dark type. Base stats: 90/108/80/100/65/85 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Sharpness.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Sacred Sword, Ceaseless Edge, Sucker Punch, Aqua Cutter, Protect, Night Slash, Aqua Jet, Detect.
 Common item: Black Glasses, Life Orb, Choice Scarf.
 Frequent teammates: Garchomp, Aerodactyl, Metagross-Mega, Farigiraf, Charizard-Mega-Y.

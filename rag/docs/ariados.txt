@@ -1,5 +1,6 @@
-Ariados. Bug/Poison type. very slow, great under Trick Room.
+Ariados. Bug/Poison type. Base stats: 70/90/70/60/70/40 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Insomnia.
+Common EV spread: Impish — 32 HP / 20 Def / 14 SpD.
 Common moves: Rage Powder, String Shot, Protect, Knock Off, Disable, Struggle Bug, Poison Jab, Toxic.
 Common item: Sitrus Berry, Focus Sash, Leftovers.
 Frequent teammates: Basculegion, Floette-Mega, Garchomp, Whimsicott, Aerodactyl-Mega.

@@ -1,5 +1,6 @@
-Barbaracle. Rock/Water type. slow.
+Barbaracle. Rock/Water type. Base stats: 72/105/115/54/86/68 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Tough Claws.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 SpD.
 Common moves: Rock Slide, Protect, Liquidation, Aqua Cutter, Shell Smash, Poison Jab, Taunt, Close Combat.
 Common item: Scope Lens, Chople Berry, White Herb.
 Frequent teammates: Sceptile-Mega, Incineroar, Eelektross-Mega, Pelipper, Archaludon.

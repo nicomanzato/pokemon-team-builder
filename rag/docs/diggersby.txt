@@ -1,5 +1,6 @@
-Diggersby. Normal/Ground type. medium speed.
+Diggersby. Normal/Ground type. Base stats: 85/56/77/50/77/78 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Huge Power.
+Common EV spread: Adamant — 20 HP / 32 Atk / 14 Spe.
 Common moves: Protect, Quick Attack, Rock Slide, High Horsepower, Earthquake, Swords Dance, Giga Impact, Ice Punch.
 Common item: Choice Scarf, Soft Sand, Silk Scarf.
 Frequent teammates: Tsareena, Pelipper, Mawile-Mega, Musharna, Basculegion-F.

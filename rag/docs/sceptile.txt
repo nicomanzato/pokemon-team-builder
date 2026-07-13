@@ -1,5 +1,6 @@
-Sceptile. Grass type. very fast.
+Sceptile. Grass type. Base stats: 70/85/65/105/85/120 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Unburden.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Earth Power, Leaf Storm, Shed Tail, Detect, Energy Ball, Dragon Pulse, Rock Slide, Protect.
 Common item: Focus Sash, Sitrus Berry, White Herb.
 Frequent teammates: Staraptor-Mega, Charizard-Mega-Y, Kingambit, Talonflame, Whimsicott.

@@ -1,5 +1,6 @@
-Medicham. Fighting/Psychic type. medium speed.
+Medicham. Fighting/Psychic type. Base stats: 60/60/75/60/75/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Pure Power.
+Common EV spread: Brave — 32 HP / 32 Atk / 1 Def / 1 SpD.
 Common moves: Fake Out, Close Combat, Zen Headbutt, Trick Room, Poison Jab, Skill Swap, Rock Slide, Helping Hand.
 Common item: Focus Sash, Sitrus Berry, Black Belt.
 Frequent teammates: Gholdengo, Farigiraf, Torkoal, Sylveon, Blastoise-Mega.

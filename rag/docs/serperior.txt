@@ -1,5 +1,6 @@
-Serperior. Grass type. very fast.
+Serperior. Grass type. Base stats: 75/75/95/75/95/113 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Contrary.
+Common EV spread: Timid — 32 HP / 5 Def / 1 SpA / 2 SpD / 26 Spe.
 Common moves: Leaf Storm, Protect, Glare, Reflect, Light Screen, Dragon Pulse, Giga Drain, Taunt.
 Common item: Miracle Seed, Sitrus Berry, Leftovers.
 Frequent teammates: Milotic, Basculegion, Wyrdeer, Ceruledge, Whimsicott.

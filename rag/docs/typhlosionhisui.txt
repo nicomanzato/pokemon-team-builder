@@ -1,5 +1,6 @@
-Typhlosion-Hisui. Fire/Ghost type. fast.
+Typhlosion-Hisui. Fire/Ghost type. Base stats: 73/84/78/119/85/95 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Frisk.
+Common EV spread: Modest — 2 HP / 32 SpA / 32 Spe.
 Common moves: Eruption, Shadow Ball, Heat Wave, Burn Up, Overheat, Protect, Flamethrower, Focus Blast.
 Common item: Choice Scarf, Charcoal, Focus Sash.
 Frequent teammates: Whimsicott, Garchomp, Staraptor-Mega, Basculegion, Gholdengo.

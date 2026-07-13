@@ -1,5 +1,6 @@
-Lycanroc-Dusk. Rock type. very fast.
+Lycanroc-Dusk. Rock type. Base stats: 75/117/65/55/65/110 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Tough Claws.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Accelerock, Protect, Rock Slide, Close Combat, Psychic Fangs, Play Rough, Sucker Punch, Crunch.
 Common item: Focus Sash, Life Orb, Hard Stone.
 Frequent teammates: Basculegion, Sneasler, Kingambit, Froslass-Mega, Scovillain-Mega.

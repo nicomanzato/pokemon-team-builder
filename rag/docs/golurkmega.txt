@@ -1,5 +1,6 @@
-Golurk-Mega. Ground/Ghost type. slow.
+Golurk-Mega. Ground/Ghost type. Base stats: 89/159/105/70/105/55 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Unseen Fist.
+Common EV spread: Brave — 32 HP / 32 Atk / 2 SpD.
 Common moves: Protect, Poltergeist, Headlong Rush, Ice Punch, Rock Slide, Close Combat, Earthquake, Drain Punch.
 Common item: Golurkite.
 Frequent teammates: Farigiraf, Torkoal, Sinistcha, Incineroar, Kingambit.

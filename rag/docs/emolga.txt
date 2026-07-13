@@ -1,5 +1,6 @@
-Emolga. Electric/Flying type. fast.
+Emolga. Electric/Flying type. Base stats: 55/75/60/75/60/103 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Motor Drive.
+Common EV spread: Modest — 22 HP / 12 SpA / 32 Spe.
 Common moves: Encore, Nuzzle, Air Slash, Electroweb, Discharge, Protect, Speed Swap, Taunt.
 Common item: Focus Sash, Choice Scarf, Mental Herb.
 Frequent teammates: Garchomp, Sceptile-Mega, Kingambit, Rotom-Heat, Sinistcha.

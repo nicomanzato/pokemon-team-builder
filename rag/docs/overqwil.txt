@@ -1,5 +1,6 @@
-Overqwil. Dark/Poison type. medium speed.
+Overqwil. Dark/Poison type. Base stats: 85/115/95/65/65/85 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Swift Swim.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Protect, Throat Chop, Poison Jab, Gunk Shot, Crunch, Aqua Jet, Liquidation, Barb Barrage.
 Common item: Life Orb, Black Glasses, Leftovers.
 Frequent teammates: Pelipper, Swampert-Mega, Archaludon, Sinistcha, Basculegion.

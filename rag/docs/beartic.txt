@@ -1,5 +1,6 @@
-Beartic. Ice type. very slow, great under Trick Room.
+Beartic. Ice type. Base stats: 95/130/80/70/80/50 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Slush Rush.
+Common EV spread: Jolly — 32 Atk / 2 SpD / 32 Spe.
 Common moves: Icicle Crash, Close Combat, Protect, Rock Slide, Aqua Jet, Taunt, Low Kick, Rain Dance.
 Common item: Expert Belt, Life Orb, Focus Sash.
 Frequent teammates: Pelipper, Archaludon, Swampert-Mega, Froslass-Mega, Farigiraf.

@@ -1,5 +1,6 @@
-Lucario-Mega. Fighting/Steel type. very fast.
+Lucario-Mega. Fighting/Steel type. Base stats: 70/145/88/140/70/112 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Adaptability.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Protect, Meteor Mash, Close Combat, Aura Sphere, Bullet Punch, Flash Cannon, Rock Slide, Detect.
 Common item: Lucarionite.
 Frequent teammates: Whimsicott, Incineroar, Basculegion, Garchomp, Sinistcha.

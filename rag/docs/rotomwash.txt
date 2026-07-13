@@ -1,5 +1,6 @@
-Rotom-Wash. Electric/Water type. medium speed.
+Rotom-Wash. Electric/Water type. Base stats: 50/65/107/105/107/86 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Levitate.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Hydro Pump, Will-O-Wisp, Thunderbolt, Volt Switch, Protect, Electroweb, Discharge, Trick.
 Common item: Sitrus Berry, Choice Scarf, Leftovers.
 Frequent teammates: Garchomp, Incineroar, Sinistcha, Whimsicott, Sneasler.

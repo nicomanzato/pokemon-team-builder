@@ -1,5 +1,6 @@
-Clefable-Mega. Fairy/Flying type. slow.
+Clefable-Mega. Fairy/Flying type. Base stats: 95/80/93/135/110/70 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Magic Bounce.
+Common EV spread: Bold — 32 HP / 17 Def / 12 SpD / 5 Spe.
 Common moves: Follow Me, Moonblast, Protect, Air Slash, Calm Mind, Life Dew, Dazzling Gleam, Misty Explosion.
 Common item: Clefablite.
 Frequent teammates: Garchomp, Sinistcha, Basculegion, Kingambit, Torkoal.

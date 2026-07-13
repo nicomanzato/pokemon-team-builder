@@ -1,5 +1,6 @@
-Flapple. Grass/Dragon type. slow.
+Flapple. Grass/Dragon type. Base stats: 70/110/80/95/60/70 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Hustle.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Grav Apple, Dragon Rush, Protect, Dragon Dance, Dual Wingbeat, U-turn, Sucker Punch, Outrage.
 Common item: Miracle Seed, Focus Sash, Choice Scarf.
 Frequent teammates: Sableye, Milotic, Maushold, Meowstic, Delphox-Mega.

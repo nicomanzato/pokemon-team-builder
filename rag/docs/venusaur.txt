@@ -1,5 +1,6 @@
-Venusaur. Grass/Poison type. medium speed.
+Venusaur. Grass/Poison type. Base stats: 80/82/83/100/100/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Chlorophyll.
+Common EV spread: Modest — 2 HP / 32 SpA / 32 Spe.
 Common moves: Sludge Bomb, Protect, Sleep Powder, Earth Power, Energy Ball, Leaf Storm, Solar Beam, Giga Drain.
 Common item: Focus Sash, Life Orb, Wide Lens.
 Frequent teammates: Charizard-Mega-Y, Garchomp, Incineroar, Torkoal, Farigiraf.

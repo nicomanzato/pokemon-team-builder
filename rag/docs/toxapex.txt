@@ -1,5 +1,6 @@
-Toxapex. Poison/Water type. very slow, great under Trick Room.
+Toxapex. Poison/Water type. Base stats: 50/63/152/53/142/35 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Regenerator.
+Common EV spread: Bold — 32 HP / 18 Def / 16 SpD.
 Common moves: Baneful Bunker, Toxic, Infestation, Wide Guard, Recover, Haze, Liquidation, Chilling Water.
 Common item: Leftovers, Sitrus Berry, Shuca Berry.
 Frequent teammates: Charizard-Mega-Y, Garchomp, Incineroar, Grimmsnarl, Hydreigon.

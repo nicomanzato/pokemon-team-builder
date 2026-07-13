@@ -1,5 +1,6 @@
-Dragapult. Dragon/Ghost type. very fast.
+Dragapult. Dragon/Ghost type. Base stats: 88/120/75/100/75/142 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Clear Body.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Draco Meteor, Will-O-Wisp, Hex, Dragon Darts, Phantom Force, Shadow Ball, Psychic Fangs.
 Common item: Focus Sash, Life Orb, Dragon Fang.
 Frequent teammates: Kingambit, Staraptor-Mega, Glimmora-Mega, Araquanid, Alcremie.

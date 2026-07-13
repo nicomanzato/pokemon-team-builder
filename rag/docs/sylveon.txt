@@ -1,5 +1,6 @@
-Sylveon. Fairy type. slow.
+Sylveon. Fairy type. Base stats: 95/65/65/110/130/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Pixilate.
+Common EV spread: Modest — 9 HP / 22 Def / 20 SpA / 15 Spe.
 Common moves: Hyper Voice, Quick Attack, Hyper Beam, Detect, Protect, Moonblast, Yawn, Calm Mind.
 Common item: Fairy Feather, Life Orb, Leftovers.
 Frequent teammates: Garchomp, Kingambit, Charizard-Mega-Y, Farigiraf, Basculegion.

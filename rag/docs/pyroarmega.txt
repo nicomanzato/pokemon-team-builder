@@ -1,5 +1,6 @@
-Pyroar-Mega. Fire/Normal type. very fast.
+Pyroar-Mega. Fire/Normal type. Base stats: 86/88/92/129/86/126 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: noability.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Heat Wave, Protect, Overheat, Solar Beam, Hyper Voice, Flamethrower, Yawn, Scorching Sands.
 Common item: Pyroarite.
 Frequent teammates: Farigiraf, Torkoal, Whimsicott, Basculegion, Floette-Mega.

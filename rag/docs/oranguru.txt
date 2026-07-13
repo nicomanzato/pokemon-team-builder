@@ -1,5 +1,6 @@
-Oranguru. Normal/Psychic type. slow.
+Oranguru. Normal/Psychic type. Base stats: 90/60/80/90/110/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Inner Focus.
+Common EV spread: Relaxed — 32 HP / 32 Def / 2 SpD.
 Common moves: Instruct, Trick Room, Protect, Psychic, Encore, Yawn, Psychic Noise, Foul Play.
 Common item: Mental Herb, Colbur Berry, Sitrus Berry.
 Frequent teammates: Torkoal, Mawile-Mega, Sinistcha, Scrafty-Mega, Sylveon.

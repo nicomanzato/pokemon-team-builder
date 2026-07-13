@@ -1,5 +1,6 @@
-Pinsir-Mega. Bug/Flying type. fast.
+Pinsir-Mega. Bug/Flying type. Base stats: 65/155/120/65/90/105 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Aerilate.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 SpD.
 Common moves: Feint, Protect, Body Slam, Lunge, Storm Throw, Giga Impact, Close Combat, Quick Attack.
 Common item: Pinsirite.
 Frequent teammates: Farigiraf, Garchomp, Sylveon, Torkoal, Venusaur-Mega.

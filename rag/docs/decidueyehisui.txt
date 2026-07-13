@@ -1,5 +1,6 @@
-Decidueye-Hisui. Grass/Fighting type. slow.
+Decidueye-Hisui. Grass/Fighting type. Base stats: 88/112/80/95/95/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Scrappy.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Leaf Blade, Triple Arrows, Protect, Sucker Punch, Brave Bird, Tailwind, Close Combat, Upper Hand.
 Common item: Scope Lens, Focus Sash, Black Belt.
 Frequent teammates: Farigiraf, Basculegion, Raichu-Mega-Y, Whimsicott, Chandelure.

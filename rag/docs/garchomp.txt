@@ -1,5 +1,6 @@
-Garchomp. Dragon/Ground type. fast.
+Garchomp. Dragon/Ground type. Base stats: 108/130/95/80/85/102 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Rough Skin.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Dragon Claw, Rock Slide, Earthquake, Protect, Stomping Tantrum, Poison Jab, Rock Tomb, Scale Shot.
 Common item: Life Orb, Choice Scarf, Sitrus Berry.
 Frequent teammates: Whimsicott, Charizard-Mega-Y, Basculegion, Kingambit, Incineroar.

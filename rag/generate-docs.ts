@@ -19,9 +19,24 @@ interface ChaosEntry {
   Abilities: Record<string, number>
   Items: Record<string, number>
   Moves: Record<string, number>
+  Spreads: Record<string, number>
   Teammates: Record<string, number>
 }
 interface DexEntry { types?: string[]; baseStats?: Record<string, number>; abilities?: Record<string, string> }
+
+const STAT_KEYS = ['hp', 'atk', 'def', 'spa', 'spd', 'spe'] as const
+const STAT_LABELS = ['HP', 'Atk', 'Def', 'SpA', 'SpD', 'Spe']
+
+// "Calm:31/0/23/0/12/0" -> "Calm — 31 HP / 23 Def / 12 SpD"
+function prettySpread(spread: string): string {
+  const [nature, nums] = spread.split(':')
+  const evs = nums
+    .split('/')
+    .map((v, i) => (v !== '0' ? `${v} ${STAT_LABELS[i]}` : ''))
+    .filter(Boolean)
+    .join(' / ')
+  return `${nature} — ${evs}`
+}
 
 function mapNames(moves: Record<string, { name: string }>): Record<string, string> {
   return Object.fromEntries(Object.entries(moves).map(([id, m]) => [id, m.name]))
@@ -60,13 +75,16 @@ function profileText(name: string): string {
   const entry = dexEntry(name)
   const types = (entry.types ?? ['?']).join('/')
   const spe = entry.baseStats?.spe ?? 80
+  const stats = STAT_KEYS.map((s) => entry.baseStats?.[s] ?? '?').join('/')
   const ability = abilityName(topKeys(c.Abilities, 1)[0] ?? '?', entry)
   const moves = topKeys(c.Moves, 8).map((m) => moveNames[m] ?? m).join(', ')
   const items = topKeys(c.Items, 3).map((i) => itemNames[i] ?? i).join(', ')
   const teammates = topKeys(c.Teammates, 5).join(', ')
+  const topSpread = topKeys(c.Spreads, 1)[0]
   return (
-    `${name}. ${types} type. ${speedHint(spe)}.\n` +
+    `${name}. ${types} type. Base stats: ${stats} (HP/Atk/Def/SpA/SpD/Spe). ${speedHint(spe)}.\n` +
     `Ability: ${ability}.\n` +
+    (topSpread ? `Common EV spread: ${prettySpread(topSpread)}.\n` : '') +
     `Common moves: ${moves}.\n` +
     `Common item: ${items}.\n` +
     `Frequent teammates: ${teammates}.\n`

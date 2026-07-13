@@ -1,5 +1,6 @@
-Aerodactyl. Rock/Flying type. very fast.
+Aerodactyl. Rock/Flying type. Base stats: 80/105/65/60/75/130 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Unnerve.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Rock Slide, Tailwind, Dual Wingbeat, Protect, Wide Guard, Sunny Day, Ice Fang, Taunt.
 Common item: Focus Sash, Life Orb, Wide Lens.
 Frequent teammates: Garchomp, Basculegion, Incineroar, Floette-Mega, Charizard-Mega-Y.

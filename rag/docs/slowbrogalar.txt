@@ -1,5 +1,6 @@
-Slowbro-Galar. Poison/Psychic type. very slow, great under Trick Room.
+Slowbro-Galar. Poison/Psychic type. Base stats: 95/100/95/100/70/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Quick Draw.
+Common EV spread: Quiet — 30 HP / 11 SpA / 25 SpD.
 Common moves: Shell Side Arm, Trick Room, Psychic, Protect, Ice Beam, Flamethrower, Grass Knot, Drain Punch.
 Common item: quickclaw, Colbur Berry, Leftovers.
 Frequent teammates: Incineroar, Farigiraf, Tyranitar-Mega, Ditto, Spiritomb.

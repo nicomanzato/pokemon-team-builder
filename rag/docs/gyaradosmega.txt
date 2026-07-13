@@ -1,5 +1,6 @@
-Gyarados-Mega. Water/Dark type. medium speed.
+Gyarados-Mega. Water/Dark type. Base stats: 95/155/109/70/130/81 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Mold Breaker.
+Common EV spread: Adamant — 11 HP / 25 Atk / 30 Spe.
 Common moves: Waterfall, Protect, Dragon Dance, Crunch, Lash Out, Power Whip, Earthquake, Ice Fang.
 Common item: Gyaradosite.
 Frequent teammates: Sneasler, Sinistcha, Garchomp, Kingambit, Ninetales-Alola.

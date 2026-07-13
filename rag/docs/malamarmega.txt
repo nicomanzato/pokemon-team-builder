@@ -1,5 +1,6 @@
-Malamar-Mega. Dark/Psychic type. medium speed.
+Malamar-Mega. Dark/Psychic type. Base stats: 86/102/88/98/120/88 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: noability.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 Def.
 Common moves: Superpower, Protect, Knock Off, Psycho Cut, Trick Room, Zen Headbutt, Topsy-Turvy, Throat Chop.
 Common item: Malamarite.
 Frequent teammates: Sinistcha, Grimmsnarl, Whimsicott, Incineroar, Sneasler.

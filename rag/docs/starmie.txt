@@ -1,5 +1,6 @@
-Starmie. Water/Psychic type. very fast.
+Starmie. Water/Psychic type. Base stats: 60/75/85/100/85/115 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Natural Cure.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Scald, Power Gem, Thunder, Ice Beam, Hydro Pump, Psychic, Expanding Force.
 Common item: Expert Belt, Life Orb, Leftovers.
 Frequent teammates: Whimsicott, Raichu-Mega-Y, Pelipper, Overqwil, Tsareena.

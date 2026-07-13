@@ -1,5 +1,6 @@
-Torterra. Grass/Ground type. slow.
+Torterra. Grass/Ground type. Base stats: 95/109/105/75/85/56 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Shell Armor.
+Common EV spread: Adamant — 3 HP / 31 Atk / 32 Spe.
 Common moves: Earthquake, Wood Hammer, Shell Smash, Protect, Rock Slide, Wide Guard, Leech Seed, Headlong Rush.
 Common item: White Herb, Leftovers, Occa Berry.
 Frequent teammates: Incineroar, Whimsicott, Basculegion, Sinistcha, Kingambit.

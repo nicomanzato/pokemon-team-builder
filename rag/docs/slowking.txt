@@ -1,5 +1,6 @@
-Slowking. Water/Psychic type. very slow, great under Trick Room.
+Slowking. Water/Psychic type. Base stats: 95/75/80/100/110/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Regenerator.
+Common EV spread: Relaxed — 32 HP / 32 Def / 2 SpD.
 Common moves: Trick Room, Scald, Chilly Reception, Psychic, Protect, Psychic Noise, Yawn, Blizzard.
 Common item: Colbur Berry, Sitrus Berry, Leftovers.
 Frequent teammates: Mawile-Mega, Incineroar, Sinistcha, Staraptor, Dragalge-Mega.

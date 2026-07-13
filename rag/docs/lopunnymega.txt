@@ -1,5 +1,6 @@
-Lopunny-Mega. Normal/Fighting type. very fast.
+Lopunny-Mega. Normal/Fighting type. Base stats: 65/136/94/54/96/135 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Scrappy.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Fake Out, Close Combat, Encore, Protect, Triple Axel, Mach Punch, After You, U-turn.
 Common item: Lopunnite.
 Frequent teammates: Basculegion, Incineroar, Metagross-Mega, Garchomp, Lycanroc-Dusk.

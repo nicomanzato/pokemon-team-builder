@@ -1,5 +1,6 @@
-Armarouge. Fire/Psychic type. medium speed.
+Armarouge. Fire/Psychic type. Base stats: 85/60/100/125/80/75 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Flash Fire.
+Common EV spread: Modest — 28 HP / 32 SpA / 6 Spe.
 Common moves: Trick Room, Armor Cannon, Protect, Psychic, Heat Wave, Wide Guard, Expanding Force, Energy Ball.
 Common item: Focus Sash, Life Orb, Leftovers.
 Frequent teammates: Mawile-Mega, Sinistcha, Torkoal, Farigiraf, Staraptor-Mega.

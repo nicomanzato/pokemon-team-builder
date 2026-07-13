@@ -1,5 +1,6 @@
-Scrafty. Dark/Fighting type. slow.
+Scrafty. Dark/Fighting type. Base stats: 65/90/115/45/115/58 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Intimidate.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 SpD.
 Common moves: Fake Out, Knock Off, Close Combat, Drain Punch, Protect, Coaching, Helping Hand, Super Fang.
 Common item: Life Orb, Leftovers, Sitrus Berry.
 Frequent teammates: Farigiraf, Torkoal, Garchomp, Basculegion, Floette-Mega.

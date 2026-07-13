@@ -1,5 +1,6 @@
-Alakazam-Mega. Psychic type. very fast.
+Alakazam-Mega. Psychic type. Base stats: 55/50/65/175/105/150 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Trace.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Expanding Force, Focus Blast, Dazzling Gleam, Shadow Ball, Speed Swap, Psyshock, Psychic.
 Common item: Alakazite.
 Frequent teammates: Meowstic, Whimsicott, Maushold, Sneasler, Annihilape.

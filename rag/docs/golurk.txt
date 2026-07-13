@@ -1,5 +1,6 @@
-Golurk. Ground/Ghost type. slow.
+Golurk. Ground/Ghost type. Base stats: 89/124/80/55/80/55 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Iron Fist.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 SpD.
 Common moves: Poltergeist, Protect, Headlong Rush, Heavy Slam, Dynamic Punch, Ice Punch, Stone Edge, Drain Punch.
 Common item: Muscle Band, Life Orb, Expert Belt.
 Frequent teammates: Farigiraf, Whimsicott, Floette-Mega, Charizard-Mega-Y, Greninja.

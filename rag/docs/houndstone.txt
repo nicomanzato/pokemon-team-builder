@@ -1,5 +1,6 @@
-Houndstone. Ghost type. slow.
+Houndstone. Ghost type. Base stats: 72/101/100/50/97/68 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Sand Rush.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Last Respects, Will-O-Wisp, Protect, Ally Switch, Body Press, Shadow Sneak, Psychic Fangs, Play Rough.
 Common item: Sitrus Berry, Spell Tag, Life Orb.
 Frequent teammates: Tyranitar-Mega, Excadrill, Rotom-Wash, Corviknight, Sinistcha.

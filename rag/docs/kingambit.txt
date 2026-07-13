@@ -1,5 +1,6 @@
-Kingambit. Dark/Steel type. very slow, great under Trick Room.
+Kingambit. Dark/Steel type. Base stats: 100/135/120/60/85/50 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Defiant.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 SpD.
 Common moves: Sucker Punch, Kowtow Cleave, Protect, Iron Head, Low Kick, Swords Dance, Brick Break, Assurance.
 Common item: Black Glasses, Chople Berry, Focus Sash.
 Frequent teammates: Garchomp, Basculegion, Whimsicott, Charizard-Mega-Y, Floette-Mega.

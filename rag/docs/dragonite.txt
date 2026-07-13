@@ -1,5 +1,6 @@
-Dragonite. Dragon/Flying type. medium speed.
+Dragonite. Dragon/Flying type. Base stats: 91/134/95/100/100/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Multiscale.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Extreme Speed, Dragon Claw, Protect, Low Kick, Tailwind, Scale Shot, Haze, Brick Break.
 Common item: Dragon Fang, Life Orb, Muscle Band.
 Frequent teammates: Incineroar, Basculegion, Sneasler, Kingambit, Raichu-Mega-Y.

@@ -1,5 +1,6 @@
-Leafeon. Grass type. fast.
+Leafeon. Grass type. Base stats: 65/110/130/60/65/95 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Chlorophyll.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Leaf Blade, Solar Blade, Knock Off, Detect, Protect, Quick Attack, Yawn, X-Scissor.
 Common item: Life Orb, Focus Sash, Sitrus Berry.
 Frequent teammates: Whimsicott, Charizard-Mega-Y, Torkoal, Garchomp, Houndoom-Mega.

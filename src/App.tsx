@@ -9,6 +9,7 @@ export default function App() {
   const [stage, setStage] = useState<GenerationStage>({ kind: 'idle' })
   const [copied, setCopied] = useState(false)
   const [engine, setEngine] = useState(DEFAULT_ENGINE)
+  const [useRag, setUseRag] = useState(true)
   const busy = stage.kind === 'working'
 
   async function build(q: string) {
@@ -17,8 +18,10 @@ export default function App() {
     setCopied(false)
     setStage({ kind: 'working', step: 'Starting…' })
     try {
-      const { team, note } = await engine.generateTeam(request, (step) =>
-        setStage({ kind: 'working', step }),
+      const { team, note } = await engine.generateTeam(
+        request,
+        (step) => setStage({ kind: 'working', step }),
+        useRag,
       )
       setStage({ kind: 'done', team, note })
     } catch (err) {
@@ -55,6 +58,19 @@ export default function App() {
                 </option>
               ))}
             </select>
+          </label>
+          <label
+            className="flex cursor-pointer items-center gap-1.5 rounded-full border border-line px-3 py-1 font-mono text-xs text-muted"
+            title="Toggle retrieval — see how much the metagame data helps"
+          >
+            <input
+              type="checkbox"
+              checked={useRag}
+              disabled={busy}
+              onChange={(e) => setUseRag(e.target.checked)}
+              className="accent-brand"
+            />
+            RAG
           </label>
           <span className="rounded-full border border-line px-3 py-1 font-mono text-xs text-muted">
             Champions · Reg M-B

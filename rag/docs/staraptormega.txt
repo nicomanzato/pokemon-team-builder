@@ -1,5 +1,6 @@
-Staraptor-Mega. Fighting/Flying type. very fast.
+Staraptor-Mega. Fighting/Flying type. Base stats: 85/140/100/60/90/110 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: noability.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Close Combat, Protect, Brave Bird, Roost, Dual Wingbeat, Tailwind, Blaze Kick, U-turn.
 Common item: Staraptite.
 Frequent teammates: Whimsicott, Garchomp, Sinistcha, Grimmsnarl, Incineroar.

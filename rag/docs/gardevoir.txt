@@ -1,5 +1,6 @@
-Gardevoir. Psychic/Fairy type. medium speed.
+Gardevoir. Psychic/Fairy type. Base stats: 68/65/65/125/115/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Telepathy.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Moonblast, Dazzling Gleam, Psychic, Aura Sphere, Protect, Trick Room, Psyshock, Icy Wind.
 Common item: Choice Scarf, Focus Sash, Fairy Feather.
 Frequent teammates: Garchomp, Pelipper, Swampert-Mega, Incineroar, Farigiraf.

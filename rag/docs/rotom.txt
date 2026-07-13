@@ -1,5 +1,6 @@
-Rotom. Electric/Ghost type. fast.
+Rotom. Electric/Ghost type. Base stats: 50/50/77/95/77/91 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Levitate.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Shadow Ball, Thunderbolt, Protect, Trick, Discharge, Nasty Plot, Will-O-Wisp, Hex.
 Common item: Choice Scarf, Sitrus Berry, Spell Tag.
 Frequent teammates: Kommo-o, Arcanine-Hisui, Primarina, Scizor-Mega, Reuniclus.

@@ -1,5 +1,6 @@
-Manectric-Mega. Electric type. very fast.
+Manectric-Mega. Electric type. Base stats: 70/75/80/135/80/135 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Intimidate.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Volt Switch, Snarl, Thunderbolt, Thunder, Overheat, Flamethrower, Eerie Impulse.
 Common item: Manectite.
 Frequent teammates: Pelipper, Archaludon, Basculegion, Sinistcha, Sneasler.

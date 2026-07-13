@@ -1,5 +1,6 @@
-Scovillain-Mega. Grass/Fire type. medium speed.
+Scovillain-Mega. Grass/Fire type. Base stats: 65/138/85/138/85/75 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Spicy Spray.
+Common EV spread: Calm — 32 HP / 19 Def / 15 SpD.
 Common moves: Rage Powder, Protect, Overheat, Leech Seed, Giga Drain, Flamethrower, Leaf Storm, Energy Ball.
 Common item: Scovillainite.
 Frequent teammates: Basculegion, Sneasler, Kingambit, Archaludon, Froslass-Mega.

@@ -1,5 +1,6 @@
-Tauros. Normal type. very fast.
+Tauros. Normal type. Base stats: 75/100/95/40/70/110 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Sheer Force.
+Common EV spread: Jolly — 1 HP / 31 Atk / 1 Def / 1 SpD / 32 Spe.
 Common moves: Protect, Body Slam, Earthquake, Throat Chop, Close Combat, Rock Slide, Raging Bull, Zen Headbutt.
 Common item: Life Orb, Sitrus Berry, Chople Berry.
 Frequent teammates: Rotom-Heat, Sceptile-Mega, Kleavor, Chandelure-Mega, Hippowdon.

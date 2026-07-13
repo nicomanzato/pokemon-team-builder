@@ -1,5 +1,6 @@
-Glimmora. Rock/Poison type. medium speed.
+Glimmora. Rock/Poison type. Base stats: 83/55/90/130/81/86 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Toxic Debris.
+Common EV spread: Modest — 1 HP / 32 SpA / 1 SpD / 32 Spe.
 Common moves: Power Gem, Sludge Bomb, Earth Power, Spiky Shield, Energy Ball, Mortal Spin, Protect, Sludge Wave.
 Common item: Focus Sash, Life Orb, Choice Scarf.
 Frequent teammates: Whimsicott, Garchomp, Charizard-Mega-Y, Basculegion, Metagross-Mega.

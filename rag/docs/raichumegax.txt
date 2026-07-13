@@ -1,5 +1,6 @@
-Raichu-Mega-X. Electric type. very fast.
+Raichu-Mega-X. Electric type. Base stats: 60/135/95/90/95/110 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: noability.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Fake Out, Protect, Volt Tackle, Volt Switch, Rising Voltage, Play Rough, Encore, Knock Off.
 Common item: Raichunite X.
 Frequent teammates: Pelipper, Archaludon, Sinistcha, Basculegion, Swampert-Mega.

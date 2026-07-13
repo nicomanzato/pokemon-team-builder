@@ -1,5 +1,6 @@
-Ditto. Normal type. very slow, great under Trick Room.
+Ditto. Normal type. Base stats: 48/48/48/48/48/48 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Imposter.
+Common EV spread: Relaxed — 32 HP / 32 Def / 2 SpD.
 Common moves: Transform.
 Common item: Choice Scarf, Focus Sash, quickclaw.
 Frequent teammates: Incineroar, Garchomp, Staraptor-Mega, Whimsicott, Charizard-Mega-Y.

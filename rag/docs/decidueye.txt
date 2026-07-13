@@ -1,5 +1,6 @@
-Decidueye. Grass/Ghost type. slow.
+Decidueye. Grass/Ghost type. Base stats: 78/107/75/100/100/70 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Long Reach.
+Common EV spread: Impish — 32 HP / 10 Atk / 20 Def / 4 SpD.
 Common moves: Spirit Shackle, Leaf Blade, Protect, Swords Dance, Tailwind, Brave Bird, Defog, Low Kick.
 Common item: Spell Tag, Focus Sash, quickclaw.
 Frequent teammates: Staraptor-Mega, Sinistcha, Whimsicott, Maushold, Ninetales-Alola.

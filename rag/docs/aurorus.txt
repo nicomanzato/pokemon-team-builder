@@ -1,5 +1,6 @@
-Aurorus. Rock/Ice type. slow.
+Aurorus. Rock/Ice type. Base stats: 123/77/72/99/92/58 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Snow Warning.
+Common EV spread: Quiet — 21 HP / 12 Def / 32 SpA / 1 SpD.
 Common moves: Protect, Freeze-Dry, Ancient Power, Blizzard, Aurora Veil, Hyper Voice, Earth Power, Snowscape.
 Common item: Life Orb, Light Clay, Never-Melt Ice.
 Frequent teammates: Farigiraf, Torkoal, Staraptor, Mawile-Mega, Incineroar.

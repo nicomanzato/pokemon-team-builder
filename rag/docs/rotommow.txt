@@ -1,5 +1,6 @@
-Rotom-Mow. Electric/Grass type. medium speed.
+Rotom-Mow. Electric/Grass type. Base stats: 50/65/107/105/107/86 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Levitate.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Leaf Storm, Volt Switch, Will-O-Wisp, Protect, Thunderbolt, Discharge, Trick, Electroweb.
 Common item: Choice Scarf, Sitrus Berry, Leftovers.
 Frequent teammates: Garchomp, Pelipper, Swampert-Mega, Basculegion, Sneasler.

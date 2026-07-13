@@ -1,5 +1,6 @@
-Wyrdeer. Normal/Psychic type. slow.
+Wyrdeer. Normal/Psychic type. Base stats: 103/105/72/105/75/65 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Intimidate.
+Common EV spread: Adamant — 29 HP / 1 Atk / 8 Def / 21 SpD / 7 Spe.
 Common moves: Trick Room, Psyshield Bash, Hypnosis, Gravity, Skill Swap, Protect, Psychic, Earth Power.
 Common item: Colbur Berry, Sitrus Berry, Twisted Spoon.
 Frequent teammates: Milotic, Ceruledge, Floette-Mega, Sinistcha, Serperior.

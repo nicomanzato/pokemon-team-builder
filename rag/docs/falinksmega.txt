@@ -1,5 +1,6 @@
-Falinks-Mega. Fighting type. fast.
+Falinks-Mega. Fighting type. Base stats: 65/135/135/70/65/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: noability.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Close Combat, No Retreat, Protect, Rock Slide, Knock Off, Iron Head, Poison Jab, Seed Bomb.
 Common item: Falinksite.
 Frequent teammates: Sinistcha, Incineroar, Gholdengo, Garchomp, Kingambit.

@@ -1,5 +1,6 @@
-Raichu-Mega-Y. Electric type. very fast.
+Raichu-Mega-Y. Electric type. Base stats: 60/100/55/160/80/130 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: noability.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Zap Cannon, Focus Blast, Protect, Fake Out, Volt Switch, Grass Knot, Encore, Electroweb.
 Common item: Raichunite Y.
 Frequent teammates: Incineroar, Basculegion, Whimsicott, Sinistcha, Garchomp.

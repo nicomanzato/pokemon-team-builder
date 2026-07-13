@@ -1,5 +1,6 @@
-Gengar. Ghost/Poison type. very fast.
+Gengar. Ghost/Poison type. Base stats: 60/65/60/130/75/110 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Cursed Body.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Shadow Ball, Sludge Bomb, Protect, Icy Wind, Trick Room, Sludge Wave, Destiny Bond, Will-O-Wisp.
 Common item: Focus Sash, Choice Scarf, Life Orb.
 Frequent teammates: Garchomp, Incineroar, Kingambit, Farigiraf, Sylveon.

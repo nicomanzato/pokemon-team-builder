@@ -1,5 +1,6 @@
-Vivillon. Bug/Flying type. medium speed.
+Vivillon. Bug/Flying type. Base stats: 80/52/50/90/50/89 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Compound Eyes.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Sleep Powder, Rage Powder, Hurricane, Protect, Pollen Puff, Tailwind, Rain Dance, U-turn.
 Common item: Focus Sash, Choice Scarf, Mental Herb.
 Frequent teammates: Farigiraf, Incineroar, Torkoal, Kingambit, Basculegion.

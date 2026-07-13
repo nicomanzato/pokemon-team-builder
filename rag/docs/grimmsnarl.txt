@@ -1,5 +1,6 @@
-Grimmsnarl. Dark/Fairy type. slow.
+Grimmsnarl. Dark/Fairy type. Base stats: 95/120/65/95/75/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Prankster.
+Common EV spread: Careful — 32 HP / 19 Def / 15 SpD.
 Common moves: Parting Shot, Reflect, Light Screen, Spirit Break, Fake Out, Foul Play, Scary Face, Sucker Punch.
 Common item: Light Clay, Roseli Berry, Sitrus Berry.
 Frequent teammates: Sinistcha, Pelipper, Staraptor-Mega, Archaludon, Swampert-Mega.

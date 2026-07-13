@@ -1,5 +1,6 @@
-Sharpedo. Water/Dark type. fast.
+Sharpedo. Water/Dark type. Base stats: 70/120/40/95/40/95 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Speed Boost.
+Common EV spread: Adamant — 32 Atk / 2 Def / 32 Spe.
 Common moves: Crunch, Protect, Liquidation, Close Combat, Destiny Bond, Psychic Fangs, Flip Turn, Aqua Jet.
 Common item: Focus Sash, Choice Scarf, Black Glasses.
 Frequent teammates: Basculegion, Sylveon, Kangaskhan-Mega, Decidueye-Hisui, Gholdengo.

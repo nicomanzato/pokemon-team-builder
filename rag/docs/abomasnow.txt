@@ -1,5 +1,6 @@
-Abomasnow. Grass/Ice type. slow.
+Abomasnow. Grass/Ice type. Base stats: 90/92/75/92/85/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Snow Warning.
+Common EV spread: Modest — 32 HP / 2 Def / 32 SpA.
 Common moves: Blizzard, Aurora Veil, Protect, Giga Drain, Leaf Storm, Energy Ball, Grass Knot, Earth Power.
 Common item: Light Clay, Focus Sash, Sitrus Berry.
 Frequent teammates: Incineroar, Metagross-Mega, Primarina, Scrafty-Mega, Milotic.

@@ -1,5 +1,6 @@
-Chandelure. Ghost/Fire type. medium speed.
+Chandelure. Ghost/Fire type. Base stats: 60/55/90/145/90/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Flash Fire.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Shadow Ball, Heat Wave, Protect, Trick Room, Energy Ball, Taunt, Flamethrower, Overheat.
 Common item: Focus Sash, Colbur Berry, Lum Berry.
 Frequent teammates: Whimsicott, Basculegion, Kingambit, Garchomp, Floette-Mega.

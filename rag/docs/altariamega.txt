@@ -1,5 +1,6 @@
-Altaria-Mega. Dragon/Fairy type. medium speed.
+Altaria-Mega. Dragon/Fairy type. Base stats: 75/110/110/110/105/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Pixilate.
+Common EV spread: Modest — 32 HP / 32 SpA / 2 Spe.
 Common moves: Protect, Hyper Voice, Tailwind, Roost, Dragon Pulse, Will-O-Wisp, Draco Meteor, Flamethrower.
 Common item: Altarianite.
 Frequent teammates: Sinistcha, Gholdengo, Farigiraf, Incineroar, Kingambit.

@@ -1,5 +1,6 @@
-Goodra-Hisui. Steel/Dragon type. slow.
+Goodra-Hisui. Steel/Dragon type. Base stats: 80/100/100/110/150/60 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Shell Armor.
+Common EV spread: Impish — 32 HP / 1 Atk / 31 Def / 1 SpD / 1 Spe.
 Common moves: Body Press, Shelter, Protect, Flash Cannon, Heavy Slam, Life Dew, Draco Meteor, Thunderbolt.
 Common item: Leftovers, Chesto Berry, Chople Berry.
 Frequent teammates: Sinistcha, Staraptor-Mega, Incineroar, Basculegion, Whimsicott.

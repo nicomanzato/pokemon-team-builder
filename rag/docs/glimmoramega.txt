@@ -1,5 +1,6 @@
-Glimmora-Mega. Rock/Poison type. fast.
+Glimmora-Mega. Rock/Poison type. Base stats: 83/90/105/150/96/101 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Adaptability.
+Common EV spread: Bold — 27 HP / 21 Def / 18 SpD.
 Common moves: Power Gem, Sludge Bomb, Spiky Shield, Earth Power, Sludge Wave, Protect, Energy Ball, Rock Polish.
 Common item: Glimmoranite.
 Frequent teammates: Kingambit, Staraptor-Mega, Dragapult, Whimsicott, Araquanid.

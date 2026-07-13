@@ -1,5 +1,6 @@
-Kleavor. Bug/Rock type. medium speed.
+Kleavor. Bug/Rock type. Base stats: 70/135/95/45/70/85 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Sharpness.
+Common EV spread: Jolly — 2 HP / 32 Atk / 32 Spe.
 Common moves: Stone Axe, X-Scissor, Close Combat, Rock Slide, Protect, U-turn, Night Slash, Tailwind.
 Common item: Choice Scarf, Focus Sash, Life Orb.
 Frequent teammates: Whimsicott, Farigiraf, Metagross-Mega, Torkoal, Garchomp.

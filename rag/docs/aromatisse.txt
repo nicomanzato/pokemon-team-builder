@@ -1,5 +1,6 @@
-Aromatisse. Fairy type. very slow, great under Trick Room.
+Aromatisse. Fairy type. Base stats: 101/72/72/99/89/29 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Aroma Veil.
+Common EV spread: Sassy — 32 HP / 32 Def / 2 SpD.
 Common moves: Trick Room, Moonblast, Heal Pulse, Fake Tears, Encore, Sunny Day, Dazzling Gleam, After You.
 Common item: Babiri Berry, Leftovers, Sitrus Berry.
 Frequent teammates: Torkoal, Tsareena, Camerupt-Mega, Incineroar, Gallade.

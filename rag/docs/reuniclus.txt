@@ -1,5 +1,6 @@
-Reuniclus. Psychic type. very slow, great under Trick Room.
+Reuniclus. Psychic type. Base stats: 110/65/75/125/85/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Magic Guard.
+Common EV spread: Quiet — 32 HP / 2 Def / 32 SpA.
 Common moves: Trick Room, Psychic, Protect, Focus Blast, Energy Ball, Shadow Ball, Expanding Force, Thunder.
 Common item: Life Orb, Leftovers, Sitrus Berry.
 Frequent teammates: Mawile-Mega, Farigiraf, Incineroar, Torkoal, Tyranitar-Mega.

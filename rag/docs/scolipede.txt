@@ -1,5 +1,6 @@
-Scolipede. Bug/Poison type. very fast.
+Scolipede. Bug/Poison type. Base stats: 60/100/89/55/69/112 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Speed Boost.
+Common EV spread: Adamant — 2 HP / 32 Atk / 32 Spe.
 Common moves: Protect, Poison Jab, Swords Dance, Leech Life, Baton Pass, Gunk Shot, Rock Slide, Megahorn.
 Common item: Focus Sash, Coba Berry, Occa Berry.
 Frequent teammates: Staraptor-Mega, Sinistcha, Whimsicott, Incineroar, Raichu-Mega-Y.

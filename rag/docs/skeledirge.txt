@@ -1,5 +1,6 @@
-Skeledirge. Fire/Ghost type. slow.
+Skeledirge. Fire/Ghost type. Base stats: 104/75/100/110/75/66 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Unaware.
+Common EV spread: Modest — 13 HP / 23 SpA / 4 SpD / 26 Spe.
 Common moves: Torch Song, Protect, Shadow Ball, Slack Off, Will-O-Wisp, Earth Power, Yawn, Alluring Voice.
 Common item: Leftovers, Sitrus Berry, Charcoal.
 Frequent teammates: Sinistcha, Garchomp, Staraptor-Mega, Whimsicott, Kingambit.

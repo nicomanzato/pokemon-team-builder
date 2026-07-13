@@ -1,5 +1,6 @@
-Scovillain. Grass/Fire type. medium speed.
+Scovillain. Grass/Fire type. Base stats: 65/108/65/108/65/75 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Chlorophyll.
+Common EV spread: Modest — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Rage Powder, Spicy Extract, Flamethrower, Overheat, Leaf Storm, Flare Blitz, Will-O-Wisp.
 Common item: Focus Sash, Charcoal, Sitrus Berry.
 Frequent teammates: Sneasler, Whimsicott, Torkoal, Charizard-Mega-Y, Garchomp.

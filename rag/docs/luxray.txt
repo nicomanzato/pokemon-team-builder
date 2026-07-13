@@ -1,5 +1,6 @@
-Luxray. Electric type. slow.
+Luxray. Electric type. Base stats: 80/120/79/95/79/70 (HP/Atk/Def/SpA/SpD/Spe). slow.
 Ability: Intimidate.
+Common EV spread: Rash — 2 Atk / 32 SpA / 32 Spe.
 Common moves: Snarl, Volt Switch, Discharge, Electroweb, Rising Voltage, Psychic Fangs, Ice Fang, Protect.
 Common item: Choice Scarf, Sitrus Berry, Shell Bell.
 Frequent teammates: Sinistcha, Sceptile-Mega, Raichu-Mega-X, Talonflame, Swampert.

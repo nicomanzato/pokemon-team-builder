@@ -1,5 +1,6 @@
-Rotom-Heat. Electric/Fire type. medium speed.
+Rotom-Heat. Electric/Fire type. Base stats: 50/65/107/105/107/86 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Levitate.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Overheat, Volt Switch, Discharge, Thunderbolt, Electroweb, Trick, Will-O-Wisp, Protect.
 Common item: Choice Scarf, Sitrus Berry, Charti Berry.
 Frequent teammates: Sceptile-Mega, Garchomp, Basculegion, Aerodactyl, Floette-Mega.

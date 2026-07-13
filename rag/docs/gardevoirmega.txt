@@ -1,5 +1,6 @@
-Gardevoir-Mega. Psychic/Fairy type. fast.
+Gardevoir-Mega. Psychic/Fairy type. Base stats: 68/85/65/165/135/100 (HP/Atk/Def/SpA/SpD/Spe). fast.
 Ability: Pixilate.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Hyper Voice, Protect, Psychic, Trick Room, Psyshock, Vacuum Wave, Calm Mind, Moonblast.
 Common item: Gardevoirite.
 Frequent teammates: Maushold, Garchomp, Basculegion, Incineroar, Kingambit.

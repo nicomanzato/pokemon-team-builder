@@ -1,5 +1,6 @@
-Kommo-o. Dragon/Fighting type. medium speed.
+Kommo-o. Dragon/Fighting type. Base stats: 75/110/125/100/105/85 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Soundproof.
+Common EV spread: Modest — 2 HP / 32 SpA / 32 Spe.
 Common moves: Protect, Clanging Scales, Aura Sphere, Clangorous Soul, Drain Punch, Flamethrower, Vacuum Wave, Draco Meteor.
 Common item: Leftovers, Dragon Fang, Life Orb.
 Frequent teammates: Incineroar, Sinistcha, Metagross-Mega, Basculegion, Gengar-Mega.

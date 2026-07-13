@@ -1,5 +1,6 @@
-Greninja-Mega. Water/Dark type. very fast.
+Greninja-Mega. Water/Dark type. Base stats: 72/125/77/133/81/142 (HP/Atk/Def/SpA/SpD/Spe). very fast.
 Ability: Protean.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: Dark Pulse, Protect, Ice Beam, Blizzard, Hydro Pump, Water Shuriken, Weather Ball, Gunk Shot.
 Common item: Greninjite.
 Frequent teammates: Ninetales-Alola, Sneasler, Incineroar, Pelipper, Farigiraf.

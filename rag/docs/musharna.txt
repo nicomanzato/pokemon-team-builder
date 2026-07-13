@@ -1,5 +1,6 @@
-Musharna. Psychic type. very slow, great under Trick Room.
+Musharna. Psychic type. Base stats: 116/55/85/107/95/29 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Telepathy.
+Common EV spread: Relaxed — 9 HP / 32 Def / 25 SpD.
 Common moves: Trick Room, Psychic, Helping Hand, Protect, Ally Switch, Moonblast, Yawn, Calm Mind.
 Common item: Leftovers, Sitrus Berry, Mental Herb.
 Frequent teammates: Mawile-Mega, Eelektross-Mega, Sinistcha, Pelipper, Scrafty-Mega.

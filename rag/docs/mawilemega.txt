@@ -1,5 +1,6 @@
-Mawile-Mega. Steel/Fairy type. very slow, great under Trick Room.
+Mawile-Mega. Steel/Fairy type. Base stats: 50/105/125/55/95/50 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Huge Power.
+Common EV spread: Brave — 32 HP / 32 Atk / 2 SpD.
 Common moves: Play Rough, Sucker Punch, Protect, Iron Head, Swords Dance, Rock Slide, Brick Break, Knock Off.
 Common item: Mawilite.
 Frequent teammates: Farigiraf, Incineroar, Torkoal, Sinistcha, Basculegion.

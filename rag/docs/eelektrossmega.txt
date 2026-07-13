@@ -1,5 +1,6 @@
-Eelektross-Mega. Electric type. medium speed.
+Eelektross-Mega. Electric type. Base stats: 85/145/80/135/90/80 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: noability.
+Common EV spread: Timid — 1 HP / 32 SpA / 1 SpD / 32 Spe.
 Common moves: Protect, Thunderbolt, Flamethrower, Giga Drain, Discharge, Dragon Pulse, Coil, Drain Punch.
 Common item: Eelektrossite.
 Frequent teammates: Garchomp, Sinistcha, Whimsicott, Basculegion, Incineroar.

@@ -1,5 +1,6 @@
-Slowbro. Water/Psychic type. very slow, great under Trick Room.
+Slowbro. Water/Psychic type. Base stats: 95/75/110/100/80/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Regenerator.
+Common EV spread: Quiet — 32 HP / 32 SpA / 2 SpD.
 Common moves: Trick Room, Scald, Protect, Psychic, Ice Beam, Slack Off, Rain Dance, Yawn.
 Common item: Leftovers, Sitrus Berry, Focus Sash.
 Frequent teammates: Incineroar, Dragalge-Mega, Torkoal, Toxapex, Sinistcha.

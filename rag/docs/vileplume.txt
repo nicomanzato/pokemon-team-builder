@@ -1,5 +1,6 @@
-Vileplume. Grass/Poison type. very slow, great under Trick Room.
+Vileplume. Grass/Poison type. Base stats: 75/80/85/110/90/50 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Chlorophyll.
+Common EV spread: Timid — 2 HP / 32 SpA / 32 Spe.
 Common moves: After You, Sleep Powder, Sludge Bomb, Leaf Storm, Protect, Solar Beam, Energy Ball, Giga Drain.
 Common item: Focus Sash, Wide Lens, Life Orb.
 Frequent teammates: Torkoal, Farigiraf, Mawile-Mega, Pyroar-Mega, Staraptor.

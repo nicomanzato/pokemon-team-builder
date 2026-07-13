@@ -1,5 +1,6 @@
-Scizor-Mega. Bug/Steel type. medium speed.
+Scizor-Mega. Bug/Steel type. Base stats: 70/150/140/65/100/75 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Technician.
+Common EV spread: Adamant — 32 HP / 32 Atk / 2 SpD.
 Common moves: Bullet Punch, Protect, Swords Dance, Bug Bite, Close Combat, Knock Off, Dual Wingbeat, Pounce.
 Common item: Scizorite.
 Frequent teammates: Pelipper, Sinistcha, Incineroar, Basculegion, Archaludon.

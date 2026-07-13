@@ -1,5 +1,6 @@
-Bastiodon. Rock/Steel type. very slow, great under Trick Room.
+Bastiodon. Rock/Steel type. Base stats: 60/52/168/47/138/30 (HP/Atk/Def/SpA/SpD/Spe). very slow, great under Trick Room.
 Ability: Soundproof.
+Common EV spread: Relaxed — 32 HP / 32 Def / 2 SpD.
 Common moves: Body Press, Protect, Wide Guard, Iron Defense, Foul Play, Fissure, Roar, Heavy Slam.
 Common item: Leftovers, Chople Berry, quickclaw.
 Frequent teammates: Sinistcha, Grimmsnarl, Maushold, Hawlucha-Mega, Vanilluxe.

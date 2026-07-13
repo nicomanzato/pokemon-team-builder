@@ -1,5 +1,6 @@
-Sandaconda. Ground type. medium speed.
+Sandaconda. Ground type. Base stats: 72/107/125/65/70/71 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Sand Veil.
+Common EV spread: Careful — 32 HP / 2 Def / 32 SpD.
 Common moves: Minimize, Iron Defense, Body Press, High Horsepower, Rock Slide, Protect, Glare, Coil.
 Common item: Bright Powder, Leftovers, Choice Scarf.
 Frequent teammates: Tyranitar-Mega, Sinistcha, Basculegion, Milotic, Espathra.

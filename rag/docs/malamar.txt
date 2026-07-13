@@ -1,5 +1,6 @@
-Malamar. Dark/Psychic type. medium speed.
+Malamar. Dark/Psychic type. Base stats: 86/92/88/68/75/73 (HP/Atk/Def/SpA/SpD/Spe). medium speed.
 Ability: Contrary.
+Common EV spread: Relaxed — 32 HP / 2 Atk / 2 Def / 30 SpD.
 Common moves: Superpower, Trick Room, Knock Off, Protect, Psycho Cut, Topsy-Turvy, Skill Swap, Throat Chop.
 Common item: Leftovers, Roseli Berry, Sitrus Berry.
 Frequent teammates: Basculegion, Incineroar, Charizard-Mega-Y, Sylveon, Garchomp.
