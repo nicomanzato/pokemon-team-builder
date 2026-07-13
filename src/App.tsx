@@ -119,9 +119,7 @@ export default function App() {
           <p className="m-0 font-mono text-[13px] text-muted">{stage.note}</p>
         )}
         {stage.kind === 'error' && (
-          <p className="m-0 font-mono text-sm text-[#E56C66]">
-            {stage.message} — is Ollama running? (<code>ollama serve</code>)
-          </p>
+          <p className="m-0 font-mono text-sm text-[#E56C66]">{stage.message}</p>
         )}
       </section>
 
@@ -138,11 +136,18 @@ export default function App() {
               {copied ? 'Copied ✓' : 'Copy Showdown paste'}
             </button>
           </header>
-          <div className="grid grid-cols-[repeat(auto-fill,minmax(300px,1fr))] gap-3.5">
-            {stage.team.pokemon.map((set, i) => (
-              <TeamCard key={set.species} set={set} index={i} />
-            ))}
-          </div>
+          {stage.team.pokemon.length > 0 ? (
+            <div className="grid grid-cols-[repeat(auto-fill,minmax(300px,1fr))] gap-3.5">
+              {stage.team.pokemon.map((set, i) => (
+                <TeamCard key={set.species} set={set} index={i} />
+              ))}
+            </div>
+          ) : (
+            // No parser yet — show the raw model output.
+            <pre className="overflow-x-auto whitespace-pre-wrap rounded-lg border border-line bg-surface p-4 font-mono text-[13px] text-ink">
+              {stage.team.paste}
+            </pre>
+          )}
         </section>
       )}
 

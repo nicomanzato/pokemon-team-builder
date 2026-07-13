@@ -12,10 +12,6 @@ dist
 dist-ssr
 *.local
 
-# Local-only raw Showdown/Smogon data (source for the build scripts). Not shipped;
-# the build/ scripts turn it into the small JSON assets in ai/runtime/assets/.
-ai/build/data
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

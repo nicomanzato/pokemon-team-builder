@@ -11,8 +11,13 @@
   },
   "dependencies": {
     "@huggingface/transformers": "^4.2.0",
+    "@langchain/classic": "^1.0.40",
+    "@langchain/community": "^1.1.29",
+    "@langchain/core": "^1.2.2",
+    "@langchain/textsplitters": "^1.0.1",
     "@mlc-ai/web-llm": "^0.2.84",
     "@tailwindcss/vite": "^4.3.2",
+    "langchain": "^1.5.3",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "tailwindcss": "^4.3.2"

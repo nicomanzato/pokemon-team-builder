@@ -15,7 +15,7 @@ export const ENGINES: Engine[] = [
     id: 'browser-7b',
     label: 'Browser AI · 7B',
     description:
-      'Qwen2.5-7B + live retrieval on your own GPU via WebGPU. Best quality; downloads ~4.5 GB once (cached). Needs a GPU with enough memory.',
+      'Qwen2.5-7B on your own GPU via WebGPU. Raw model output (no RAG yet). Downloads ~4.5 GB once (cached); needs a GPU with enough memory.',
     available: true,
     generateTeam: makeBrowserEngine('Qwen2.5-7B-Instruct-q4f16_1-MLC', 'Qwen2.5-7B', '~4.5 GB'),
   },
@@ -23,7 +23,7 @@ export const ENGINES: Engine[] = [
     id: 'browser-3b',
     label: 'Browser AI · 3B',
     description:
-      'Qwen2.5-3B + live retrieval on your own GPU via WebGPU. Lighter download (~1.9 GB, cached) and runs on more machines; slightly lower quality.',
+      'Qwen2.5-3B on your own GPU via WebGPU. Raw model output (no RAG yet). Lighter download (~1.9 GB, cached), runs on more machines.',
     available: true,
     generateTeam: makeBrowserEngine('Qwen2.5-3B-Instruct-q4f16_1-MLC', 'Qwen2.5-3B', '~1.9 GB'),
   },
