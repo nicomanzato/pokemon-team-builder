@@ -5,7 +5,7 @@ legal, ready-to-import [Pokemon Showdown](https://play.pokemonshowdown.com/) tea
 the current official VGC format (**Pokemon Champions, Regulation Set M-B**).
 
 <p align="center">
-  <img src="public/assets/demo.png" width="500" />
+  <img src="public/assets/demo.png" />
 </p>
 
 ## Status
